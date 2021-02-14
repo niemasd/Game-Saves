@@ -1,1 +1,2 @@
 * **Location:** `%USERPROFILE%\Documents\My Games\FINAL FANTASY XII THE ZODIAC AGE\292733975847239680\`
+* **Last Played:** 2020-06-07
