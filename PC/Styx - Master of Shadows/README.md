@@ -1,1 +1,1 @@
-* Location: `%USERPROFILE%\Documents\My Games\Styx\Save\`
+* **Location:** `%USERPROFILE%\Documents\My Games\Styx\Save\`
