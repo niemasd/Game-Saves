@@ -1,1 +1,1 @@
-* Location: `%USERPROFILE%\Documents\My Games\Secret of Mana\`
+* **Location:** `%USERPROFILE%\Documents\My Games\Secret of Mana\`
