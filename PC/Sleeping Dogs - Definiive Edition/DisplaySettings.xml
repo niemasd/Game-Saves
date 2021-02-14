@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<DisplaySettings>
+	<Version>1</Version>
+	<AdapterUID>-693201614</AdapterUID>
+	<MonitorUID>-2127736055</MonitorUID>
+	<ResolutionWidth>3840</ResolutionWidth>
+	<ResolutionHeight>2160</ResolutionHeight>
+	<RefreshRateNumerator>60000</RefreshRateNumerator>
+	<RefreshRateDenominator>1000</RefreshRateDenominator>
+	<ScalingMode>default</ScalingMode>
+	<ScanlineMode>progressive</ScanlineMode>
+	<Fullscreen>1</Fullscreen>
+	<Stereo3D>0</Stereo3D>
+	<StereoEyeDistance>0.0300000#3CF5C28F</StereoEyeDistance>
+	<VSync>1</VSync>
+	<AAQuality>2</AAQuality>
+	<TextureDetailLevel>1</TextureDetailLevel>
+	<ShadowRes>2</ShadowRes>
+	<ShadowFilter>1</ShadowFilter>
+	<MotionBlur>2</MotionBlur>
+	<SSAO>1</SSAO>
+	<FPSLimiter>1</FPSLimiter>
+	<Option3DDepth>0</Option3DDepth>
+	<Option3DConvergence>0</Option3DConvergence>
+	<WorldDensity>3</WorldDensity>
+	<GlobalSetting>0</GlobalSetting>
+	<EnableLowResBuffer>1</EnableLowResBuffer>
+</DisplaySettings>
