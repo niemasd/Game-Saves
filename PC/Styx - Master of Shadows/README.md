@@ -1,0 +1,1 @@
+* Location: `%USERPROFILE%\Documents\My Games\Styx\Save\`
