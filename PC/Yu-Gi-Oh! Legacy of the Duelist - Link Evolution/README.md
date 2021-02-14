@@ -1,2 +1,2 @@
-* **Location:** `<STEAM_DIR>\userdata\42802442\1150640\remote\`
+* **Location:** `<STEAM_DIR>\userdata\<USER_ID>\1150640\remote\`
 * **Last Played:** 2020-11-21
