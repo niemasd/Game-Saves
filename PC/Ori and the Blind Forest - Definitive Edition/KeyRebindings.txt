@@ -1,0 +1,48 @@
+Keyboard Rebindings
+--------
+Activate Key Rebinding: False
+--------
+Movement Left: A, LeftArrow
+Movement Right: D, RightArrow
+Movement Down: S, DownArrow
+Movement Up: W, UpArrow
+Menu Left: A, LeftArrow
+Menu Right: D, RightArrow
+Menu Down: S, DownArrow
+Menu Up: W, UpArrow
+Menu Previous: K, PageUp
+Menu Next: L, PageDown
+Proceed: Space, Return
+Soul Link: E
+Jump: Space, Z, Y
+Grab: LeftShift, RightShift
+Spirit Flame: X, Mouse0
+Bash: C, Mouse1
+Glide: LeftShift, RightShift
+Charge Jump: UpArrow, W
+Select: Tab
+Start: Escape
+Cancel: Escape, Mouse1
+Grenade: R
+Dash: LeftControl, RightControl
+Left Stick: Alpha7
+Debug Menu (shhh): Alpha8
+Zoom In World Map: RightShift, LeftShift
+Zoom Out World Map: RightControl, LeftControl
+Copy: C
+Delete: Delete
+Focus: F
+Filter: F
+Legend: L
+--------
+Usage:
+- There is no guarantee of the game still being playable after key rebinding. Please use with caution and delete this file in case of breakage
+- Spelling and syntactical errors will result in the key rebindings not registering properly, and the game will get set to default
+- Deleting this file will result in this file being recreated by the game, containing the default settings
+--------
+Don't forget to restart the game after editing this file!
+Don't forget to close this file before restarting the game!
+--------
+Mouse0 is left mouse button
+Mouse1 is right mouse button
+AlphaX is the number X on the keyboard (not num pad, the stuff above your keys)
