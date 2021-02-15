@@ -1,0 +1,935 @@
+{
+  "achievements": [
+    "acv_2_import_save",
+    "acv_godstone_aselei",
+    "acv_class_shieldmaiden",
+    "acv_class_wanderer",
+    "acv_class_berserk"
+  ],
+  "battleMusicDefUrl": "saga2/scene/battle/music/ch9_intro.btlmusic.json.z",
+  "build": "2.59.01",
+  "build_first": "2.59.01",
+  "campSceneStateStoreTravelLocator": {
+    "travel_id": "travel_1",
+    "travel_position_str": "1801.9028"
+  },
+  "campSceneStateStoreUrl": "saga2/scene/world/wld_bindal/wld_bindal.json.z",
+  "campSeed": 854455413,
+  "camped": true,
+  "caravanName": "bolverk_caravan",
+  "caravans": [
+    {
+      "leader": "rook",
+      "legend": {
+        "items": [
+          "itm_rest_arm_2:2",
+          "itm_resist_str_1:7"
+        ],
+        "party": [
+          "oddleif",
+          "rook",
+          "hakon"
+        ],
+        "renown": 9,
+        "roster": [
+          "nid",
+          "oddleif",
+          "rook",
+          "aleo",
+          "ekkill",
+          "griss",
+          "iver",
+          "bersi",
+          "krumr",
+          "hakon",
+          "ludin",
+          "tryggvi",
+          "juno"
+        ]
+      },
+      "map_spline_id": "wld_ormsdalr",
+      "map_spline_key": "",
+      "map_spline_t": 2,
+      "name": "hero_caravan",
+      "travel_locator": {
+      },
+      "vars": {
+        "banner": "1",
+        "biome": "2",
+        "danger": "10",
+        "danger_bonus_combatants": "0",
+        "heraldry_enabled": "1",
+        "morale": "60",
+        "morale_category": "3",
+        "num_fighters": "87",
+        "num_peasants": "82",
+        "num_varl": "275",
+        "renown": "9",
+        "supplies": "95",
+        "tot_battles": "8",
+        "tot_battles_lost": "2",
+        "tot_battles_won": "6",
+        "tot_challenges": "2",
+        "tot_days_rested": "5",
+        "tot_injuries": "10",
+        "tot_kills": "43",
+        "tot_kills_challenge": "6",
+        "tot_renown_gained": "66",
+        "tot_renown_promote": "100",
+        "tot_renown_spent": "103",
+        "tot_renown_supplies": "3",
+        "tot_sparring": "1",
+        "tot_war_casualty_fighters": "13",
+        "tot_war_casualty_peasants": "31",
+        "tot_war_casualty_varl": "34",
+        "weather_snow_color": "4290754981",
+        "weather_snow_density": "0.7",
+        "weather_wind": "0.7"
+      }
+    },
+    {
+      "leader": "bolverk",
+      "legend": {
+        "items": [],
+        "party": [
+          "folka",
+          "sparr",
+          "oli",
+          "krumr",
+          "bolverk"
+        ],
+        "renown": 19,
+        "roster": [
+          "bolverk",
+          "oli",
+          "folka",
+          "sparr",
+          "bersi",
+          "krumr"
+        ]
+      },
+      "map_spline_id": "wld_bindal",
+      "map_spline_key": "",
+      "map_spline_t": 0.27,
+      "name": "bolverk_caravan",
+      "vars": {
+        "banner": "2",
+        "camped": "1",
+        "danger": "10",
+        "danger_bonus_combatants": "2",
+        "heraldry_enabled": "1",
+        "morale": "90",
+        "morale_bonus_threat": "-2",
+        "morale_bonus_willpower": "2",
+        "morale_category": "5",
+        "num_fighters": "72",
+        "num_varl": "4",
+        "renown": "19",
+        "supplies": "13",
+        "tot_battles": "3",
+        "tot_battles_won": "3",
+        "tot_injuries": "5",
+        "tot_kills": "17",
+        "tot_renown_gained": "43",
+        "tot_renown_promote": "24",
+        "tot_renown_spent": "24"
+      }
+    },
+    {
+      "leader": "",
+      "legend": {
+        "items": [],
+        "party": [],
+        "renown": 0,
+        "roster": []
+      },
+      "map_spline_id": "",
+      "map_spline_key": "",
+      "map_spline_t": 0,
+      "name": "lundar_caravan_container",
+      "vars": {
+        "banner": "1"
+      }
+    },
+    {
+      "leader": "iver",
+      "legend": {
+        "items": [],
+        "party": [],
+        "renown": 0,
+        "roster": [
+          "iver",
+          "eyvind",
+          "juno"
+        ]
+      },
+      "map_spline_id": "",
+      "map_spline_key": "",
+      "map_spline_t": 0,
+      "name": "iver_caravan",
+      "vars": {
+        "banner": "1"
+      }
+    }
+  ],
+  "cast_info": {
+    "aleo": {
+      "stat_ups": {
+        "ARMOR": 1,
+        "EXERTION": 1,
+        "KILLS": 6,
+        "RANK": 3,
+        "STRENGTH": 3,
+        "WILLPOWER": 1
+      }
+    },
+    "alette": {
+      "item": "itm_arm_3:5",
+      "stat_ups": {
+        "ARMOR": 2,
+        "ARMOR_BREAK": 1,
+        "EXERTION": 2,
+        "KILLS": 27,
+        "RANK": 4,
+        "STRENGTH": 3
+      }
+    },
+    "bak": {
+      "stat_ups": {
+        "ARMOR": 2,
+        "KILLS": 4,
+        "RANK": 2,
+        "STRENGTH": 1,
+        "WILLPOWER": 1
+      }
+    },
+    "bersi": {
+      "stat_ups": {
+        "INJURY": 3,
+        "KILLS": 8,
+        "RANK": 2,
+        "STRENGTH": 4
+      }
+    },
+    "bolverk": {
+      "stat_ups": {
+        "ARMOR": 1,
+        "ARMOR_BREAK": 1,
+        "INJURY": 3,
+        "KILLS": 14,
+        "RANK": 4,
+        "STRENGTH": 1,
+        "WILLPOWER": 5
+      }
+    },
+    "canary": {
+      "actives": [
+        {
+          "id": "abl_pin",
+          "level": 3,
+          "rankAcquired": 2
+        },
+        {
+          "id": "abl_poison_tipped",
+          "level": 2,
+          "rankAcquired": 6
+        }
+      ],
+      "stat_ups": {
+        "ARMOR": 3,
+        "ARMOR_BREAK": 1,
+        "EXERTION": 2,
+        "KILLS": 22,
+        "RANK": 7,
+        "STRENGTH": 4,
+        "WILLPOWER": 4
+      }
+    },
+    "dagr": {
+      "stat_ups": {
+        "ARMOR_BREAK": 1,
+        "EXERTION": 1,
+        "KILLS": 4,
+        "RANK": 2,
+        "STRENGTH": 1,
+        "WILLPOWER": 1
+      }
+    },
+    "derdriu": {
+      "actives": [
+        {
+          "id": "abl_poison_tipped",
+          "level": 3,
+          "rankAcquired": 2
+        }
+      ],
+      "stat_ups": {
+        "ARMOR": 2,
+        "ARMOR_BREAK": 1,
+        "EXERTION": 1,
+        "KILLS": 10,
+        "RANK": 4,
+        "STRENGTH": 2,
+        "WILLPOWER": 2
+      }
+    },
+    "dytch": {
+      "stat_ups": {
+        "ARMOR": 1,
+        "ARMOR_BREAK": 2,
+        "EXERTION": 1,
+        "KILLS": 7,
+        "RANK": 3,
+        "WILLPOWER": 2
+      }
+    },
+    "egil": {
+      "stat_ups": {
+        "KILLS": 1,
+        "RANK": 3
+      }
+    },
+    "eirik": {
+      "stat_ups": {
+        "ARMOR_BREAK": 2,
+        "KILLS": 3,
+        "RANK": 2
+      }
+    },
+    "ekkill": {
+      "item": "itm_arm_1b:1",
+      "stat_ups": {
+        "KILLS": 5,
+        "RANK": 2
+      }
+    },
+    "eyvind": {
+      "item": "itm_resist_str_2:4",
+      "stat_ups": {
+        "ARMOR": 3,
+        "BASE_UPGRADES": 8,
+        "EXERTION": 1,
+        "INJURY": 2,
+        "KILLS": 8,
+        "STRENGTH": 2,
+        "WILLPOWER": 2
+      }
+    },
+    "fasolt": {
+      "stat_ups": {
+        "ARMOR": 1,
+        "KILLS": 13,
+        "RANK": 2,
+        "STRENGTH": 3
+      }
+    },
+    "finnr": {
+      "stat_ups": {
+        "ARMOR_BREAK": 1,
+        "EXERTION": 1,
+        "KILLS": 5,
+        "RANK": 2,
+        "WILLPOWER": 2
+      }
+    },
+    "folka": {
+      "stat_ups": {
+        "ARMOR": 1,
+        "ARMOR_BREAK": 1,
+        "INJURY": 2,
+        "KILLS": 10,
+        "RANK": 3,
+        "STRENGTH": 2,
+        "WILLPOWER": 2
+      }
+    },
+    "griss": {
+      "stat_ups": {
+        "KILLS": 7,
+        "RANK": 2
+      }
+    },
+    "gudmundr": {
+      "stat_ups": {
+        "ARMOR": 2,
+        "ARMOR_BREAK": 1,
+        "EXERTION": 1,
+        "KILLS": 7,
+        "RANK": 3,
+        "STRENGTH": 1,
+        "WILLPOWER": 1
+      }
+    },
+    "gunnulf": {
+      "stat_ups": {
+        "KILLS": 3,
+        "RANK": 2,
+        "STRENGTH": 2
+      }
+    },
+    "hakon": {
+      "item": "itm_str_1:4",
+      "stat_ups": {
+        "ARMOR": 2,
+        "ARMOR_BREAK": 1,
+        "EXERTION": 1,
+        "KILLS": 25,
+        "RANK": 4,
+        "STRENGTH": 4
+      }
+    },
+    "hogun": {
+      "stat_ups": {
+        "ARMOR": 1,
+        "ARMOR_BREAK": 1,
+        "KILLS": 4,
+        "RANK": 2,
+        "STRENGTH": 1,
+        "WILLPOWER": 1
+      }
+    },
+    "holfi": {
+      "stat_ups": {
+        "ARMOR": 2,
+        "ARMOR_BREAK": 2,
+        "EXERTION": 1,
+        "KILLS": 9,
+        "RANK": 3,
+        "STRENGTH": 1
+      }
+    },
+    "iver": {
+      "actives": [
+        {
+          "id": "abl_tempest",
+          "level": 1,
+          "rankAcquired": 7
+        }
+      ],
+      "item": "itm_str_3:8",
+      "stat_ups": {
+        "ARMOR": 4,
+        "ARMOR_BREAK": 1,
+        "EXERTION": 2,
+        "KILLS": 43,
+        "RANK": 6,
+        "STRENGTH": 5
+      }
+    },
+    "josurr": {
+      "stat_ups": {
+        "ARMOR": 3,
+        "ARMOR_BREAK": 1,
+        "EXERTION": 1,
+        "STRENGTH": 3,
+        "WILLPOWER": 1
+      }
+    },
+    "juno": {
+      "stat_ups": {
+        "ARMOR_BREAK": 1,
+        "BASE_UPGRADES": 6,
+        "EXERTION": 1,
+        "KILLS": 3,
+        "RANK": 2
+      }
+    },
+    "krumr": {
+      "actives": [
+        {
+          "id": "abl_tempest",
+          "level": 2,
+          "rankAcquired": 7
+        }
+      ],
+      "item": "itm_brk_3:6",
+      "stat_ups": {
+        "ARMOR": 2,
+        "ARMOR_BREAK": 2,
+        "EXERTION": 2,
+        "KILLS": 41,
+        "RANK": 7,
+        "STRENGTH": 4
+      },
+      "talents": {
+        "tal_arm_0": 1,
+        "tal_str_0": 3
+      }
+    },
+    "ludin": {
+      "stat_ups": {
+        "ARMOR_BREAK": 1,
+        "EXERTION": 1,
+        "KILLS": 11,
+        "RANK": 2,
+        "STRENGTH": 2
+      }
+    },
+    "mogr": {
+      "stat_ups": {
+        "ARMOR": 4,
+        "KILLS": 16,
+        "RANK": 3,
+        "STRENGTH": 2
+      }
+    },
+    "mogun": {
+      "stat_ups": {
+        "ARMOR": 2,
+        "KILLS": 4,
+        "RANK": 2,
+        "STRENGTH": 1,
+        "WILLPOWER": 1
+      }
+    },
+    "narrator": {
+      "stat_ups": {
+        "ARMOR": 3,
+        "ARMOR_BREAK": 2,
+        "EXERTION": 1,
+        "KILLS": 3,
+        "RANK": 2,
+        "STRENGTH": 3,
+        "WILLPOWER": 1
+      }
+    },
+    "nid": {
+      "item": "itm_dodge_3:3",
+      "stat_ups": {
+        "KILLS": 3,
+        "RANK": 1,
+        "STRENGTH": 2
+      }
+    },
+    "nikels": {
+      "stat_ups": {
+        "ARMOR_BREAK": 1,
+        "EXERTION": 1,
+        "KILLS": 3,
+        "RANK": 2,
+        "STRENGTH": 1,
+        "WILLPOWER": 1
+      }
+    },
+    "oddleif": {
+      "item": "itm_2_wil_1:3",
+      "stat_ups": {
+        "ARMOR": 1,
+        "ARMOR_BREAK": 1,
+        "EXERTION": 2,
+        "KILLS": 14,
+        "RANK": 4,
+        "STRENGTH": 2,
+        "WILLPOWER": 2
+      }
+    },
+    "oli": {
+      "stat_ups": {
+        "ARMOR": 1,
+        "EXERTION": 1,
+        "INJURY": 2,
+        "KILLS": 4,
+        "RANK": 2,
+        "STRENGTH": 1,
+        "WILLPOWER": 1
+      }
+    },
+    "roech": {
+      "actives": [
+        {
+          "id": "abl_mulekick",
+          "level": 3,
+          "rankAcquired": 2
+        }
+      ],
+      "stat_ups": {
+        "ARMOR": 2,
+        "ARMOR_BREAK": 1,
+        "EXERTION": 1,
+        "KILLS": 10,
+        "RANK": 4,
+        "STRENGTH": 1,
+        "WILLPOWER": 3
+      }
+    },
+    "rook": {
+      "actives": [
+        {
+          "id": "abl_call_to_arms",
+          "level": 1,
+          "rankAcquired": 7
+        }
+      ],
+      "item": "item_crit_2:9",
+      "stat_ups": {
+        "ARMOR": 3,
+        "ARMOR_BREAK": 2,
+        "EXERTION": 2,
+        "KILLS": 31,
+        "RANK": 6,
+        "STRENGTH": 2,
+        "WILLPOWER": 2
+      },
+      "talents": {
+        "tal_str_0": 1
+      }
+    },
+    "rugga": {
+      "stat_ups": {
+        "ARMOR_BREAK": 1,
+        "EXERTION": 1,
+        "KILLS": 3,
+        "RANK": 2,
+        "WILLPOWER": 2
+      }
+    },
+    "scathach": {
+      "actives": [
+        {
+          "id": "abl_trample",
+          "level": 3,
+          "rankAcquired": 2
+        }
+      ],
+      "stat_ups": {
+        "ARMOR": 1,
+        "ARMOR_BREAK": 2,
+        "EXERTION": 1,
+        "KILLS": 10,
+        "RANK": 4,
+        "STRENGTH": 3,
+        "WILLPOWER": 1
+      }
+    },
+    "sigbjorn": {
+      "stat_ups": {
+        "BASE_UPGRADES": 4,
+        "KILLS": 10,
+        "WILLPOWER": 4
+      }
+    },
+    "sparr": {
+      "stat_ups": {
+        "ARMOR": 1,
+        "EXERTION": 2,
+        "INJURY": 1,
+        "KILLS": 7,
+        "RANK": 3,
+        "STRENGTH": 2,
+        "WILLPOWER": 1
+      }
+    },
+    "tryggvi": {
+      "item": "item_crit_3b:2",
+      "stat_ups": {
+        "ARMOR": 1,
+        "ARMOR_BREAK": 1,
+        "EXERTION": 1,
+        "KILLS": 5,
+        "RANK": 2,
+        "WILLPOWER": 1
+      }
+    },
+    "yrsa": {
+      "appearanceIndex": 3,
+      "stat_ups": {
+        "ARMOR_BREAK": 2,
+        "KILLS": 3,
+        "RANK": 2
+      }
+    },
+    "zefr": {
+      "stat_ups": {
+        "ARMOR": 2,
+        "EXERTION": 1,
+        "KILLS": 10,
+        "RANGEMOD_MELEE": 1,
+        "RANK": 4,
+        "STRENGTH": 1,
+        "WILLPOWER": 4
+      }
+    }
+  },
+  "currentMusicId": "saga2:saga2/music/ch9/9m1-L2",
+  "date": 1597712434993,
+  "date_start": 1597589033964,
+  "day": 19,
+  "globalVars": {
+    "1_eirikgone": "1",
+    "1_forestfire": "1",
+    "1_grissjoins1": "1",
+    "6_sigrday3": "1",
+    "8_aleovillage_market": "1",
+    "8_aleovillage_rest": "1",
+    "8_aleovillage_talkies": "1",
+    "8_aselei_gift": "1",
+    "8_battle_ormsa_oddleif": "1",
+    "8_battle_river2": "1",
+    "8_battle_riverdebris": "1",
+    "8_btl_ormsdalr_yrsa_arrived": "1",
+    "8_btl_riverdebris_part2": "1",
+    "8_btl_riverdebris_spoke": "1",
+    "8_btl_waterfall_landing_direguard": "1",
+    "8_btl_waterfall_landing_oddleif": "1",
+    "8_btl_waterfall_landing_roa_countdown": "3",
+    "8_btl_waterfall_landing_skulker_count": "2",
+    "8_godstone_arrived": "1",
+    "8_ormsachasm_bridge": "1",
+    "8_ormsdalr_arrive": "1",
+    "8_ormsdalr_hud": "1",
+    "8_ormsdalr_ruins": "0",
+    "8_pop_villageintro": "1",
+    "8_renown_folka": "1",
+    "8_rnd_fishing": "1",
+    "8_rnd_shipkids_1": "1",
+    "8_rnd_shipkids_2": "1",
+    "8_rnd_sinking": "1",
+    "8_ship_additions": "2",
+    "8_still_learning": "0",
+    "9_battle_oli_counter": "28",
+    "9_battle_village": "1",
+    "9_bolverk_boast": "1",
+    "9_cartfight": "1",
+    "9_cartfight_allstanding": "0",
+    "9_fridrik_joins": "1",
+    "9_meet_oli": "1",
+    "9_oli_quests": "1",
+    "9_ravens_supplies": "4",
+    "9_rnd_hunting": "1",
+    "9_sparr_intro": "1",
+    "9_village_barrier_destroyed": "23",
+    "_day_calc_count": "1",
+    "_day_calc_morale": "-10",
+    "_day_calc_supplies": "-2",
+    "acv_2_import_save": "1",
+    "acv_class_berserk": "1",
+    "acv_class_shieldmaiden": "1",
+    "acv_class_wanderer": "1",
+    "acv_godstone_aselei": "1",
+    "aleo_state": "2",
+    "battle_victory": "1",
+    "bolverk_aleovillage": "1",
+    "camptrained_scenario": "1",
+    "day": "19.695649700465157",
+    "dlc_survival": "1",
+    "dredge_baby": "1",
+    "egil_state": "0",
+    "eirik_state": "0",
+    "forage_supplies": "9",
+    "game_progress": "10",
+    "gunnulf_state": "0",
+    "hero": "rook",
+    "hero_rook": "1",
+    "hogun_state": "0",
+    "lang": "en",
+    "locale_en": "1",
+    "market_available_supplies": "20",
+    "market_supplies_per_renown": "1",
+    "mogr_state": "0",
+    "mogun_state": "0",
+    "nid_join": "1",
+    "pillaging": "1",
+    "play_minutes": "149",
+    "prg_battles_fought": "11",
+    "prg_battles_lost": "2",
+    "prg_battles_won": "9",
+    "prg_class_berserk": "4",
+    "prg_class_poet": "1",
+    "prg_class_shieldmaiden": "3",
+    "prg_class_wanderer": "3",
+    "prg_demolition": "23",
+    "prg_fighters": "117",
+    "prg_min_difficulty": "2",
+    "prg_min_morale_category": "3",
+    "prg_renown_gain": "109",
+    "saga1_bridge_destroyed": "1",
+    "saga1_einartoft_bridge": "0",
+    "save_imported_tbs1": "1",
+    "sigbjorn_state": "0",
+    "survival_reload_required": "false",
+    "tip_assemble_order": "1",
+    "tip_assemble_unfull": "1",
+    "tip_battle_deploy": "1",
+    "tip_battle_deploy_ready": "1",
+    "tip_battle_horn": "1",
+    "tip_battle_horn_full": "1",
+    "tip_battle_morale_3": "1",
+    "tip_battle_morale_4": "1",
+    "tip_battle_morale_5": "1",
+    "tip_battle_unit_exhausted": "1",
+    "tip_battle_unit_hazard": "1",
+    "tip_battle_unit_morale": "1",
+    "tip_camp_injury": "1",
+    "tip_camp_morale_3": "1",
+    "tip_camp_morale_4": "1",
+    "tip_camp_morale_5": "1",
+    "tip_camp_upgrades": "1",
+    "tip_heroes_points": "1",
+    "tip_heroes_talent": "1",
+    "tip_roster_injured": "1",
+    "tip_roster_items": "1",
+    "tip_travel_injury_next_time": "140",
+    "tip_travel_injury_remaining": "1",
+    "tips_aleovillage_market": "1",
+    "tips_aleovillage_travel_hud": "1",
+    "tut_difficulty": "1",
+    "tut_heroes_ability": "1",
+    "tut_heroes_details": "1",
+    "tutorial_speak_miss_remaining": "1",
+    "tutorial_tip_miss_remaining": "0",
+    "war_battle": "1",
+    "war_danger": "10",
+    "war_enemy_power": "1000",
+    "war_player_power": "725",
+    "yrsa_state": "0"
+  },
+  "halted": true,
+  "id": "resume",
+  "last_chapter_save_id": "sav_chapter_09",
+  "last_checkpoint_save_id": "sav_chapter_09",
+  "marketItemDefIds": [
+    "itm_str_2",
+    "itm_2_tal_bonus_brk_2",
+    "itm_kill_wil_3",
+    "itm_2_regen_arm_1",
+    "itm_dodge_3b"
+  ],
+  "metrics": {
+    "global": {
+      "minus": {
+        "bolverk_caravan.renown": 24,
+        "bolverk_caravan.supplies": 4,
+        "hero_caravan.num_population": 167,
+        "hero_caravan.renown": 37,
+        "hero_caravan.supplies": 135
+      },
+      "plus": {
+        "bolverk_caravan.num_population": 76,
+        "bolverk_caravan.renown": 43,
+        "bolverk_caravan.supplies": 17,
+        "global.play_minutes": 62,
+        "hero_caravan.num_population": 50,
+        "hero_caravan.renown": 41,
+        "hero_caravan.supplies": 46
+      },
+      "total": {
+        "10_hero_caravan.num_population": 0,
+        "10_hero_caravan.renown": 0,
+        "10_hero_caravan.supplies": 0,
+        "11_bolverk_caravan.num_population": 0,
+        "11_bolverk_caravan.renown": 0,
+        "11_bolverk_caravan.supplies": 0,
+        "12_hero_caravan.num_population": 0,
+        "12_hero_caravan.renown": 0,
+        "12_hero_caravan.supplies": 0,
+        "13_bolverk_caravan.num_population": 0,
+        "13_bolverk_caravan.renown": 0,
+        "13_bolverk_caravan.supplies": 0,
+        "14_hero_caravan.num_population": 0,
+        "14_hero_caravan.renown": 0,
+        "14_hero_caravan.supplies": 0,
+        "9_bolverk_caravan.num_population": 0,
+        "9_bolverk_caravan.renown": 0,
+        "9_bolverk_caravan.supplies": 0,
+        "bolverk_caravan.num_population": 76,
+        "bolverk_caravan.renown": 19,
+        "bolverk_caravan.supplies": 13,
+        "cin_start.num_population": 0,
+        "cin_start.renown": 0,
+        "cin_start.supplies": 0,
+        "global.play_minutes": 149,
+        "hero_caravan.num_population": 444,
+        "hero_caravan.renown": 9,
+        "hero_caravan.supplies": 95,
+        "iver_caravan.num_population": 0,
+        "iver_caravan.renown": 0,
+        "iver_caravan.supplies": 0,
+        "juno_caravan.num_population": 0,
+        "juno_caravan.renown": 0,
+        "juno_caravan.supplies": 0,
+        "lundar_caravan_container.num_population": 0,
+        "lundar_caravan_container.renown": 0,
+        "lundar_caravan_container.supplies": 0,
+        "matt_caravan.num_population": 0,
+        "matt_caravan.renown": 0,
+        "matt_caravan.supplies": 0,
+        "placeholder.num_population": 0,
+        "placeholder.renown": 0,
+        "placeholder.supplies": 0
+      }
+    }
+  },
+  "pageView": "saga_sav_chapter_08",
+  "rng": {
+    "_sampleCount": 1774,
+    "inext": 14,
+    "inextp": 35,
+    "seed": -138800147,
+    "seedArray": [
+      0,
+      986869209,
+      1451359190,
+      566358022,
+      1078477681,
+      1668910656,
+      1345875696,
+      2021734737,
+      582198205,
+      854455413,
+      872945102,
+      4397508,
+      747124983,
+      718267882,
+      58930658,
+      671837793,
+      1597388042,
+      1533270801,
+      123698560,
+      1079845045,
+      33429134,
+      479138169,
+      944723909,
+      1450246815,
+      202080690,
+      2072040560,
+      661495953,
+      1496530167,
+      463429107,
+      557611213,
+      2052291285,
+      1036292889,
+      244833315,
+      759743057,
+      1848394880,
+      673816284,
+      1400707142,
+      1985528034,
+      1044049425,
+      1615821339,
+      947066820,
+      229766014,
+      1377321395,
+      892759907,
+      1463964217,
+      272408869,
+      1858020650,
+      1551483440,
+      1943020062,
+      1700051937,
+      1011385197,
+      1328177292,
+      1439649215,
+      1775876062,
+      1878564213,
+      1539721516
+    ]
+  },
+  "saga_id": "saga2",
+  "sceneUrl": "saga2/scene/village/vlg_forest2/vlg_forest2.json.z",
+  "selectedVariable": "hero_rook",
+  "startHappening": "start",
+  "thumbnail": "",
+  "travelLocator": {
+  },
+  "version": 2
+}
