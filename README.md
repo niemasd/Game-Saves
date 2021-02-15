@@ -6,3 +6,4 @@ My backups of game saves
 
 ## Games I Need to Back Up
 * Mirror's Edge (PC)
+* Mirror's Edge: Catalyst (PC)
