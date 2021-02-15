@@ -1,0 +1,67 @@
+"bonus_map_saved_data"
+{
+	"bonusfiles"
+	{
+		"scripts/challenges/challenges.bns"
+		{
+			"#Bonus_Map_TC13Challenges"
+			{
+				"lock"		"0"
+			}
+			"#Bonus_Map_TC14Challenges"
+			{
+				"lock"		"0"
+			}
+			"#Bonus_Map_TC15Challenges"
+			{
+				"lock"		"0"
+			}
+			"#Bonus_Map_TC16Challenges"
+			{
+				"lock"		"0"
+			}
+			"#Bonus_Map_TC17Challenges"
+			{
+				"lock"		"0"
+			}
+			"#Bonus_Map_TC18Challenges"
+			{
+				"lock"		"0"
+			}
+		}
+		"scripts/advanced_chambers"
+		{
+			"#Bonus_Map_AdvancedChambers"
+			{
+				"lock"		"0"
+			}
+		}
+		"scripts/advanced_chambers/advanced_chambers.bns"
+		{
+			"#Bonus_Map_TC13Advanced"
+			{
+				"complete"		"1"
+			}
+			"#Bonus_Map_TC14Advanced"
+			{
+				"complete"		"1"
+			}
+			"#Bonus_Map_TC15Advanced"
+			{
+				"complete"		"1"
+			}
+			"#Bonus_Map_TC16Advanced"
+			{
+				"complete"		"1"
+			}
+			"#Bonus_Map_TC17Advanced"
+			{
+				"complete"		"1"
+			}
+			"#Bonus_Map_TC18Advanced"
+			{
+				"complete"		"1"
+			}
+		}
+	}
+}
