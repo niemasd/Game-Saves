@@ -1,0 +1,91 @@
+{
+	"SettingsOverrideVersion" : {
+		"__type" : "System.String",
+		"value" : "0.5.1"
+	},
+	"MatchPreferences" : {
+		"__type" : "Assets._GoRPG.Scripts.Data.MatchDetail,Assembly-CSharp",
+		"value" : {
+			"<MatchID>k__BackingField" : "9c1feaf2-e81f-4a9b-8320-8df192e87dba",
+			"<BattleName>k__BackingField" : null,
+			"<InvasionID>k__BackingField" : -1,
+			"<MatchDateTime>k__BackingField" : {
+				"ticks" : 637443419563486172
+			},
+			"<Player>k__BackingField" : {
+				"<PlayerName>k__BackingField" : "Black",
+				"<Rank>k__BackingField" : null,
+				"<PlayerColor>k__BackingField" : 1,
+				"<PlayerType>k__BackingField" : 0,
+				"<AIDefinition>k__BackingField" : null,
+				"<MainTimeMinutesRemaining>k__BackingField" : 20,
+				"<ByoyomiCountRemaining>k__BackingField" : 5
+			},
+			"<Opponent>k__BackingField" : {
+				"<PlayerName>k__BackingField" : "White",
+				"<Rank>k__BackingField" : null,
+				"<PlayerColor>k__BackingField" : 2,
+				"<PlayerType>k__BackingField" : 0,
+				"<AIDefinition>k__BackingField" : null,
+				"<MainTimeMinutesRemaining>k__BackingField" : 20,
+				"<ByoyomiCountRemaining>k__BackingField" : 5
+			},
+			"<BoardSize>k__BackingField" : 9,
+			"<Komi>k__BackingField" : 6.5,
+			"<Handicap>k__BackingField" : 0,
+			"<MainTimeMinutes>k__BackingField" : 20,
+			"<ByoyomiSeconds>k__BackingField" : 30,
+			"<ByoyomiCount>k__BackingField" : 5
+		}
+	},
+	"ChallengePreferences" : {
+		"__type" : "Assets._GoRPG.Scripts.Data.OGSRestModels+Out+Challenge,Assembly-CSharp",
+		"value" : {
+			"<AgaRanked>k__BackingField" : false,
+			"<ChallengerColor>k__BackingField" : "automatic",
+			"<Initialized>k__BackingField" : false,
+			"<MinRanking>k__BackingField" : -1000,
+			"<MaxRanking>k__BackingField" : 1000,
+			"<Game>k__BackingField" : {
+				"<Name>k__BackingField" : "Friendly Match",
+				"<Private>k__BackingField" : false,
+				"<Ranked>k__BackingField" : true,
+				"<Width>k__BackingField" : 9,
+				"<Height>k__BackingField" : 9,
+				"<Komi>k__BackingField" : null,
+				"<KomiAuto>k__BackingField" : "automatic",
+				"<Handicap>k__BackingField" : "-1",
+				"<WeekendPause>k__BackingField" : false,
+				"<DisableAnalysis>k__BackingField" : false,
+				"<Rules>k__BackingField" : "japanese",
+				"<TimeControl>k__BackingField" : "byoyomi",
+				"<TimeControlParameters>k__BackingField" : {
+					"<TimeControl>k__BackingField" : "byoyomi",
+					"<System>k__BackingField" : "byoyomi",
+					"<Speed>k__BackingField" : "live",
+					"<WeekendPause>k__BackingField" : false,
+					"<PerMove>k__BackingField" : 0,
+					"<TotalTime>k__BackingField" : 0,
+					"<MainTime>k__BackingField" : 300,
+					"<PeriodTime>k__BackingField" : 30,
+					"<Periods>k__BackingField" : 5,
+					"<StonesPerPeriod>k__BackingField" : 0,
+					"<InitialTime>k__BackingField" : 0,
+					"<MaxTime>k__BackingField" : 0,
+					"<TimeIncrement>k__BackingField" : 0
+				},
+				"<InitialState>k__BackingField" : null
+			}
+		}
+	},
+	"ChallengeBotPreference" : {
+		"__type" : "System.Int64",
+		"value" : 633047
+	},
+	"TipsViewed" : {
+		"__type" : "System.Collections.Generic.List`1[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],mscorlib",
+		"value" : [
+			"TipMainBeginnerTutorial","TipGoNavigation","TipMainMenuTooltips","TipCampaignStartBattle","TipGoSave","TipCampaignGatheringResources","TipGoCampaignAbilities","TipCampaignPreviousMatchReview","TipMainSettings","TipCampaignResourceTypes","TipGoButtons","TipCampaignStats","TipMainGlossary","TipCampaignInvasion"
+		]
+	}
+}
