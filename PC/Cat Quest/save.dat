@@ -1,0 +1,1354 @@
+﻿{
+    "version": 4,
+    "timestamp": "2020-09-13T10:04:38.5980669-07:00",
+    "salt": "8ffb1d0d318b8942b277893a19a11a5c9740bd82f23fc2e5433aeacd5d9ca0d9",
+    "hash": "6a9f7ece2143a41147b971ab88e24bd7602fd906d54b3d76b6bc17c78a3af02d",
+    "checkpoint": {
+        "x": 77.05999755859375,
+        "y": -71.11000061035156,
+        "z": 0.0
+    },
+    "level": 99,
+    "xp": 3945,
+    "mainQuestId": "MainQuest_012",
+    "mainQuestIndex": 19,
+    "sideQuestId": "",
+    "sideQuestIndex": -1,
+    "health": 1482,
+    "mana": 14,
+    "defence": 0,
+    "gold": 305,
+    "equipmentObtained": [
+        {
+            "id": 10,
+            "level": 35
+        },
+        {
+            "id": 11,
+            "level": 55
+        },
+        {
+            "id": 14,
+            "level": 30
+        },
+        {
+            "id": 3,
+            "level": 37
+        },
+        {
+            "id": 36,
+            "level": 81
+        },
+        {
+            "id": 13,
+            "level": 50
+        },
+        {
+            "id": 23,
+            "level": 60
+        },
+        {
+            "id": 5,
+            "level": 22
+        },
+        {
+            "id": 28,
+            "level": 61
+        },
+        {
+            "id": 40,
+            "level": 54
+        },
+        {
+            "id": 27,
+            "level": 17
+        },
+        {
+            "id": 37,
+            "level": 49
+        },
+        {
+            "id": 66,
+            "level": 53
+        },
+        {
+            "id": 38,
+            "level": 46
+        },
+        {
+            "id": 9,
+            "level": 42
+        },
+        {
+            "id": 12,
+            "level": 40
+        },
+        {
+            "id": 46,
+            "level": 78
+        },
+        {
+            "id": 47,
+            "level": 58
+        },
+        {
+            "id": 39,
+            "level": 42
+        },
+        {
+            "id": 21,
+            "level": 8
+        },
+        {
+            "id": 65,
+            "level": 6
+        },
+        {
+            "id": 67,
+            "level": 25
+        },
+        {
+            "id": 4,
+            "level": 18
+        },
+        {
+            "id": 44,
+            "level": 28
+        },
+        {
+            "id": 29,
+            "level": 21
+        },
+        {
+            "id": 48,
+            "level": 38
+        },
+        {
+            "id": 43,
+            "level": 34
+        },
+        {
+            "id": 41,
+            "level": 31
+        },
+        {
+            "id": 57,
+            "level": 5
+        },
+        {
+            "id": 22,
+            "level": 31
+        },
+        {
+            "id": 25,
+            "level": 21
+        },
+        {
+            "id": 56,
+            "level": 2
+        },
+        {
+            "id": 54,
+            "level": 25
+        },
+        {
+            "id": 55,
+            "level": 26
+        },
+        {
+            "id": 35,
+            "level": 15
+        },
+        {
+            "id": 45,
+            "level": 40
+        },
+        {
+            "id": 34,
+            "level": 54
+        },
+        {
+            "id": 68,
+            "level": 30
+        },
+        {
+            "id": 15,
+            "level": 60
+        },
+        {
+            "id": 58,
+            "level": 99
+        },
+        {
+            "id": 42,
+            "level": 50
+        },
+        {
+            "id": 26,
+            "level": 44
+        },
+        {
+            "id": 16,
+            "level": 45
+        },
+        {
+            "id": 17,
+            "level": 45
+        },
+        {
+            "id": 69,
+            "level": 33
+        },
+        {
+            "id": 53,
+            "level": 20
+        },
+        {
+            "id": 31,
+            "level": 40
+        },
+        {
+            "id": 6,
+            "level": 20
+        },
+        {
+            "id": 7,
+            "level": 20
+        },
+        {
+            "id": 8,
+            "level": 20
+        },
+        {
+            "id": 19,
+            "level": 55
+        },
+        {
+            "id": 18,
+            "level": 20
+        },
+        {
+            "id": 32,
+            "level": 20
+        },
+        {
+            "id": 24,
+            "level": 40
+        },
+        {
+            "id": 20,
+            "level": 61
+        },
+        {
+            "id": 30,
+            "level": 76
+        },
+        {
+            "id": 51,
+            "level": 40
+        },
+        {
+            "id": 52,
+            "level": 20
+        },
+        {
+            "id": 61,
+            "level": 1
+        },
+        {
+            "id": 63,
+            "level": 17
+        },
+        {
+            "id": 62,
+            "level": 37
+        },
+        {
+            "id": 64,
+            "level": 17
+        },
+        {
+            "id": 59,
+            "level": 1
+        },
+        {
+            "id": 49,
+            "level": 21
+        },
+        {
+            "id": 60,
+            "level": 1
+        },
+        {
+            "id": 50,
+            "level": 40
+        },
+        {
+            "id": 75,
+            "level": 25
+        },
+        {
+            "id": 76,
+            "level": 25
+        },
+        {
+            "id": 74,
+            "level": 25
+        }
+    ],
+    "equipmentEquipped": [
+        59,
+        30,
+        58
+    ],
+    "skillsObtained": [
+        {
+            "id": "flamepurr",
+            "level": 10
+        },
+        {
+            "id": "lightnyan",
+            "level": 10
+        },
+        {
+            "id": "healing_paw",
+            "level": 10
+        },
+        {
+            "id": "freezepaw",
+            "level": 10
+        },
+        {
+            "id": "cattrap",
+            "level": 10
+        },
+        {
+            "id": "astropaw",
+            "level": 10
+        },
+        {
+            "id": "purrserk",
+            "level": 10
+        }
+    ],
+    "skillsEquipped": [
+        "flamepurr",
+        "lightnyan",
+        "healing_paw",
+        "freezepaw"
+    ],
+    "chestsCollected": [
+        {
+            "id": "cavegrotto_chest_001",
+            "timestamp": "2020-09-10T15:50:10.2827684-07:00"
+        },
+        {
+            "id": "cavegrotto_chest_002",
+            "timestamp": "2020-09-10T15:50:40.2818753-07:00"
+        },
+        {
+            "id": "alpharuins_chest_002",
+            "timestamp": "2020-09-10T15:57:26.5440532-07:00"
+        },
+        {
+            "id": "lakesidehole_chest_001",
+            "timestamp": "2020-09-10T16:08:36.0201999-07:00"
+        },
+        {
+            "id": "betaruins_chest_002",
+            "timestamp": "2020-09-10T16:11:46.1017335-07:00"
+        },
+        {
+            "id": "lootcave_chest_003",
+            "timestamp": "2020-09-10T16:19:16.4130791-07:00"
+        },
+        {
+            "id": "lootcave_chest_002",
+            "timestamp": "2020-09-10T16:19:22.6124897-07:00"
+        },
+        {
+            "id": "banditcave_chest_002",
+            "timestamp": "2020-09-10T16:20:23.9789971-07:00"
+        },
+        {
+            "id": "twincave_chest_002",
+            "timestamp": "2020-09-10T16:23:33.8604339-07:00"
+        },
+        {
+            "id": "twincave_chest_001",
+            "timestamp": "2020-09-10T16:23:57.2765592-07:00"
+        },
+        {
+            "id": "feurrycave_chest_001",
+            "timestamp": "2020-09-10T16:26:35.0078933-07:00"
+        },
+        {
+            "id": "furrestcave_chest_001",
+            "timestamp": "2020-09-10T16:37:39.9173939-07:00"
+        },
+        {
+            "id": "ruins01_chest_003",
+            "timestamp": "2020-09-10T16:39:26.8996130-07:00"
+        },
+        {
+            "id": "ruins01_chest_002",
+            "timestamp": "2020-09-10T16:40:51.9985755-07:00"
+        },
+        {
+            "id": "purrelair_chest_001",
+            "timestamp": "2020-09-10T16:47:35.9268506-07:00"
+        },
+        {
+            "id": "purrecave_chest_003",
+            "timestamp": "2020-09-10T17:00:56.9347703-07:00"
+        },
+        {
+            "id": "holeycave_chest_001",
+            "timestamp": "2020-09-10T17:10:59.6944922-07:00"
+        },
+        {
+            "id": "holeycave_chest_002",
+            "timestamp": "2020-09-10T17:14:06.9259237-07:00"
+        },
+        {
+            "id": "kapparuins_chest_001",
+            "timestamp": "2020-09-10T17:17:40.1900511-07:00"
+        },
+        {
+            "id": "kapparuins_chest_002",
+            "timestamp": "2020-09-10T17:19:59.3556870-07:00"
+        },
+        {
+            "id": "gammaruins_chest_003",
+            "timestamp": "2020-09-10T17:38:50.8591234-07:00"
+        },
+        {
+            "id": "gammaruins_chest_001",
+            "timestamp": "2020-09-10T17:39:58.9915382-07:00"
+        },
+        {
+            "id": "deltaruins_chest_003",
+            "timestamp": "2020-09-10T17:44:48.6388413-07:00"
+        },
+        {
+            "id": "deltaruins_chest_002",
+            "timestamp": "2020-09-10T17:45:11.5722105-07:00"
+        },
+        {
+            "id": "purrecave_chest_002",
+            "timestamp": "2020-09-10T17:49:14.5189102-07:00"
+        },
+        {
+            "id": "zetaruins_chest_001",
+            "timestamp": "2020-09-10T18:15:13.6516012-07:00"
+        },
+        {
+            "id": "zetaruins_chest_002",
+            "timestamp": "2020-09-10T18:15:28.7182783-07:00"
+        },
+        {
+            "id": "spiralcave_chest_002",
+            "timestamp": "2020-09-10T18:18:06.5169504-07:00"
+        },
+        {
+            "id": "tinyhole_chest_001",
+            "timestamp": "2020-09-11T15:19:14.5829101-07:00"
+        },
+        {
+            "id": "secretcave_chest_001",
+            "timestamp": "2020-09-11T15:36:08.6900254-07:00"
+        },
+        {
+            "id": "secretcave_chest_002",
+            "timestamp": "2020-09-11T15:36:28.2231006-07:00"
+        },
+        {
+            "id": "secretcave_chest_003",
+            "timestamp": "2020-09-11T15:38:32.9382311-07:00"
+        },
+        {
+            "id": "secretcave_chest_004",
+            "timestamp": "2020-09-11T15:39:01.4211149-07:00"
+        },
+        {
+            "id": "pawtcave_chest_001",
+            "timestamp": "2020-09-11T15:40:38.3043949-07:00"
+        },
+        {
+            "id": "catnipcove_chest_001",
+            "timestamp": "2020-09-11T15:53:17.3626051-07:00"
+        },
+        {
+            "id": "seasidecave_chest_001",
+            "timestamp": "2020-09-11T15:53:57.9626792-07:00"
+        },
+        {
+            "id": "batcave_chest_001",
+            "timestamp": "2020-09-11T15:57:56.6938457-07:00"
+        },
+        {
+            "id": "keyhole_chest_002",
+            "timestamp": "2020-09-11T16:07:32.3041466-07:00"
+        },
+        {
+            "id": "epsilonruins_chest_001",
+            "timestamp": "2020-09-11T16:09:55.2859987-07:00"
+        },
+        {
+            "id": "ruins03_chest_002",
+            "timestamp": "2020-09-11T16:11:51.8511041-07:00"
+        },
+        {
+            "id": "ruins03_chest_003",
+            "timestamp": "2020-09-11T16:12:17.3012422-07:00"
+        },
+        {
+            "id": "oremine_chest_002",
+            "timestamp": "2020-09-11T16:29:26.9234798-07:00"
+        },
+        {
+            "id": "oremine_chest_001",
+            "timestamp": "2020-09-11T16:30:08.4398821-07:00"
+        },
+        {
+            "id": "ruins02_chest_002",
+            "timestamp": "2020-09-11T16:44:48.0976606-07:00"
+        },
+        {
+            "id": "mewcave_chest_002",
+            "timestamp": "2020-09-11T17:30:37.9352783-07:00"
+        },
+        {
+            "id": "mewcave_chest_003",
+            "timestamp": "2020-09-11T17:31:05.4015223-07:00"
+        },
+        {
+            "id": "founderscave_chest_001",
+            "timestamp": "2020-09-11T17:40:48.6625787-07:00"
+        },
+        {
+            "id": "founderscave_chest_002",
+            "timestamp": "2020-09-11T17:41:04.5120953-07:00"
+        },
+        {
+            "id": "founderscave_chest_003",
+            "timestamp": "2020-09-11T17:42:55.9282901-07:00"
+        },
+        {
+            "id": "oremine_chest_003",
+            "timestamp": "2020-09-11T17:44:01.1771676-07:00"
+        },
+        {
+            "id": "keyhole_chest_001",
+            "timestamp": "2020-09-13T07:44:03.3127752-07:00"
+        },
+        {
+            "id": "xiruins_chest_002",
+            "timestamp": "2020-09-13T07:44:38.9793928-07:00"
+        },
+        {
+            "id": "xiruins_chest_001",
+            "timestamp": "2020-09-13T07:45:44.6454159-07:00"
+        },
+        {
+            "id": "xiruins_chest_003",
+            "timestamp": "2020-09-13T07:46:40.5941493-07:00"
+        },
+        {
+            "id": "batcave_chest_002",
+            "timestamp": "2020-09-13T07:47:38.4599509-07:00"
+        },
+        {
+            "id": "lootcave_chest_001",
+            "timestamp": "2020-09-13T07:48:35.3931194-07:00"
+        },
+        {
+            "id": "banditcave_chest_001",
+            "timestamp": "2020-09-13T07:49:11.3256839-07:00"
+        },
+        {
+            "id": "alpharuins_chest_001",
+            "timestamp": "2020-09-13T07:49:51.5586936-07:00"
+        },
+        {
+            "id": "furrestcave_chest_002",
+            "timestamp": "2020-09-13T07:50:39.4747564-07:00"
+        },
+        {
+            "id": "gammaruins_chest_002",
+            "timestamp": "2020-09-13T07:51:39.8076509-07:00"
+        },
+        {
+            "id": "purrecave_chest_001",
+            "timestamp": "2020-09-13T07:52:25.6406098-07:00"
+        },
+        {
+            "id": "pawtcave_chest_003",
+            "timestamp": "2020-09-13T07:53:20.3227559-07:00"
+        },
+        {
+            "id": "pawtcave_chest_002",
+            "timestamp": "2020-09-13T07:54:29.2555962-07:00"
+        },
+        {
+            "id": "iotaruins_chest_001",
+            "timestamp": "2020-09-13T07:55:03.5052241-07:00"
+        },
+        {
+            "id": "iotaruins_chest_002",
+            "timestamp": "2020-09-13T07:55:58.1049626-07:00"
+        },
+        {
+            "id": "lamdaruins_chest_001",
+            "timestamp": "2020-09-13T08:02:35.2008042-07:00"
+        },
+        {
+            "id": "lamdaruins_chest_002",
+            "timestamp": "2020-09-13T08:02:48.8330743-07:00"
+        },
+        {
+            "id": "lamdaruins_chest_004",
+            "timestamp": "2020-09-13T08:03:24.6996608-07:00"
+        },
+        {
+            "id": "lamdaruins_chest_003",
+            "timestamp": "2020-09-13T08:04:04.2321868-07:00"
+        },
+        {
+            "id": "lamdaruins_chest_005",
+            "timestamp": "2020-09-13T08:04:43.4156057-07:00"
+        },
+        {
+            "id": "coldpaw_chest_001",
+            "timestamp": "2020-09-13T08:07:22.6307542-07:00"
+        },
+        {
+            "id": "coldpaw_chest_002",
+            "timestamp": "2020-09-13T08:08:27.0959379-07:00"
+        },
+        {
+            "id": "purrncave_chest_002",
+            "timestamp": "2020-09-13T08:10:06.1293065-07:00"
+        },
+        {
+            "id": "purrncave_chest_001",
+            "timestamp": "2020-09-13T08:10:27.4447105-07:00"
+        },
+        {
+            "id": "mewcave_chest_001",
+            "timestamp": "2020-09-13T08:11:08.8939985-07:00"
+        },
+        {
+            "id": "ruins01_chest_001",
+            "timestamp": "2020-09-13T08:12:05.5439059-07:00"
+        },
+        {
+            "id": "floodedcave_chest_001",
+            "timestamp": "2020-09-13T08:13:21.1097877-07:00"
+        },
+        {
+            "id": "floodedcave_chest_002",
+            "timestamp": "2020-09-13T08:13:42.2095941-07:00"
+        },
+        {
+            "id": "betaruins_chest_001",
+            "timestamp": "2020-09-13T08:14:36.6085217-07:00"
+        },
+        {
+            "id": "ruins03_chest_001",
+            "timestamp": "2020-09-13T08:16:08.0744770-07:00"
+        },
+        {
+            "id": "nuruins_chest_002",
+            "timestamp": "2020-09-13T08:18:09.8064013-07:00"
+        },
+        {
+            "id": "nuruins_chest_003",
+            "timestamp": "2020-09-13T08:18:32.6890982-07:00"
+        },
+        {
+            "id": "nuruins_chest_001",
+            "timestamp": "2020-09-13T08:18:59.3891641-07:00"
+        },
+        {
+            "id": "deltaruins_chest_001",
+            "timestamp": "2020-09-13T08:22:50.5863012-07:00"
+        },
+        {
+            "id": "purrelair_chest_002",
+            "timestamp": "2020-09-13T08:24:08.7851268-07:00"
+        },
+        {
+            "id": "lonelycave_chest_001",
+            "timestamp": "2020-09-13T08:29:26.5312295-07:00"
+        },
+        {
+            "id": "lonelycave_chest_002",
+            "timestamp": "2020-09-13T08:31:04.1640954-07:00"
+        },
+        {
+            "id": "hiddencave_chest_002",
+            "timestamp": "2020-09-13T08:34:17.8782734-07:00"
+        },
+        {
+            "id": "hiddencave_chest_001",
+            "timestamp": "2020-09-13T08:34:24.1117377-07:00"
+        },
+        {
+            "id": "spiralcave_chest_001",
+            "timestamp": "2020-09-13T08:36:14.1442166-07:00"
+        },
+        {
+            "id": "zetaruins_chest_003",
+            "timestamp": "2020-09-13T08:38:03.4759787-07:00"
+        },
+        {
+            "id": "tinyhole_chest_002",
+            "timestamp": "2020-09-13T08:39:08.3246276-07:00"
+        },
+        {
+            "id": "wiltedcave_chest_001",
+            "timestamp": "2020-09-13T08:41:07.4065070-07:00"
+        },
+        {
+            "id": "wiltedcave_chest_002",
+            "timestamp": "2020-09-13T08:41:46.1228542-07:00"
+        },
+        {
+            "id": "hiddencave_chest_003",
+            "timestamp": "2020-09-13T08:49:27.0836763-07:00"
+        },
+        {
+            "id": "endoftheroad_chest_003",
+            "timestamp": "2020-09-13T08:54:16.1476287-07:00"
+        },
+        {
+            "id": "endoftheroad_chest_002",
+            "timestamp": "2020-09-13T08:54:57.6464336-07:00"
+        },
+        {
+            "id": "endoftheroad_chest_001",
+            "timestamp": "2020-09-13T08:55:28.6462088-07:00"
+        },
+        {
+            "id": "ghostcave_chest_001",
+            "timestamp": "2020-09-13T08:56:22.1795539-07:00"
+        },
+        {
+            "id": "ghostcave_chest_002",
+            "timestamp": "2020-09-13T08:56:37.3958074-07:00"
+        },
+        {
+            "id": "alephruins_chest_001",
+            "timestamp": "2020-09-13T08:58:23.0941534-07:00"
+        },
+        {
+            "id": "muruins_chest_001",
+            "timestamp": "2020-09-13T09:00:01.5595995-07:00"
+        },
+        {
+            "id": "etaruins_chest_001",
+            "timestamp": "2020-09-13T09:03:04.5242810-07:00"
+        },
+        {
+            "id": "etaruins_chest_002",
+            "timestamp": "2020-09-13T09:03:10.5083027-07:00"
+        },
+        {
+            "id": "icyglaive_chest_001",
+            "timestamp": "2020-09-13T09:05:20.8399020-07:00"
+        },
+        {
+            "id": "icyglaive_chest_002",
+            "timestamp": "2020-09-13T09:05:38.3564590-07:00"
+        },
+        {
+            "id": "secretcave_chest_009",
+            "timestamp": "2020-09-13T09:08:03.2206741-07:00"
+        },
+        {
+            "id": "secretcave_chest_010",
+            "timestamp": "2020-09-13T09:08:11.4536005-07:00"
+        },
+        {
+            "id": "secretcave_chest_007",
+            "timestamp": "2020-09-13T09:11:15.3351158-07:00"
+        },
+        {
+            "id": "secretcave_chest_006",
+            "timestamp": "2020-09-13T09:11:20.9849856-07:00"
+        },
+        {
+            "id": "secretcave_chest_005",
+            "timestamp": "2020-09-13T09:11:27.0518001-07:00"
+        },
+        {
+            "id": "secretcave_chest_008",
+            "timestamp": "2020-09-13T09:11:43.7342652-07:00"
+        },
+        {
+            "id": "ruins02_chest_001",
+            "timestamp": "2020-09-13T09:17:25.9143608-07:00"
+        },
+        {
+            "id": "rhoruins_chest_002",
+            "timestamp": "2020-09-13T09:19:03.0631925-07:00"
+        },
+        {
+            "id": "rhoruins_chest_001",
+            "timestamp": "2020-09-13T09:19:27.2627866-07:00"
+        },
+        {
+            "id": "piruins_chest_002",
+            "timestamp": "2020-09-13T09:21:32.0107779-07:00"
+        },
+        {
+            "id": "piruins_chest_001",
+            "timestamp": "2020-09-13T09:23:01.3267428-07:00"
+        },
+        {
+            "id": "omikronruins_chest_001",
+            "timestamp": "2020-09-13T09:25:05.1751443-07:00"
+        },
+        {
+            "id": "omikronruins_chest_002",
+            "timestamp": "2020-09-13T09:25:32.0916585-07:00"
+        },
+        {
+            "id": "longcave_chest_001",
+            "timestamp": "2020-09-13T09:26:48.1238570-07:00"
+        },
+        {
+            "id": "longcave_chest_002",
+            "timestamp": "2020-09-13T09:27:32.1908186-07:00"
+        },
+        {
+            "id": "thetaruins_chest_001",
+            "timestamp": "2020-09-13T09:33:29.0024531-07:00"
+        },
+        {
+            "id": "thetaruins_chest_002",
+            "timestamp": "2020-09-13T09:33:55.3022780-07:00"
+        }
+    ],
+    "questsCompleted": [
+        {
+            "id": "sanctuary_one"
+        },
+        {
+            "id": "sanctuary_two"
+        },
+        {
+            "id": "sanctuary_three"
+        },
+        {
+            "id": "sanctuary_four"
+        },
+        {
+            "id": "greatspirit_one"
+        },
+        {
+            "id": "greatspirit_two"
+        },
+        {
+            "id": "greatspirit_three"
+        },
+        {
+            "id": "greatspirit_four"
+        },
+        {
+            "id": "kitmas_three"
+        },
+        {
+            "id": "missing_one"
+        },
+        {
+            "id": "missing_two"
+        },
+        {
+            "id": "wyvern_attack"
+        },
+        {
+            "id": "the_heirloom"
+        },
+        {
+            "id": "faded_king_one"
+        },
+        {
+            "id": "faded_king_three"
+        },
+        {
+            "id": "faded_king_four"
+        },
+        {
+            "id": "faded_king_five"
+        },
+        {
+            "id": "east_one"
+        },
+        {
+            "id": "east_two"
+        },
+        {
+            "id": "east_three"
+        },
+        {
+            "id": "east_four"
+        },
+        {
+            "id": "furbidden_mystery"
+        },
+        {
+            "id": "meatmeatmeat"
+        },
+        {
+            "id": "red_riding_kitty"
+        },
+        {
+            "id": "distraction"
+        },
+        {
+            "id": "crafty_merchant"
+        },
+        {
+            "id": "kitmas_two"
+        },
+        {
+            "id": "golden_key"
+        },
+        {
+            "id": "blacksmith_assistance"
+        },
+        {
+            "id": "blacksmith_apprentice"
+        },
+        {
+            "id": "blacksmith_journeyman"
+        },
+        {
+            "id": "blacksmith_master"
+        },
+        {
+            "id": "ultimate_dragonsbane"
+        },
+        {
+            "id": "MainQuest_001_PC"
+        },
+        {
+            "id": "MainQuest_002"
+        },
+        {
+            "id": "MainQuest_003"
+        },
+        {
+            "id": "MainQuest_004"
+        },
+        {
+            "id": "MainQuest_005"
+        },
+        {
+            "id": "MainQuest_006"
+        },
+        {
+            "id": "MainQuest_007"
+        },
+        {
+            "id": "MainQuest_008"
+        },
+        {
+            "id": "MainQuest_009"
+        },
+        {
+            "id": "MainQuest_010"
+        },
+        {
+            "id": "MainQuest_011"
+        },
+        {
+            "id": "MainQuest_012"
+        },
+        {
+            "id": "the_whisperer_one"
+        },
+        {
+            "id": "the_whisperer_two"
+        },
+        {
+            "id": "the_whisperer_three"
+        },
+        {
+            "id": "the_whisperer_four"
+        },
+        {
+            "id": "the_whisperer_five"
+        },
+        {
+            "id": "pawtato_one"
+        },
+        {
+            "id": "waters_one"
+        },
+        {
+            "id": "waters_three"
+        },
+        {
+            "id": "waters_four"
+        },
+        {
+            "id": "waters_five"
+        },
+        {
+            "id": "advertising_one"
+        },
+        {
+            "id": "kitmas_one"
+        },
+        {
+            "id": "kitmas_five"
+        },
+        {
+            "id": "slashy_one"
+        },
+        {
+            "id": "catnip_cure_A"
+        },
+        {
+            "id": "knightmare_A"
+        },
+        {
+            "id": "book_A"
+        },
+        {
+            "id": "resolution_A"
+        },
+        {
+            "id": "catnip_cure_B"
+        },
+        {
+            "id": "knightmare_B"
+        },
+        {
+            "id": "book_B"
+        },
+        {
+            "id": "west_one"
+        },
+        {
+            "id": "west_two"
+        },
+        {
+            "id": "west_three"
+        },
+        {
+            "id": "west_four"
+        },
+        {
+            "id": "kitmas_four"
+        },
+        {
+            "id": "magesold_one"
+        },
+        {
+            "id": "magesold_two"
+        },
+        {
+            "id": "magesold_three"
+        },
+        {
+            "id": "magesold_four"
+        },
+        {
+            "id": "darkpast_one"
+        },
+        {
+            "id": "darkpast_two"
+        },
+        {
+            "id": "darkpast_three"
+        },
+        {
+            "id": "darkpast_four"
+        }
+    ],
+    "unlocks": 31,
+    "monumentsVisited": [
+        {
+            "id": "MonumentTrigger_Catpital",
+            "timestamp": "2020-09-10T15:47:12.1676947-07:00"
+        },
+        {
+            "id": "MonumentTrigger_EastPawt",
+            "timestamp": "2020-09-10T15:54:46.8296833-07:00"
+        },
+        {
+            "id": "MonumentTrigger_PussPlains",
+            "timestamp": "2020-09-10T15:56:10.7624655-07:00"
+        },
+        {
+            "id": "MonumentTrigger_TwinPeaks",
+            "timestamp": "2020-09-10T16:03:27.4900384-07:00"
+        },
+        {
+            "id": "MonumentTrigger_HillyHills_01",
+            "timestamp": "2020-09-10T16:29:20.3730181-07:00"
+        },
+        {
+            "id": "MonumentTrigger_MountainPass",
+            "timestamp": "2020-09-10T16:52:32.3569271-07:00"
+        },
+        {
+            "id": "MonumentTrigger_Purrning",
+            "timestamp": "2020-09-10T17:07:32.5475275-07:00"
+        },
+        {
+            "id": "MonumentTrigger_Windmew",
+            "timestamp": "2020-09-10T17:08:33.3962802-07:00"
+        },
+        {
+            "id": "MonumentTrigger_NorthPoint",
+            "timestamp": "2020-09-10T17:09:28.5960553-07:00"
+        },
+        {
+            "id": "MonumentTrigger_HillyHills_02",
+            "timestamp": "2020-09-10T17:46:37.9370612-07:00"
+        },
+        {
+            "id": "MonumentTrigger_SouthPoint",
+            "timestamp": "2020-09-10T18:00:31.8948310-07:00"
+        },
+        {
+            "id": "MonumentTrigger_DeathIsle",
+            "timestamp": "2020-09-11T15:21:03.8153328-07:00"
+        },
+        {
+            "id": "MonumentTrigger_MonsterIsle",
+            "timestamp": "2020-09-11T15:42:56.9687148-07:00"
+        },
+        {
+            "id": "MonumentTrigger_KeyIsland",
+            "timestamp": "2020-09-11T16:06:25.4212938-07:00"
+        },
+        {
+            "id": "MonumentTrigger_OldMaster",
+            "timestamp": "2020-09-11T16:10:54.0013464-07:00"
+        }
+    ],
+    "cavesCompleted": [
+        {
+            "id": "cave_grotto_cave_trigger",
+            "timestamp": "2020-09-10T15:50:27.5827952-07:00"
+        },
+        {
+            "id": "alpha_ruins_cave_trigger",
+            "timestamp": "2020-09-10T15:58:24.3774115-07:00"
+        },
+        {
+            "id": "lakeside_hole_cave_trigger",
+            "timestamp": "2020-09-10T16:08:28.0205532-07:00"
+        },
+        {
+            "id": "beta_ruins_cave_trigger",
+            "timestamp": "2020-09-10T16:15:40.1157350-07:00"
+        },
+        {
+            "id": "loot_cave_cave_trigger",
+            "timestamp": "2020-09-10T16:19:45.1300798-07:00"
+        },
+        {
+            "id": "bandit_cave_cave_trigger",
+            "timestamp": "2020-09-10T16:21:10.3448250-07:00"
+        },
+        {
+            "id": "twin_cave_cave_trigger",
+            "timestamp": "2020-09-10T16:24:34.0599376-07:00"
+        },
+        {
+            "id": "feurry_cave_cave_trigger",
+            "timestamp": "2020-09-10T16:27:09.4078908-07:00"
+        },
+        {
+            "id": "furrest_cave_cave_trigger",
+            "timestamp": "2020-09-10T16:37:54.2174492-07:00"
+        },
+        {
+            "id": "ruins_001_cave_trigger",
+            "timestamp": "2020-09-10T16:40:32.3157343-07:00"
+        },
+        {
+            "id": "purre_lair_cave_trigger",
+            "timestamp": "2020-09-10T16:58:51.0197035-07:00"
+        },
+        {
+            "id": "holey_cave_cave_trigger",
+            "timestamp": "2020-09-10T17:13:57.3093134-07:00"
+        },
+        {
+            "id": "kappa_ruins_cave_trigger",
+            "timestamp": "2020-09-10T17:20:08.7718055-07:00"
+        },
+        {
+            "id": "gamma_ruins_cave_trigger",
+            "timestamp": "2020-09-10T17:39:40.3756641-07:00"
+        },
+        {
+            "id": "delta_ruins_cave_trigger",
+            "timestamp": "2020-09-10T17:45:04.6887866-07:00"
+        },
+        {
+            "id": "purre_cave_cave_trigger",
+            "timestamp": "2020-09-10T17:49:56.0516441-07:00"
+        },
+        {
+            "id": "zeta_ruins_cave_trigger",
+            "timestamp": "2020-09-10T18:15:22.3188552-07:00"
+        },
+        {
+            "id": "spiral_cave_cave_trigger",
+            "timestamp": "2020-09-10T18:18:33.1335872-07:00"
+        },
+        {
+            "id": "tiny_hole_cave_trigger",
+            "timestamp": "2020-09-11T15:19:41.5003693-07:00"
+        },
+        {
+            "id": "pawt_cave_cave_trigger",
+            "timestamp": "2020-09-11T15:40:32.6709737-07:00"
+        },
+        {
+            "id": "catnip_cove_cave_trigger",
+            "timestamp": "2020-09-11T15:53:09.2298281-07:00"
+        },
+        {
+            "id": "seaside_cave_cave_trigger",
+            "timestamp": "2020-09-11T15:54:07.8126121-07:00"
+        },
+        {
+            "id": "bat_cave_cave_trigger",
+            "timestamp": "2020-09-11T15:57:50.8273578-07:00"
+        },
+        {
+            "id": "dragon_rest_cave_trigger",
+            "timestamp": "2020-09-11T16:07:58.0873551-07:00"
+        },
+        {
+            "id": "epsilon_ruins_cave_trigger",
+            "timestamp": "2020-09-11T16:09:45.6861775-07:00"
+        },
+        {
+            "id": "ruins_003_cave_trigger",
+            "timestamp": "2020-09-11T16:15:50.7323692-07:00"
+        },
+        {
+            "id": "ore_mine_cave_trigger",
+            "timestamp": "2020-09-11T16:36:40.8856381-07:00"
+        },
+        {
+            "id": "ruins_002_cave_trigger",
+            "timestamp": "2020-09-11T17:07:30.8336899-07:00"
+        },
+        {
+            "id": "mew_cave_cave_trigger",
+            "timestamp": "2020-09-11T17:31:01.2025815-07:00"
+        },
+        {
+            "id": "FoundersCave_trigger",
+            "timestamp": "2020-09-11T17:40:56.0795668-07:00"
+        },
+        {
+            "id": "xi_ruins_cave_trigger",
+            "timestamp": "2020-09-13T07:45:36.1790202-07:00"
+        },
+        {
+            "id": "iota_ruins_cave_trigger",
+            "timestamp": "2020-09-13T07:56:11.2712628-07:00"
+        },
+        {
+            "id": "lamda_ruins_cave_trigger",
+            "timestamp": "2020-09-13T08:04:48.2654240-07:00"
+        },
+        {
+            "id": "ColdPaw_trigger",
+            "timestamp": "2020-09-13T08:08:17.9299268-07:00"
+        },
+        {
+            "id": "purrn_cave_cave_trigger",
+            "timestamp": "2020-09-13T08:10:18.6951335-07:00"
+        },
+        {
+            "id": "flooded_cave_trigger",
+            "timestamp": "2020-09-13T08:13:32.8263789-07:00"
+        },
+        {
+            "id": "nu_ruins_cave_trigger",
+            "timestamp": "2020-09-13T08:19:13.2387254-07:00"
+        },
+        {
+            "id": "lonely_cave_cave_trigger",
+            "timestamp": "2020-09-13T08:29:20.5479822-07:00"
+        },
+        {
+            "id": "wilted_cave_cave_trigger",
+            "timestamp": "2020-09-13T08:41:00.4731774-07:00"
+        },
+        {
+            "id": "hidden_cave_cave_trigger",
+            "timestamp": "2020-09-13T08:50:34.8666169-07:00"
+        },
+        {
+            "id": "end_of_the_road_cave_trigger",
+            "timestamp": "2020-09-13T08:55:15.5469712-07:00"
+        },
+        {
+            "id": "ghost_cave_cave_trigger",
+            "timestamp": "2020-09-13T08:56:31.7627919-07:00"
+        },
+        {
+            "id": "aleph_ruins_cave_trigger",
+            "timestamp": "2020-09-13T08:58:16.5280720-07:00"
+        },
+        {
+            "id": "mu_ruins_cave_trigger",
+            "timestamp": "2020-09-13T09:00:34.3425645-07:00"
+        },
+        {
+            "id": "eta_ruins_cave_trigger",
+            "timestamp": "2020-09-13T09:03:31.4406470-07:00"
+        },
+        {
+            "id": "IcyGlaive_trigger",
+            "timestamp": "2020-09-13T09:05:32.9227206-07:00"
+        },
+        {
+            "id": "SecretCave_trigger",
+            "timestamp": "2020-09-13T09:11:39.0347275-07:00"
+        },
+        {
+            "id": "rho_ruins_cave_trigger",
+            "timestamp": "2020-09-13T09:19:21.5295647-07:00"
+        },
+        {
+            "id": "pi_ruins_cave_trigger",
+            "timestamp": "2020-09-13T09:21:10.6611333-07:00"
+        },
+        {
+            "id": "omikron_ruins_cave_trigger",
+            "timestamp": "2020-09-13T09:25:25.1423383-07:00"
+        },
+        {
+            "id": "long_cave_cave_trigger",
+            "timestamp": "2020-09-13T09:27:25.4071382-07:00"
+        },
+        {
+            "id": "theta_ruins_cave_trigger",
+            "timestamp": "2020-09-13T09:33:18.5863280-07:00"
+        }
+    ],
+    "mainQuestSubIndex": -1,
+    "sideQuestSubIndex": -1,
+    "mew": {
+        "isMewGame": false,
+        "modifiers": 0,
+        "timePlayed": 0.0,
+        "livesLeft": 0
+    }
+}
