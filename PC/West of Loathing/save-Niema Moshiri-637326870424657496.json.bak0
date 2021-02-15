@@ -1,0 +1,29 @@
+{
+  "PLAYER": {
+    "flags": {
+      "timeplayed": "00:00:00",
+      "name": "Niema Moshiri",
+      "firstname": "Niema",
+      "lastname": "Moshiri",
+      "gender": "1",
+      "reward": "1241",
+      "favoriteanimal": "bird",
+      "__save_id": "save-Niema Moshiri-637326870424657496"
+    },
+    "dailyflags": {},
+    "items": {},
+    "gear": {},
+    "effects": {},
+    "skills": {},
+    "stores": {},
+    "properties": [
+      "name",
+      "firstname",
+      "lastname",
+      "gender",
+      "reward",
+      "favoriteanimal"
+    ]
+  },
+  "WAA_ID": "create_character"
+}
