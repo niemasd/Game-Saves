@@ -2,7 +2,8 @@
 My backups of game saves
 
 ## Useful Notes
-* Steam Cloud: https://store.steampowered.com/account/remotestorage
+* Steam Cloud Storage: https://store.steampowered.com/account/remotestorage
+* Steam Cloud Documentation: https://partner.steamgames.com/doc/features/cloud
 
 ## Games I Need to Back Up
 * Agatha Christie - The ABC Murders (PC)
