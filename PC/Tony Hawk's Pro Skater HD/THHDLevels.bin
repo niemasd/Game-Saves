@@ -1,0 +1,689 @@
+[Level_Warehouse UIDataProvider_THHDLevel]
+MapId=0
+MapName=THHD_Warehouse_P
+NumberOfCashObjects=8
+LevelUnlocked=1
+Tag=war
+UITexturePath=THHDFrontEnd.maps
+UIOverlayPath=/ package/THHDGlobal.overlay_war.swf
+UISortPriority=1
+LeaderboardId=9
+CareerObjArray=(UIFriendlyString="WH_Obj_HighScore", CashValue=100, total=10000)
+CareerObjArray=(UIFriendlyString="WH_Obj_ProScore", CashValue=200, total=25000)
+CareerObjArray=(UIFriendlyString="WH_Obj_SickScore", CashValue=500, total=75000)
+CareerObjArray=(UIFriendlyString="GBL_Obj_FindDVD", CashValue=150, total=1)
+CareerObjArray=(UIFriendlyString="GBL_Obj_SKATE", CashValue=150, total=1)
+CareerObjArray=(UIFriendlyString="WH_Obj_GetManifests", CashValue=250, total=5)
+CareerObjArray=(UIFriendlyString="WH_Obj_GrindQPs", CashValue=150, total=5)
+CareerObjArray=(UIFriendlyString="WH_Obj_KickflipPipe", CashValue=150, total=1)
+CareerObjArray=(UIFriendlyString="WH_Obj_SmashBoxes", CashValue=150, total=5)
+CareerObjArray=(UIFriendlyString="GBL_Obj_AllCashGoals", CashValue=200, total=1)
+ProObjArray=(UIFriendlyString="WH_Pro_SickestScore", CashValue=300, total=200000)
+ProObjArray=(UIFriendlyString="GBL_Pro_COMBO", CashValue=200, total=1)
+ProObjArray=(UIFriendlyString="GBL_Pro_GetSkateboards", CashValue=250, total=8)
+ProObjArray=(UIFriendlyString="WH_Pro_LandCombo", CashValue=150, total=50000)
+ProObjArray=(UIFriendlyString="GBL_Pro_Boneless3x", CashValue=100, total=3)
+SurvivalObjArray=(UIFriendlyString="WH_Big_HighScore", CashValue=100)
+SurvivalObjArray=(UIFriendlyString="WH_Big_ProScore", CashValue=200)
+SurvivalObjArray=(UIFriendlyString="WH_Big_SickScore", CashValue=500)
+HawkmanObjArray=(UIFriendlyString="WH_Hwk_HighScore", CashValue=100)
+HawkmanObjArray=(UIFriendlyString="WH_Hwk_ProScore", CashValue=200)
+HawkmanObjArray=(UIFriendlyString="WH_Hwk_SickScore", CashValue=500);
+GameLocNameArray=WH_Gap_Transfer
+GameLocNameArray=WH_Gap_Taxi_Gap
+GameLocNameArray=WH_Gap_Kicker_Gap
+GameLocNameArray=WH_Gap_Over_The_Pipe
+GameLocNameArray=WH_Gap_Secret_Room
+GameLocNameArray=WH_Gap_Faceplant
+GameLocNameArray=WH_Gap_Channel_Gap
+GameLocNameArray=WH_Gap_Kicker_2_Ledge
+GameLocNameArray=WH_Gap_Big_Rail
+GameLocNameArray=WH_Gap_Deck_2_Rail
+GameLocNameArray=WH_Gap_Taxi_2_Ledge
+GameLocNameArray=WH_Gap_Taxi_2_Rail
+GameLocNameArray=WH_Gap_Monster_Grind
+GameLocNameArray=WH_Gap_High_Rail
+GameLocNameArray=WH_Gap_Holy_Shi
+GameLocNameArray=WH_Gap_Transition_Grind
+
+[Level_School2 UIDataProvider_THHDLevel]
+MapId=1
+MapName=THHD_School2_P
+NumberOfCashObjects=12
+LevelUnlocked=0
+Tag=sc2
+UITexturePath=THHDFrontEnd.maps
+UIOverlayPath=/ package/THHDGlobal.overlay_sc2.swf
+UISortPriority=1
+LeaderboardId=10
+CareerObjArray=(UIFriendlyString="S2_Obj_HighScore", CashValue=200, total=15000)
+CareerObjArray=(UIFriendlyString="S2_Obj_ProScore", CashValue=350, total=40000)
+CareerObjArray=(UIFriendlyString="S2_Obj_SickScore", CashValue=500, total=100000)
+CareerObjArray=(UIFriendlyString="GBL_Obj_FindDVD", CashValue=400, total=1)
+CareerObjArray=(UIFriendlyString="GBL_Obj_SKATE", CashValue=500, total=1)
+CareerObjArray=(UIFriendlyString="S2_Obj_GetHallPass", CashValue=400, total=5)
+CareerObjArray=(UIFriendlyString="S2_Obj_GrindRoleCalls", CashValue=350, total=3)
+CareerObjArray=(UIFriendlyString="S2_Obj_KickflipTCsRoof", CashValue=500, total=1)
+CareerObjArray=(UIFriendlyString="S2_Obj_WallrideBells", CashValue=500, total=5)
+CareerObjArray=(UIFriendlyString="GBL_Obj_AllCashGoals", CashValue=500, total=1)
+ProObjArray=(UIFriendlyString="S2_Pro_SickestScore", CashValue=500, total=200000)
+ProObjArray=(UIFriendlyString="GBL_Pro_COMBO", CashValue=400, total=1)
+ProObjArray=(UIFriendlyString="GBL_Pro_GetSkateboards", CashValue=450, total=8)
+ProObjArray=(UIFriendlyString="S2_Pro_LandCombo", CashValue=350, total=70000)
+ProObjArray=(UIFriendlyString="GBL_Pro_Boneless3x", CashValue=300, total=3)
+SurvivalObjArray=(UIFriendlyString="S2_Big_HighScore", CashValue=200)
+SurvivalObjArray=(UIFriendlyString="S2_Big_ProScore", CashValue=350)
+SurvivalObjArray=(UIFriendlyString="S2_Big_SickScore", CashValue=700)
+HawkmanObjArray=(UIFriendlyString="S2_Hwk_HighScore", CashValue=200)
+HawkmanObjArray=(UIFriendlyString="S2_Hwk_ProScore", CashValue=350)
+HawkmanObjArray=(UIFriendlyString="S2_Hwk_SickScore", CashValue=700);
+GameLocNameArray=SH_AIR_Leap_Of_Faith
+GameLocNameArray=SH_AIR_Carlsbad_Gap
+GameLocNameArray=SH_AIR_Drop_Out_Roof_Gap
+GameLocNameArray=SH_AIR_Crazy_Roof_Gap
+GameLocNameArray=SH_AIR_TC_Roof_Gap
+GameLocNameArray=SH_AIR_Suicidal_Roof_Gap
+GameLocNameArray=SH_AIR_Awning_Hop
+GameLocNameArray=SH_AIR_Table_Transfer
+GameLocNameArray=SH_AIR_2_Da_Roof
+GameLocNameArray=SH_AIR_Huge_Transfer
+GameLocNameArray=SH_AIR_Mad_Skeelz_Roof_Gap
+GameLocNameArray=SH_AIR_Overhang_Air
+GameLocNameArray=SH_AIR_Balcony_To_Awning
+GameLocNameArray=SH_AIR_Over_The_Wall
+GameLocNameArray=SH_AIR_And_Down_The_Bank
+GameLocNameArray=SH_AIR_Carlsbad_11_set
+GameLocNameArray=SH_AIR_3_Points
+GameLocNameArray=SH_GRIND_Roll_Call_Gonz_Rail
+GameLocNameArray=SH_GRIND_Big_Rancho_Bench_Gap
+GameLocNameArray=SH_GRIND_Gym_Rail_2_Rail
+GameLocNameArray=SH_GRIND_Overhauling_Stomp
+GameLocNameArray=SH_GRIND_Rack_Em_Up
+GameLocNameArray=SH_GRIND_Pole_Stomp
+GameLocNameArray=SH_GRIND_Pole_2_Brix
+GameLocNameArray=SH_GRIND_Bank_2_Ledge
+GameLocNameArray=SH_GRIND_Flying_the_flag
+GameLocNameArray=SH_GRIND_Roll_Call_Nightmare_Rail
+GameLocNameArray=SH_GRIND_Bendy_Curb
+GameLocNameArray=SH_GRIND_Stage_Rail_2_Rail
+GameLocNameArray=SH_GRIND_Roll_Call_Opunsezmee_Rail
+GameLocNameArray=SH_GRIND_Kicker_2_Hook
+GameLocNameArray=SH_GRIND_Backboard_Dance
+GameLocNameArray=SH_MANUAL_2_Wheelin_TC_Roof
+GameLocNameArray=SH_GRIND_Ledge_On_Edge
+GameLocNameArray=SH_GRIND_Bendy_Flat
+GameLocNameArray=SH_GRIND_Planter_On_Edge
+GameLocNameArray=SH_LIP_Arch_Extension
+GameLocNameArray=SH_LIP_Lil_Guppy_Extension
+GameLocNameArray=SH_LIP_Mid_Squid_Extension
+GameLocNameArray=SH_LIP_High_Dive_Extension
+GameLocNameArray=SH_LIP_Starting_Blocks_Extension
+GameLocNameArray=SH_OTHER_Rock_The_Bells
+
+[Level_Hangar UIDataProvider_THHDLevel]
+MapId=2
+MapName=THHD_Hanger_P
+NumberOfCashObjects=8
+LevelUnlocked=0
+Tag=hng
+UITexturePath=THHDFrontEnd.maps
+UIOverlayPath=/ package/THHDGlobal.overlay_hng.swf
+UISortPriority=1
+LeaderboardId=11
+CareerObjArray=(UIFriendlyString="HA_Obj_HighScore", CashValue=500, total=20000)
+CareerObjArray=(UIFriendlyString="HA_Obj_ProScore", CashValue=650, total=50000)
+CareerObjArray=(UIFriendlyString="HA_Obj_SickScore", CashValue=800, total=150000)
+CareerObjArray=(UIFriendlyString="GBL_Obj_FindDVD", CashValue=650, total=1)
+CareerObjArray=(UIFriendlyString="GBL_Obj_SKATE", CashValue=600, total=1)
+CareerObjArray=(UIFriendlyString="HA_Obj_GetWings", CashValue=700, total=5)
+CareerObjArray=(UIFriendlyString="HA_Obj_NosegrindPipe", CashValue=750, total=1)
+CareerObjArray=(UIFriendlyString="HA_Obj_3HangtimeGaps", CashValue=800, total=3)
+CareerObjArray=(UIFriendlyString="HA_Obj_SmashBarrels", CashValue=850, total=5)
+CareerObjArray=(UIFriendlyString="GBL_Obj_AllCashGoals", CashValue=1000, total=1)
+ProObjArray=(UIFriendlyString="HA_Pro_SickestScore", CashValue=800, total=300000)
+ProObjArray=(UIFriendlyString="GBL_Pro_COMBO", CashValue=650, total=1)
+ProObjArray=(UIFriendlyString="GBL_Pro_GetSkateboards", CashValue=700, total=8)
+ProObjArray=(UIFriendlyString="HA_Pro_LandCombo", CashValue=600, total=95000)
+ProObjArray=(UIFriendlyString="GBL_Pro_Boneless3x", CashValue=500, total=3)
+SurvivalObjArray=(UIFriendlyString="HA_Big_HighScore", CashValue=400)
+SurvivalObjArray=(UIFriendlyString="HA_Big_ProScore", CashValue=700)
+SurvivalObjArray=(UIFriendlyString="HA_Big_SickScore", CashValue=1200)
+HawkmanObjArray=(UIFriendlyString="HA_Hwk_HighScore", CashValue=400)
+HawkmanObjArray=(UIFriendlyString="HA_Hwk_ProScore", CashValue=700)
+HawkmanObjArray=(UIFriendlyString="HA_Hwk_SickScore", CashValue=1200);
+GameLocNameArray=HA_AIR_Halfpipe_Hangtime
+GameLocNameArray=HA_AIR_Rollin_Gap
+GameLocNameArray=HA_AIR_Chopper_Hop
+GameLocNameArray=HA_AIR_Skycrane_Hangtime
+GameLocNameArray=HA_AIR_Air_Over_The_Door
+GameLocNameArray=HA_AIR_Wingtip_Hangtime
+GameLocNameArray=HA_AIR_Flying_High
+GameLocNameArray=HA_AIR_Its_Cold_Up_Here
+GameLocNameArray=HA_GRIND_Lil_Light_Hopper
+GameLocNameArray=HA_GRIND_Rail_Guided_Missles
+GameLocNameArray=HA_GRIND_Halfpipe_Hangtime
+GameLocNameArray=HA_GRIND_Big_Light_Hopper
+GameLocNameArray=HA_GRIND_Raildrop
+GameLocNameArray=HA_GRIND_Light_Corner
+GameLocNameArray=HA_MANUAL_Instrument_Landing
+GameLocNameArray=HA_LIP_High_Steppin
+GameLocNameArray=HA_LIP_The_Other_Half_Pipe_Lip
+GameLocNameArray=HA_LIP_Upwing_Lip
+GameLocNameArray=HA_LIP_One_Half_Pipe_Lip
+GameLocNameArray=HA_LIP_Wind_Tunnel_Back_Wall
+GameLocNameArray=HA_LIP_Downwind_Lip
+
+[Level_Mall UIDataProvider_THHDLevel]
+MapId=3
+MapName=THHD_Mall_P
+NumberOfCashObjects=12
+LevelUnlocked=0
+Tag=mal
+UITexturePath=THHDFrontEnd.maps
+UIOverlayPath=/ package/THHDGlobal.overlay_mal.swf
+UISortPriority=1
+LeaderboardId=12
+CareerObjArray=(UIFriendlyString="ML_Obj_HighScore", CashValue=750, total=40000)
+CareerObjArray=(UIFriendlyString="ML_Obj_ProScore", CashValue=1000, total=100000)
+CareerObjArray=(UIFriendlyString="ML_Obj_SickScore", CashValue=1250, total=200000)
+CareerObjArray=(UIFriendlyString="GBL_Obj_FindDVD", CashValue=900, total=1)
+CareerObjArray=(UIFriendlyString="GBL_Obj_SKATE", CashValue=1100, total=1)
+CareerObjArray=(UIFriendlyString="ML_Obj_GetGameBoxes", CashValue=1000, total=5)
+CareerObjArray=(UIFriendlyString="ML_Obj_Special16Set", CashValue=1100, total=1)
+CareerObjArray=(UIFriendlyString="ML_Obj_GrindEscaltors", CashValue=1250, total=3)
+CareerObjArray=(UIFriendlyString="ML_Obj_ShatterDir", CashValue=1150, total=5)
+CareerObjArray=(UIFriendlyString="GBL_Obj_AllCashGoals", CashValue=1500, total=1)
+ProObjArray=(UIFriendlyString="ML_Pro_SickestScore", CashValue=1300, total=350000)
+ProObjArray=(UIFriendlyString="GBL_Pro_COMBO", CashValue=1100, total=1)
+ProObjArray=(UIFriendlyString="GBL_Pro_GetSkateboards", CashValue=1200, total=8)
+ProObjArray=(UIFriendlyString="ML_Pro_LandCombo", CashValue=1000, total=100000)
+ProObjArray=(UIFriendlyString="GBL_Pro_Boneless3x", CashValue=900, total=3)
+SurvivalObjArray=(UIFriendlyString="ML_Big_HighScore", CashValue=850)
+SurvivalObjArray=(UIFriendlyString="ML_Big_ProScore", CashValue=1000)
+SurvivalObjArray=(UIFriendlyString="ML_Big_SickScore", CashValue=1500)
+HawkmanObjArray=(UIFriendlyString="ML_Hwk_HighScore", CashValue=850)
+HawkmanObjArray=(UIFriendlyString="ML_Hwk_ProScore", CashValue=1000)
+HawkmanObjArray=(UIFriendlyString="ML_Hwk_SickScore", CashValue=1500);
+GameLocNameArray=ML_GAP_Planter_Gap
+GameLocNameArray=ML_GAP_Fountain_Gap
+GameLocNameArray=ML_GAP_Coffee_Grind
+GameLocNameArray=ML_GAP_Rail_Combo
+GameLocNameArray=ML_GAP_Over_A_16_Stair_Set
+GameLocNameArray=ML_GAP_The_Flying_Leap
+GameLocNameArray=ML_GAP_Going_Up_Gap
+GameLocNameArray=ML_GAP_Going_Down_Gap
+GameLocNameArray=ML_GAP_Skater_Escalator_Gap
+GameLocNameArray=ML_GAP_For_The_Whole_Atrium
+GameLocNameArray=ML_GAP_Over_A_Huge_32_Stair_Gap
+GameLocNameArray=ML_GAP_32_Steps_Off_A_Mezzanine
+
+[Level_Venice UIDataProvider_THHDLevel]
+MapId=4
+MapName=THHD_Venice_P
+NumberOfCashObjects=12
+LevelUnlocked=0
+Tag=ven
+UITexturePath=THHDFrontEnd.maps
+UIOverlayPath=/ package/THHDGlobal.overlay_ven.swf
+UISortPriority=1
+LeaderboardId=13
+CareerObjArray=(UIFriendlyString="VB_Obj_HighScore", CashValue=1500, total=50000)
+CareerObjArray=(UIFriendlyString="VB_Obj_ProScore", CashValue=1750, total=150000)
+CareerObjArray=(UIFriendlyString="VB_Obj_SickScore", CashValue=2000, total=250000)
+CareerObjArray=(UIFriendlyString="GBL_Obj_FindDVD", CashValue=1350, total=1)
+CareerObjArray=(UIFriendlyString="GBL_Obj_SKATE", CashValue=1600, total=1)
+CareerObjArray=(UIFriendlyString="VB_Obj_GetSpraypaint", CashValue=1400, total=5)
+CareerObjArray=(UIFriendlyString="VB_Obj_TailslideLedge", CashValue=1350, total=1)
+CareerObjArray=(UIFriendlyString="VB_Obj_VBTransfers", CashValue=1600, total=4)
+CareerObjArray=(UIFriendlyString="VB_Obj_OllieMagic", CashValue=1450, total=5)
+CareerObjArray=(UIFriendlyString="GBL_Obj_AllCashGoals", CashValue=2000, total=1)
+ProObjArray=(UIFriendlyString="VB_Pro_SickestScore", CashValue=2000, total=400000)
+ProObjArray=(UIFriendlyString="GBL_Pro_COMBO", CashValue=1750, total=1)
+ProObjArray=(UIFriendlyString="GBL_Pro_GetSkateboards", CashValue=1850, total=8)
+ProObjArray=(UIFriendlyString="VB_Pro_LandCombo", CashValue=1600, total=200000)
+ProObjArray=(UIFriendlyString="GBL_Pro_Boneless3x", CashValue=1500, total=3)
+SurvivalObjArray=(UIFriendlyString="VB_Big_HighScore", CashValue=1300)
+SurvivalObjArray=(UIFriendlyString="VB_Big_ProScore", CashValue=1800)
+SurvivalObjArray=(UIFriendlyString="VB_Big_SickScore", CashValue=2300)
+HawkmanObjArray=(UIFriendlyString="VB_Hwk_HighScore", CashValue=1300)
+HawkmanObjArray=(UIFriendlyString="VB_Hwk_ProScore", CashValue=1800)
+HawkmanObjArray=(UIFriendlyString="VB_Hwk_SickScore", CashValue=2300);
+GameLocNameArray=VB_AIR_VB_SKinny_Transfer
+GameLocNameArray=VB_AIR_Up
+GameLocNameArray=VB_AIR_Table_Pop
+GameLocNameArray=VB_AIR_Shorty_Planter_Hop
+GameLocNameArray=VB_AIR_Cake_Transfer
+GameLocNameArray=VB_AIR_West_Side_Transfer
+GameLocNameArray=VB_AIR_Wee_Lil_Roof_Gap
+GameLocNameArray=VB_AIR_Up_2
+GameLocNameArray=VB_AIR_Canyon_Jump
+GameLocNameArray=VB_AIR_Ledge_9_Set
+GameLocNameArray=VB_AIR_Muskas_Gap
+GameLocNameArray=VB_AIR_Tight_Landing_Transfer
+GameLocNameArray=VB_AIR_Big_Double_5_Set
+GameLocNameArray=VB_AIR_VB_Pit_Transfer
+GameLocNameArray=VB_AIR_Nice_Mind_Size_Roof_Gap
+GameLocNameArray=VB_AIR_Planter_Pop
+GameLocNameArray=VB_AIR_Roof_2_Ramp
+GameLocNameArray=VB_AIR_And_Away
+GameLocNameArray=VB_AIR_VB_Ledge_Transfer
+GameLocNameArray=VB_AIR_Lil_Vent_Gap
+GameLocNameArray=VB_AIR_Ramp_2_Roof
+GameLocNameArray=VB_AIR_Uphill_Canyon_Jump
+GameLocNameArray=VB_AIR_Vent_2_Roof_Gap
+GameLocNameArray=VB_AIR_VB_Huge_Transfer
+GameLocNameArray=VB_AIR_Massive_20_Set
+GameLocNameArray=VB_AIR_Sick_Roof_Gap
+GameLocNameArray=VB_AIR_Huge_Roof_2_Ramp
+GameLocNameArray=VB_AIR_Fatty_Transfer
+GameLocNameArray=VB_AIR_Big_Vent_Gap
+GameLocNameArray=VB_AIR_Huge_Ramp_2_Roof
+GameLocNameArray=VB_GRIND_Seaside_Handrail
+GameLocNameArray=VB_GRIND_The_Venice_Ledge
+GameLocNameArray=VB_GRIND_Bench_Trippin
+GameLocNameArray=VB_GRIND_Ledge_2_Ledge
+GameLocNameArray=VB_GRIND_10_Point_Landing
+GameLocNameArray=VB_GRIND_The_High_Wire
+GameLocNameArray=VB_GRIND_Round_The_Horn
+GameLocNameArray=VB_MANUAL_He_Could_Go
+GameLocNameArray=VB_MANUAL_All_The_Way
+GameLocNameArray=VB_MANUAL_Touchdown
+GameLocNameArray=VB_MANUAL_Candy_Cane_Manual
+
+[Level_Downhill_Jam UIDataProvider_THHDLevel]
+MapId=5
+MapName=THHD_Downhill_Jam_P
+NumberOfCashObjects=12
+LevelUnlocked=0
+Tag=dwn
+UITexturePath=THHDFrontEnd.maps
+UIOverlayPath=/ package/THHDGlobal.overlay_dwn.swf
+UISortPriority=1
+LeaderboardId=14
+CareerObjArray=(UIFriendlyString="DJ_Obj_HighScore", CashValue=2000, total=75000)
+CareerObjArray=(UIFriendlyString="DJ_Obj_ProScore", CashValue=2400, total=150000)
+CareerObjArray=(UIFriendlyString="DJ_Obj_SickScore", CashValue=3000, total=300000)
+CareerObjArray=(UIFriendlyString="GBL_Obj_FindDVD", CashValue=1850, total=1)
+CareerObjArray=(UIFriendlyString="GBL_Obj_SKATE", CashValue=2150, total=1)
+CareerObjArray=(UIFriendlyString="DJ_Obj_GetWrenches", CashValue=1650, total=5)
+CareerObjArray=(UIFriendlyString="DJ_Obj_OpenValves", CashValue=1600, total=5)
+CareerObjArray=(UIFriendlyString="DJ_Obj_ManualPuddles", CashValue=2100, total=5)
+CareerObjArray=(UIFriendlyString="DJ_Obj_SpecialDaGrate", CashValue=1750, total=1)
+CareerObjArray=(UIFriendlyString="GBL_Obj_AllCashGoals", CashValue=3000, total=1)
+ProObjArray=(UIFriendlyString="DJ_Pro_SickestScore", CashValue=3000, total=400000)
+ProObjArray=(UIFriendlyString="GBL_Pro_COMBO", CashValue=2650, total=1)
+ProObjArray=(UIFriendlyString="GBL_Pro_GetSkateboards", CashValue=2800, total=8)
+ProObjArray=(UIFriendlyString="DJ_Pro_LandCombo", CashValue=2250, total=165000)
+ProObjArray=(UIFriendlyString="GBL_Pro_Boneless3x", CashValue=2000, total=3)
+SurvivalObjArray=(UIFriendlyString="DJ_Big_HighScore", CashValue=2000)
+SurvivalObjArray=(UIFriendlyString="DJ_Big_ProScore", CashValue=2400)
+SurvivalObjArray=(UIFriendlyString="DJ_Big_SickScore", CashValue=3000)
+HawkmanObjArray=(UIFriendlyString="DJ_Hwk_HighScore", CashValue=2000)
+HawkmanObjArray=(UIFriendlyString="DJ_Hwk_ProScore", CashValue=2400)
+HawkmanObjArray=(UIFriendlyString="DJ_Hwk_SickScore", CashValue=3000);
+GameLocNameArray=DH_GAP_Huge_Water_Hazard_Gap
+GameLocNameArray=DH_GAP_Ski_Jump
+GameLocNameArray=DH_GAP_ROBOMODO_Electric_Company_Gap
+
+[Level_Marseilles UIDataProvider_THHDLevel]
+MapId=6
+MapName=THHD_Marseilles_P
+NumberOfCashObjects=8
+LevelUnlocked=0
+Tag=mrs
+UITexturePath=THHDFrontEnd.maps
+UIOverlayPath=/ package/THHDGlobal.overlay_mrs.swf
+UISortPriority=1
+LeaderboardId=15
+CareerObjArray=(UIFriendlyString="FN_Obj_HighScore", CashValue=2500, total=100000)
+CareerObjArray=(UIFriendlyString="FN_Obj_ProScore", CashValue=3000, total=200000)
+CareerObjArray=(UIFriendlyString="FN_Obj_SickScore", CashValue=4000, total=400000)
+CareerObjArray=(UIFriendlyString="GBL_Obj_FindDVD", CashValue=2350, total=1)
+CareerObjArray=(UIFriendlyString="GBL_Obj_SKATE", CashValue=2750, total=1)
+CareerObjArray=(UIFriendlyString="FN_Obj_GetMedals", CashValue=2300, total=5)
+CareerObjArray=(UIFriendlyString="FN_Obj_GrabOverLil4", CashValue=2250, total=1)
+CareerObjArray=(UIFriendlyString="FN_Obj_NosebluntTables", CashValue=2500, total=3)
+CareerObjArray=(UIFriendlyString="FN_Obj_DestroySpeakers", CashValue=2350, total=5)
+CareerObjArray=(UIFriendlyString="GBL_Obj_AllCashGoals", CashValue=4000, total=1)
+ProObjArray=(UIFriendlyString="FN_Pro_SickestScore", CashValue=4000, total=500000)
+ProObjArray=(UIFriendlyString="GBL_Pro_COMBO", CashValue=3350, total=1)
+ProObjArray=(UIFriendlyString="GBL_Pro_GetSkateboards", CashValue=3700, total=8)
+ProObjArray=(UIFriendlyString="FN_Pro_LandCombo", CashValue=3000, total=250000)
+ProObjArray=(UIFriendlyString="GBL_Pro_Boneless3x", CashValue=2800, total=3)
+SurvivalObjArray=(UIFriendlyString="FN_Big_HighScore", CashValue=2500)
+SurvivalObjArray=(UIFriendlyString="FN_Big_ProScore", CashValue=3000)
+SurvivalObjArray=(UIFriendlyString="FN_Big_SickScore", CashValue=4000)
+HawkmanObjArray=(UIFriendlyString="FN_Hwk_HighScore", CashValue=2500)
+HawkmanObjArray=(UIFriendlyString="FN_Hwk_ProScore", CashValue=3000)
+HawkmanObjArray=(UIFriendlyString="FN_Hwk_SickScore", CashValue=4000);
+GameLocNameArray=FN_AIR_Over_the_lil_4
+GameLocNameArray=FN_AIR_Shorty_Dumpster_Pop
+GameLocNameArray=FN_AIR_Shorty_Table_Pop
+GameLocNameArray=FN_AIR_Table_Pop
+GameLocNameArray=FN_AIR_2_The_Box
+GameLocNameArray=FN_AIR_Dumpster_Pop
+GameLocNameArray=FN_AIR_Over_The_Gate
+GameLocNameArray=FN_AIR_Over_The_Crossbar
+GameLocNameArray=FN_AIR_Over_The_Table
+GameLocNameArray=FN_AIR_Box_2_Box_Action
+GameLocNameArray=FN_AIR_Up_The_Lil_4
+GameLocNameArray=FN_AIR_Water_Up_Le_Backside
+GameLocNameArray=FN_AIR_Up
+GameLocNameArray=FN_AIR_Humptey_Humps
+GameLocNameArray=FN_AIR_Big_Ol_Stanky_Gap
+GameLocNameArray=FN_AIR_Up_2
+GameLocNameArray=FN_AIR_Freakin_Huge_Hip
+GameLocNameArray=FN_AIR_Big_Mouth_Gap
+GameLocNameArray=FN_AIR_And_Away
+GameLocNameArray=FN_GRIND_Rail_2_Rail
+GameLocNameArray=FN_GRIND_Rail_2_Ledge
+GameLocNameArray=FN_GRIND_Ledge_2_Rail
+GameLocNameArray=FN_GRIND_The_Hidden_4_Kink
+GameLocNameArray=FN_GRIND_Dumpster_Stomp
+GameLocNameArray=FN_GRIND_Kink_Clank
+GameLocNameArray=FN_GRIND_Kink_Stomp
+GameLocNameArray=FN_GRIND_Crossbar_Stomp
+GameLocNameArray=FN_GRIND_Lamp_Stomp
+GameLocNameArray=FN_GRIND_Knuckin_Futs
+GameLocNameArray=FN_LIP_Boomin_Extension
+GameLocNameArray=FN_LIP_Stanky_Extension
+GameLocNameArray=FN_LIP_UUA_Extension
+GameLocNameArray=FN_GAP_Wall_Crawler
+
+[Level_DLC_Canada UIDataProvider_THHDLevel]
+MapId=100
+MapName=THHD_Canada_P
+LevelUnlocked=1
+UISortPriority=3
+LeaderboardId=19
+bIsExpansionLevel=true
+NumberOfCashObjects=8
+Tag=can
+UITexturePath=THHDFrontEnd_DLC1.maps
+UIOverlayPath=/ package/THHDGlobal_DLC1.overlay_can.swf
+CareerObjArray=(UIFriendlyString="Can_Obj_HighScore", CashValue=100, total=35000)
+CareerObjArray=(UIFriendlyString="Can_Obj_ProScore", CashValue=200, total=70000)
+CareerObjArray=(UIFriendlyString="Can_Obj_SickScore", CashValue=500, total=120000)
+CareerObjArray=(UIFriendlyString="GBL_Obj_FindDVD", CashValue=150, total=1)
+CareerObjArray=(UIFriendlyString="GBL_Obj_SKATE", CashValue=150, total=1)
+CareerObjArray=(UIFriendlyString="Can_Obj_GetSnowballs", CashValue=250, total=5)
+CareerObjArray=(UIFriendlyString="Can_Obj_LipQPs", CashValue=150, total=5)
+CareerObjArray=(UIFriendlyString="Can_Obj_NosegrindHorn", CashValue=150, total=1)
+CareerObjArray=(UIFriendlyString="Can_Obj_SmashSnowmen", CashValue=150, total=5)
+CareerObjArray=(UIFriendlyString="GBL_Obj_AllCashGoals", CashValue=200, total=1)
+ProObjArray=(UIFriendlyString="Can_Pro_SickestScore", CashValue=300, total=550000)
+ProObjArray=(UIFriendlyString="GBL_Pro_COMBO", CashValue=200, total=1)
+ProObjArray=(UIFriendlyString="GBL_Pro_GetSkateboards", CashValue=250, total=8)
+ProObjArray=(UIFriendlyString="Can_Pro_LandCombo", CashValue=150, total=300000)
+ProObjArray=(UIFriendlyString="GBL_Pro_Boneless3x", CashValue=100, total=3)
+SurvivalObjArray=(UIFriendlyString="Can_Big_HighScore", CashValue=100)
+SurvivalObjArray=(UIFriendlyString="Can_Big_ProScore", CashValue=200)
+SurvivalObjArray=(UIFriendlyString="Can_Big_SickScore", CashValue=500)
+HawkmanObjArray=(UIFriendlyString="Can_Hwk_HighScore", CashValue=100)
+HawkmanObjArray=(UIFriendlyString="Can_Hwk_ProScore", CashValue=200)
+HawkmanObjArray=(UIFriendlyString="Can_Hwk_SickScore", CashValue=500);
+GameLocNameArray=Can_Gap_AirOverTheBladeGrind
+GameLocNameArray=Can_Gap_DozerBladeGap
+GameLocNameArray=Can_Gap_FenceHoppin
+GameLocNameArray=Can_Gap_CurbHoppin
+GameLocNameArray=Can_Gap_SapSlapper
+GameLocNameArray=Can_Gap_OverTheBlade
+GameLocNameArray=Can_Gap_ClimbTheTree
+GameLocNameArray=Can_Gap_TreeAirGap
+GameLocNameArray=Can_Gap_CurbBomb
+GameLocNameArray=Can_Gap_FenceBomb
+GameLocNameArray=Can_Gap_CarGap
+GameLocNameArray=Can_Gap_FenceExtension
+GameLocNameArray=Can_Gap_CutTheCorner
+GameLocNameArray=Can_Gap_ManualTransmission
+GameLocNameArray=Can_Gap_IPOFunding
+GameLocNameArray=Can_Gap_BannerAdDotCom
+GameLocNameArray=Can_Gap_JustWentBankrupt
+GameLocNameArray=Can_Gap_ParkToLotLaunch
+GameLocNameArray=Can_Gap_ParkingLotMiniGap
+GameLocNameArray=Can_Gap_CrossoverTheEasyWay
+GameLocNameArray=Can_Gap_CrossOverTheHardWay
+GameLocNameArray=Can_Gap_GoLongAndGrind
+GameLocNameArray=Can_Gap_FlyingFenceStomp
+GameLocNameArray=Can_Gap_BigAirFenceStomp
+GameLocNameArray=Can_Gap_NiceSaveCheater
+GameLocNameArray=Can_Gap_MineCartLaunch
+GameLocNameArray=Can_Gap_ProspectorPath
+GameLocNameArray=Can_Gap_AllThatGlitters
+GameLocNameArray=Can_Gap_TheOldWingDam
+GameLocNameArray=Can_Gap_WhoaThatWasCool
+GameLocNameArray=Can_Gap_HitchKnotGap
+GameLocNameArray=Can_Gap_StillBootleggin
+GameLocNameArray=Can_Gap_TheHauntedMine
+GameLocNameArray=Can_Gap_eniMdetnuaHehT
+GameLocNameArray=Can_Gap_BowlToBowl
+GameLocNameArray=Can_Gap_LightItUp
+GameLocNameArray=Can_Gap_BowlToRail
+GameLocNameArray=Can_Gap_RailToBowl
+GameLocNameArray=Can_Gap_Fencetransfer
+GameLocNameArray=Can_Gap_AuroraBurlyAlis
+GameLocNameArray=Can_Gap_AntennaStomp
+GameLocNameArray=Can_Gap_CrookedExtension
+GameLocNameArray=Can_Gap_WeDontNeedNoSR
+GameLocNameArray=Can_Gap_RailBankShot
+GameLocNameArray=Can_Gap_RailStomp
+GameLocNameArray=Can_Gap_FlyingFenceMan
+GameLocNameArray=Can_Gap_FunboxHop
+GameLocNameArray=Can_Gap_FunboxHopToRailStomp
+GameLocNameArray=Can_Gap_Ahhh!MyHead!
+GameLocNameArray=Can_Gap_BreezyPantsGap
+GameLocNameArray=Can_Gap_BreezyChannelGap
+GameLocNameArray=Can_Gap_OvertheHump
+GameLocNameArray=Can_Gap_BuckWild
+GameLocNameArray=Can_Gap_GrindThePine
+GameLocNameArray=Can_Gap_GoodEye!
+GameLocNameArray=Can_Gap_HillsideRailStomp
+GameLocNameArray=Can_Gap_HillsideTreePathLaunch
+GameLocNameArray=Can_Gap_TheresGoldinThemTharHills
+GameLocNameArray=Can_Gap_RiverHop
+GameLocNameArray=Can_Gap_FelledOak
+GameLocNameArray=Can_Gap_AroundTheHorn
+GameLocNameArray=Can_Gap_LookMaNoTalent
+GameLocNameArray=Can_Gap_CorralGapTransfer
+GameLocNameArray=Can_Gap_TheRushIsOn
+GameLocNameArray=Can_Gap_TreeToCorralGrind
+GameLocNameArray=Can_Gap_CorralToTreeGrind
+GameLocNameArray=Can_Gap_CorralToTreeTransfer
+GameLocNameArray=Can_Gap_WalkinTheRiffles
+GameLocNameArray=Can_Gap_PickaxeSluice
+GameLocNameArray=Can_Gap_SmoothAsSilk
+GameLocNameArray=Can_Gap_LoadAndGo
+GameLocNameArray=Can_Gap_CominOutOfTheSky
+GameLocNameArray=Can_Gap_ChainsawBuzzin
+GameLocNameArray=Can_Gap_SavedByTheGenerator
+GameLocNameArray=Cap_Gap_NiceShootin
+GameLocNameArray=Can_Gap_Tex
+GameLocNameArray=Can_Gap_MandatoryVideoGameMineCartRide
+GameLocNameArray=Can_Gap_ThePandhandler
+GameLocNameArray=Can_Gap_DeadMansSlide
+GameLocNameArray=Can_Gap_IsNotGold
+GameLocNameArray=Can_Gap_MountainManMineStomp
+GameLocNameArray=Can_Gap_Rockslide
+GameLocNameArray=Can_Gap_AirinUpAndOut
+GameLocNameArray=Can_Gap_YoureOverTheHill!
+
+[Level_DLC_Airport UIDataProvider_THHDLevel]
+MapId=101
+MapName=THHD_Airport_P
+LevelUnlocked=1
+UISortPriority=3
+LeaderboardId=18
+bIsExpansionLevel=true
+NumberOfCashObjects=8
+Tag=air
+UITexturePath=THHDFrontEnd_DLC1.maps
+UIOverlayPath=/ package/THHDGlobal_DLC1.overlay_air.swf
+CareerObjArray=(UIFriendlyString="Air_Obj_HighScore", CashValue=500, total=75000)
+CareerObjArray=(UIFriendlyString="Air_Obj_ProScore", CashValue=650, total=150000)
+CareerObjArray=(UIFriendlyString="Air_Obj_SickScore", CashValue=800, total=300000)
+CareerObjArray=(UIFriendlyString="GBL_Obj_FindDVD", CashValue=650, total=1)
+CareerObjArray=(UIFriendlyString="GBL_Obj_SKATE", CashValue=600, total=1)
+CareerObjArray=(UIFriendlyString="Air_Obj_GetTickets", CashValue=700, total=5)
+CareerObjArray=(UIFriendlyString="Air_Obj_ManualWalkways", CashValue=750, total=4)
+CareerObjArray=(UIFriendlyString="Air_Obj_AirwalkEscalator", CashValue=800, total=1)
+CareerObjArray=(UIFriendlyString="Air_Obj_VisitCountries", CashValue=850, total=10)
+CareerObjArray=(UIFriendlyString="GBL_Obj_AllCashGoals", CashValue=1000, total=1)
+ProObjArray=(UIFriendlyString="Air_Pro_SickestScore", CashValue=800, total=600000)
+ProObjArray=(UIFriendlyString="GBL_Pro_COMBO", CashValue=650, total=1)
+ProObjArray=(UIFriendlyString="GBL_Pro_GetSkateboards", CashValue=700, total=8)
+ProObjArray=(UIFriendlyString="Air_Pro_LandCombo", CashValue=600, total=350000)
+ProObjArray=(UIFriendlyString="GBL_Pro_Boneless3x", CashValue=500, total=3)
+SurvivalObjArray=(UIFriendlyString="Air_Big_HighScore", CashValue=400)
+SurvivalObjArray=(UIFriendlyString="Air_Big_ProScore", CashValue=700)
+SurvivalObjArray=(UIFriendlyString="Air_Big_SickScore", CashValue=1200)
+HawkmanObjArray=(UIFriendlyString="Air_Hwk_HighScore", CashValue=400)
+HawkmanObjArray=(UIFriendlyString="Air_Hwk_ProScore", CashValue=700)
+HawkmanObjArray=(UIFriendlyString="Air_Hwk_SickScore", CashValue=1200);
+GameLocNameArray=Air_Gap_XRay
+GameLocNameArray=Air_Gap_WalkwayHop
+GameLocNameArray=Air_Gap_WalkwayRide1
+GameLocNameArray=Air_Gap_LocalCall
+GameLocNameArray=Air_Gap_Illuminatin
+GameLocNameArray=Air_Gap_TheHardWayUp
+GameLocNameArray=Air_Gap_DrainingTheVein
+GameLocNameArray=Air_Gap_TakinTheHighRoad
+GameLocNameArray=Air_Gap_EscalatorHop
+GameLocNameArray=Air_Gap_ClaimHop
+GameLocNameArray=Air_Gap_BaggageClaimed
+GameLocNameArray=Air_Gap_SpottedBags
+GameLocNameArray=Air_Gap_EscalatinTheSituation
+GameLocNameArray=Air_Gap_ThroughThePad
+GameLocNameArray=Air_Gap_AdiosChopper
+GameLocNameArray=Air_Gap_HeliportBaggage
+GameLocNameArray=Air_Gap_FlyinHighInTheSky
+GameLocNameArray=Air_Gap_Mulin
+GameLocNameArray=Air_Gap_LookOut
+GameLocNameArray=Air_Gap_DroppinScience
+GameLocNameArray=Air_Gap_LightenUp
+GameLocNameArray=Air_Gap_LongDistance
+GameLocNameArray=Air_Gap_WalkwayRide2
+GameLocNameArray=Air_Gap_OTheS
+GameLocNameArray=Air_Gap_LastHighLight
+GameLocNameArray=Air_Gap_GateHop
+GameLocNameArray=Air_Gap_GateTransfer
+GameLocNameArray=Air_Gap_MusicalChairs
+GameLocNameArray=Air_Gap_CountryOf700Islands
+GameLocNameArray=Air_Gap_WelcomeEh
+GameLocNameArray=Air_Gap_AmericanMade
+GameLocNameArray=Air_Gap_GDay
+GameLocNameArray=Air_Gap_ParlezVousSkate
+GameLocNameArray=Air_Gap_RailHop
+GameLocNameArray=Air_Gap_SpiralStairsSouth
+GameLocNameArray=Air_Gap_SpiralStairsNorth
+GameLocNameArray=Air_Gap_EconomyClassLip
+GameLocNameArray=Air_Gap_EconomyClassGrind
+GameLocNameArray=Air_Gap_BusinessClassLip
+GameLocNameArray=Air_Gap_BusinessClassGrind
+GameLocNameArray=Air_Gap_1stClassGrind
+GameLocNameArray=Air_Gap_1stClassLip
+GameLocNameArray=Air_Gap_WelcomeToTheTriangle
+GameLocNameArray=Air_Gap_Golden
+GameLocNameArray=Air_Gap_Hola
+GameLocNameArray=Air_Gap_Zdrasvuite
+GameLocNameArray=Air_Gap_TeaTime
+GameLocNameArray=Air_Gap_LightHop
+GameLocNameArray=Air_Gap_LightPop
+GameLocNameArray=Air_Gap_OffTheCouch
+
+[Level_DLC_LosAngeles UIDataProvider_THHDLevel]
+MapId=102
+MapName=THHD_LosAngeles_P
+LevelUnlocked=1
+UISortPriority=3
+LeaderboardId=20
+bIsExpansionLevel=true
+NumberOfCashObjects=12
+Tag=los
+UITexturePath=THHDFrontEnd_DLC1.maps
+UIOverlayPath=/ package/THHDGlobal_DLC1.overlay_los.swf
+CareerObjArray=(UIFriendlyString="LA_Obj_HighScore", CashValue=2500, total=100000)
+CareerObjArray=(UIFriendlyString="LA_Obj_ProScore", CashValue=3000, total=190000)
+CareerObjArray=(UIFriendlyString="LA_Obj_SickScore", CashValue=4000, total=400000)
+CareerObjArray=(UIFriendlyString="GBL_Obj_FindDVD", CashValue=2350, total=1)
+CareerObjArray=(UIFriendlyString="GBL_Obj_SKATE", CashValue=2750, total=1)
+CareerObjArray=(UIFriendlyString="LA_Obj_GetCameras", CashValue=2300, total=5)
+CareerObjArray=(UIFriendlyString="LA_Obj_StartEarthquake", CashValue=2250, total=4)
+CareerObjArray=(UIFriendlyString="LA_Obj_VarialRails", CashValue=2500, total=1)
+CareerObjArray=(UIFriendlyString="LA_Obj_FreeBallin", CashValue=2350, total=2)
+CareerObjArray=(UIFriendlyString="GBL_Obj_AllCashGoals", CashValue=4000, total=1)
+ProObjArray=(UIFriendlyString="LA_Pro_SickestScore", CashValue=4000, total=650000)
+ProObjArray=(UIFriendlyString="GBL_Pro_COMBO", CashValue=3350, total=1)
+ProObjArray=(UIFriendlyString="GBL_Pro_GetSkateboards", CashValue=3700, total=8)
+ProObjArray=(UIFriendlyString="LA_Pro_LandCombo", CashValue=3000, total=400000)
+ProObjArray=(UIFriendlyString="GBL_Pro_Boneless3X", CashValue=2800, total=3)
+SurvivalObjArray=(UIFriendlyString="LA_Big_HighScore", CashValue=2500)
+SurvivalObjArray=(UIFriendlyString="LA_Big_ProScore", CashValue=3000)
+SurvivalObjArray=(UIFriendlyString="LA_Big_SickScore", CashValue=4000)
+HawkmanObjArray=(UIFriendlyString="LA_Hwk_HighScore", CashValue=2500)
+HawkmanObjArray=(UIFriendlyString="LA_Hwk_ProScore", CashValue=3000)
+HawkmanObjArray=(UIFriendlyString="LA_Hwk_SickScore", CashValue=4000);
+GameLocNameArray=LA_Gap_EasternTremor
+GameLocNameArray=LA_Gap_RailSkip
+GameLocNameArray=LA_Gap_Bunker
+GameLocNameArray=LA_Gap_NorthernTremor
+GameLocNameArray=LA_Gap_SouthernTremor
+GameLocNameArray=LA_Gap_WesternTremor
+GameLocNameArray=LA_Gap_GettinALearnOn
+GameLocNameArray=LA_Gap_StairSkip
+GameLocNameArray=LA_Gap_DownTheStairs
+GameLocNameArray=LA_Gap_AllTheWay
+GameLocNameArray=LA_Gap_PureAir
+GameLocNameArray=LA_Gap_WestSide
+GameLocNameArray=LA_Gap_NosebleedTime
+GameLocNameArray=LA_Gap_GoinBallistic
+GameLocNameArray=LA_Gap_TowerPoppin
+GameLocNameArray=LA_Gap_WashinWindows
+GameLocNameArray=LA_Gap_WireDrop
+GameLocNameArray=LA_Gap_TowerRailSwap
+GameLocNameArray=LA_Gap_TowerSouth
+GameLocNameArray=LA_Gap_Electrified
+GameLocNameArray=LA_Gap_SouthernWasherLip
+GameLocNameArray=LA_Gap_NorthernWasherLip
+GameLocNameArray=LA_Gap_OverTheFountain
+GameLocNameArray=LA_Gap_FountainHop
+GameLocNameArray=LA_Gap_Kiosk
+GameLocNameArray=LA_Gap_TheyreGrate
+GameLocNameArray=LA_Gap_TowerRailsGap
+GameLocNameArray=LA_Gap_DoorwayHop
+GameLocNameArray=LA_Gap_VentingFrustration
+GameLocNameArray=LA_Gap_TowerLockin
+GameLocNameArray=LA_Gap_ShootsNLadders
+GameLocNameArray=LA_Gap_ToTheLadder
+GameLocNameArray=LA_Gap_NiceMove
+GameLocNameArray=LA_Gap_HotHotHot
+GameLocNameArray=LA_Gap_LipWash
+GameLocNameArray=LA_Gap_SqueakyClean
+GameLocNameArray=LA_Gap_GrindIllin
+GameLocNameArray=LA_Gap_ColdChillin
+GameLocNameArray=LA_Gap_BurritoCarnitas
+GameLocNameArray=LA_Gap_BurritoGrande
+GameLocNameArray=LA_Gap_PassinGas
+GameLocNameArray=LA_Gap_TripleXHop
+GameLocNameArray=LA_Gap_YellowCutter
+GameLocNameArray=LA_Gap_DontFall
+GameLocNameArray=LA_Gap_BustinCheeries
+GameLocNameArray=LA_Gap_OverPass
+GameLocNameArray=LA_Gap_RidinTheXXX
+GameLocNameArray=LA_Gap_PershingRamp
+GameLocNameArray=LA_Gap_PurpleTransfer
+GameLocNameArray=LA_Gap_PurpleSkippin
+GameLocNameArray=LA_Gap_IndianaStyle
+GameLocNameArray=LA_Gap_HotelLipSmackin
+GameLocNameArray=LA_Gap_HungOver
+GameLocNameArray=LA_Gap_ToTheStairs
+GameLocNameArray=LA_Gap_OverTheYellowStoneShack
+GameLocNameArray=LA_Gap_YellowFall
+GameLocNameArray=LA_Gap_WireRidin1
+GameLocNameArray=LA_Gap_WireRidin2
+GameLocNameArray=LA_Gap_WireRidin3
+GameLocNameArray=LA_Gap_OverPassAftershock
+GameLocNameArray=LA_Gap_AlleyOop
+
+[IniVersion]
+0=1597633783.000000
+

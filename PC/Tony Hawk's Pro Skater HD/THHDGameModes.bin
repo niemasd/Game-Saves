@@ -1,0 +1,73 @@
+[GameMode_Career UIDataProvider_THHDGameMode]
+ModeId=0
+ModeName=Career
+FriendlyName=ModeCareer
+Description=ModeCareerDesc
+activeHud=(timer=true, score=true, grind=true, manual=true, special=true, stance=true, combo=true, careerCash=true, mainObj=true, quickUpdate=true, cashProg=true, hawkMan=false, bigHead=false)
+
+[GameMode_Single UIDataProvider_THHDGameMode]
+ModeId=1
+ModeName=Single
+FriendlyName=ModeSingle
+Description=ModeSingleDesc
+activeHud=(timer=true, score=true, grind=true, manual=true, special=true, stance=true, combo=true, careerCash=false, mainObj=true, quickUpdate=true, cashProg=false, hawkMan=false, bigHead=false)
+
+[GameMode_Free UIDataProvider_THHDGameMode]
+ModeId=2
+ModeName=Free
+FriendlyName=ModeFree
+Description=ModeFreeDesc
+activeHud=(timer=false, score=true, grind=true, manual=true, special=true, stance=true, combo=true, careerCash=false, mainObj=false, quickUpdate=true, cashProg=false, hawkMan=false, bigHead=false)
+
+[GameMode_Hawkman UIDataProvider_THHDGameMode]
+ModeId=3
+ModeName=Hawkman
+FriendlyName=ModeHawkman
+Description=ModeHawkmanDesc
+activeHud=(timer=true, score=false, grind=true, manual=true, special=true, stance=true, combo=true, careerCash=true, mainObj=false, quickUpdate=true, cashProg=false, hawkMan=true, bigHead=false)
+
+[GameMode_BigHead UIDataProvider_THHDGameMode]
+ModeId=4
+ModeName=BigHead
+FriendlyName=ModeBigHead
+Description=ModeBigHeadDesc
+activeHud=(timer=true, score=false, grind=true, manual=true, special=true, stance=true, combo=true, careerCash=true, mainObj=false, quickUpdate=true, cashProg=false, hawkMan=false, bigHead=true)
+
+[GameMode_Projectives UIDataProvider_THHDGameMode]
+ModeId=5
+ModeName=Projectives
+FriendlyName=ModePro
+Description=ModeProDesc
+activeHud=(timer=true, score=true, grind=true, manual=true, special=true, stance=true, combo=true, careerCash=true, mainObj=true, quickUpdate=true, cashProg=false, hawkMan=false, bigHead=false)
+
+[GameMode_MPTrickAttack UIDataProvider_THHDGameMode]
+ModeId=6
+ModeName=MPTrickAttack
+FriendlyName=ModeMPTrickAttack
+Description=ModeMPTrickAttackDesc
+activeHud=(timer=true, score=true, grind=true, manual=true, special=true, stance=true, combo=true, careerCash=false, mainObj=true, quickUpdate=true, cashProg=false, hawkMan=false, bigHead=false)
+
+[GameMode_MPGraffiti UIDataProvider_THHDGameMode]
+ModeId=7
+ModeName=MPGraffiti
+FriendlyName=ModeMPGraffiti
+Description=ModeMPGraffitiDesc
+activeHud=(timer=true, score=true, grind=true, manual=true, special=true, stance=true, combo=true, careerCash=false, mainObj=true, quickUpdate=true, cashProg=false, hawkMan=false, bigHead=false)
+
+[GameMode_MPFreeSkate UIDataProvider_THHDGameMode]
+ModeId=8
+ModeName=MPFreeSkate
+FriendlyName=ModeMPFreeSkate
+Description=ModeMPFreeSkateDesc
+activeHud=(timer=false, score=true, grind=true, manual=true, special=true, stance=true, combo=true, careerCash=false, mainObj=true, quickUpdate=true, cashProg=false, hawkMan=false, bigHead=false)
+
+[GameMode_MPBigHead UIDataProvider_THHDGameMode]
+ModeId=9
+ModeName=MPBigHead
+FriendlyName=ModeMPBigHead
+Description=ModeMPBigHeadDesc
+activeHud=(timer=true, score=true, grind=true, manual=true, special=true, stance=true, combo=true, careerCash=false, mainObj=true, quickUpdate=true, cashProg=false, hawkMan=false, bigHead=false)
+
+[IniVersion]
+0=1597633642.000000
+

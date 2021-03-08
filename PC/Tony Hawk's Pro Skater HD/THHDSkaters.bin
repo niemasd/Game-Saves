@@ -1,0 +1,691 @@
+[Skater_TonyHawk UIDataProvider_THHDSkater]
+CharacterId=0
+UISortPriority=0
+SkaterArchetypeName=SkaterArchetypes.sk_TonyHawk
+SkeletalMeshName=Ch_TonyHawk.Meshes.TonyHawk
+AltSkeletalMeshName=Ch_TonyHawk.Meshes.TonyHawk_Vert
+UIPreviewScale=1.04
+Identifier=tonyH
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_tonyH
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="HAWK NEVERWAS", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="HAWK CREEPER", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HAWK BONEPILE", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HAWK CLAW", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HAWK BIG SKULL", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HAWK AND SKULL", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HAWK NEW CREST", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HAWK CARRIED", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=5)
+CharBioLoc=TonyHawkBio
+CharBioHomeTownLoc=TonyBioHomeTown
+charBioYearsProLoc=TonyBioYearsPro
+CharStance=Goofy
+CharStyle=Vert
+AkRTPCCharacterVoiceParamValue=VO_Tony
+
+[Skater_RodneyMullen UIDataProvider_THHDSkater]
+CharacterId=1
+UISortPriority=2
+SkaterArchetypeName=SkaterArchetypes.sk_RodneyMullen
+SkeletalMeshName=Ch_RodneyMullins.Meshes.rodneymullins
+AltSkeletalMeshName=Ch_RodneyMullins.Meshes.rodneymullins_alt
+UIPreviewScale=0.99
+Identifier=rodneyM
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_rodneyM
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="CROOKED LOGO", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="PAINT BRUSH", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="UBER LIGHT", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="LIL' MO", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="SLOPPY SECONDS", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="FREESYTLE", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="CUT HERE", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="DOUBLE DOUBLE", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="HANGTIME", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="LIPBAL", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="MANUALBAL", StatValue=8)
+CharBioLoc=RodneyMullenBio
+CharBioHomeTownLoc=RodneyBioHomeTown
+charBioYearsProLoc=RodneyBioYearsPro
+CharStance=Goofy
+CharStyle=Street
+AkRTPCCharacterVoiceParamValue=VO_David
+
+[Skater_LynZ UIDataProvider_THHDSkater]
+CharacterId=2
+UISortPriority=2
+SkaterArchetypeName=SkaterArchetypes.sk_LynZHawkins
+SkeletalMeshName=CH_Lynz.Meshes.LynZ
+AltSkeletalMeshName=CH_Lynz.Meshes.lynz_alt
+UIPreviewScale=0.95
+Identifier=lynzH
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_lynzH
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="LOGO STRIPES", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="PINK CLASSIC", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="DOTS", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="PINK REPEAT", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="LYN-Z TWOTONE", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="PURPLE OUTLINE", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="LYN-Z CREST", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="STAAB PIRATE SHIP", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="HANGTIME", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=7)
+CharBioLoc=LynZBio
+CharBioHomeTownLoc=LynZBioHomeTown
+charBioYearsProLoc=LynZBioYearsPro
+CharStance=Regular
+CharStyle=All-Around
+AkRTPCCharacterVoiceParamValue=VO_LynZ
+
+[Skater_EricKoston UIDataProvider_THHDSkater]
+CharacterId=3
+UISortPriority=2
+SkaterArchetypeName=SkaterArchetypes.sk_EricKoston
+SkeletalMeshName=Ch_Koston.Meshes.Koston_alt
+AltSkeletalMeshName=Ch_Koston.Meshes.Koston
+UIPreviewScale=1.0
+Identifier=ericK
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_ericK
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="MEGA JAMZ", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="B.A. WINGS", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="PARIS OG", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="POP SECRET", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="B.A. STENCIL", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="INVERT", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="BUMPER STICKER", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="NAVAJO", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=6)
+CharBioLoc=EricKostonBio
+CharBioHomeTownLoc=KostonBioHomeTown
+charBioYearsProLoc=KostonBioYearsPro
+CharStance=Goofy
+CharStyle=Street
+AkRTPCCharacterVoiceParamValue=VO_Jason
+
+[Skater_AndrewReynolds UIDataProvider_THHDSkater]
+CharacterId=4
+UISortPriority=2
+SkaterArchetypeName=SkaterArchetypes.sk_AndrewReynolds
+SkeletalMeshName=CH_Reynolds.Meshes.reynolds
+AltSkeletalMeshName=CH_Reynolds.Meshes.reynolds_alt
+UIPreviewScale=1.02
+Identifier=andyR
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_andyR
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="BRAND LOGO RED", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="REYNOLDS ATL BLUE", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="BAKED YELLOW", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="STACKED LIME GREEN", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="STICKER CRAZY", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="REYNOLDS METAL FONT", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="REYNOLDS AR BLACK", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="REYNOLDS' BBQ", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=3)
+CharBioLoc=AndrewReynoldsBio
+CharBioHomeTownLoc=ReynoldsBioHomeTown
+charBioYearsProLoc=ReynoldsBioYearsPro
+CharStance=Regular
+CharStyle=Street
+AkRTPCCharacterVoiceParamValue=VO_David
+
+[Skater_NyjahHuston UIDataProvider_THHDSkater]
+CharacterId=5
+UISortPriority=2
+SkaterArchetypeName=SkaterArchetypes.sk_NyjahHuston
+SkeletalMeshName=CH_Nyjah.Meshes.Nyjah
+AltSkeletalMeshName=CH_Nyjah.Meshes.Nyjah_alt
+UIPreviewScale=0.97
+Identifier=nyjahH
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_nyjahH
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="NYJAH RISE AND SHINE", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="ELEMENT NYJAH VARSITY", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="ELEMENT SEAL", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="ELEMENT NYJAH SCIENCE", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="NYJAH RISE UP GOLD", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="ELEMENT NYJAH ALL STAR", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="ELEMENT SECTION", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="ELEMENT NYJAH FEROCITY", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=5)
+CharBioLoc=NyjahHustonBio
+CharBioHomeTownLoc=HustonBioHomeTown
+charBioYearsProLoc=HustonBioYearsPro
+CharStance=Goofy
+CharStyle=Street
+AkRTPCCharacterVoiceParamValue=VO_Jason
+
+[Skater_ChrisCole UIDataProvider_THHDSkater]
+CharacterId=6
+UISortPriority=2
+SkaterArchetypeName=SkaterArchetypes.sk_ChrisCole
+SkeletalMeshName=CH_Cole.Meshes.Cole
+AltSkeletalMeshName=CH_Cole.Meshes.cole_alt
+UIPreviewScale=1.01
+Identifier=chrisC
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_chrisC
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="COLE SURVIVAL", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="SINGLE SKULL", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="BLOOD", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="FIRST BLOOD", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="FLAGSHIP", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="ANGEL OF DEATH", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="BOLD", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="ZOMBIE", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=3)
+CharBioLoc=ChrisColeBio
+CharBioHomeTownLoc=ColeBioHomeTown
+charBioYearsProLoc=ColeBioYearsPro
+CharStance=Regular
+CharStyle=All-Around
+AkRTPCCharacterVoiceParamValue=VO_David
+
+[Skater_RileyHawk UIDataProvider_THHDSkater]
+CharacterId=7
+UISortPriority=2
+SkaterArchetypeName=SkaterArchetypes.sk_RileyHawk
+SkeletalMeshName=CH_RileyHawk.Meshes.RileyHawk
+AltSkeletalMeshName=CH_RileyHawk.Meshes.RileyHawk_Alt
+UIPreviewScale=1.03
+Identifier=rileyH
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_rileyH
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="INTERLOCK", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="TEAM TWOTONE", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="LOGOBOARD", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="MANFACE", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="CREST TEAM", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="JAWS CANDY", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="TEAM ZOMBIE", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="CREATION OF JAWS", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=2)
+CharBioLoc=RileyHawkBio
+CharBioHomeTownLoc=RileyBioHomeTown
+charBioYearsProLoc=RileyBioYearsPro
+CharStance=Goofy
+CharStyle=Street
+AkRTPCCharacterVoiceParamValue=VO_Jason
+
+[Skater_Cop UIDataProvider_THHDSkater]
+CharacterId=8
+UISortPriority=3
+SkaterArchetypeName=SkaterArchetypes.sk_Cop
+SkeletalMeshName=CH_Cop.Meshes.Cop
+AltSkeletalMeshName=CH_Cop.Meshes.Cop
+UIPreviewScale=1.0
+Identifier=COP
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_COP
+DefaultUnlocked=0
+DefaultBoardsArray=(UIFriendlyString="JESSE MARTINEZ \"TRIBUTE\"", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="MIKE MCGILL SKULL & SNAKE", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="STEVE CAB BAN THIS DRAGON", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="KEVIN HARRIS MOUNTIE", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="RODRIGUEZ SKULL & SWORD", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="CHAD BARTIE SKULL", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="JORDAN HOFFART PEGASUS", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="OLD SCHOOL RIPPER", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=4)
+CharBioLoc=CopBio
+CharBioHomeTownLoc=CopBioHomeTown
+charBioYearsProLoc=CopBioYearsPro
+CharStance=Regular
+CharStyle=Street
+AkRTPCCharacterVoiceParamValue=VO_Cop
+
+[Skater_THPS UIDataProvider_THHDSkater]
+CharacterId=9
+UISortPriority=3
+SkaterArchetypeName=SkaterArchetypes.sk_TonyTHPS
+SkeletalMeshName=Ch_TonyHawk.Meshes.TonyHawk_LowRez
+AltSkeletalMeshName=Ch_TonyHawk.Meshes.TonyHawk_LowRez
+UIPreviewScale=1.04
+Identifier=THPS
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_THPS
+DefaultUnlocked=0
+DefaultBoardsArray=(UIFriendlyString="HAWK FULL SKULL", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="HAWK MCSQUEEB RED", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="TONY HAWK CLAW", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HAWK CREST", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="TONY HAWK STREET", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="TONY HAWK FSPIRAL", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="TONY HAWK #1 BIRD", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="TONY HAWK SKULL", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=5)
+CharBioLoc=THPSBio
+CharBioHomeTownLoc=THPSBioHomeTown
+charBioYearsProLoc=THPSBioYearsPro
+CharStance=Goofy
+CharStyle=Vert
+AkRTPCCharacterVoiceParamValue=VO_Tony
+
+[Skater_Ollie UIDataProvider_THHDSkater]
+CharacterId=10
+UISortPriority=3
+SkaterArchetypeName=SkaterArchetypes.sk_OllieBum
+SkeletalMeshName=CH_Ollie.Meshes.Ollie
+AltSkeletalMeshName=CH_Ollie.Meshes.Ollie
+UIPreviewScale=1.0
+Identifier=OLLIE
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_OLLIE
+DefaultUnlocked=0
+DefaultBoardsArray=(UIFriendlyString="COFFIN", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="THUMBS UP", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="MUMMY", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="DISMEMBERED", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="SCOOTER DUDE", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="ELECTRIC STRIPES", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="SKULL", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="THE BISH", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=4)
+CharBioLoc=OllieBio
+CharBioHomeTownLoc=OllieBioHomeTown
+charBioYearsProLoc=OllieBioYearsPro
+CharStance=Goofy
+CharStyle=Vert
+AkRTPCCharacterVoiceParamValue=VO_Caveman
+
+[Skater_RobomodoBot UIDataProvider_THHDSkater]
+CharacterId=11
+UISortPriority=3
+SkaterArchetypeName=SkaterArchetypes.sk_RoboRobot
+SkeletalMeshName=CH_RobomodoBot.Meshes.RobomodoBot
+AltSkeletalMeshName=CH_RobomodoBot.Meshes.RobomodoBot
+UIPreviewScale=1.15
+Identifier=roboM
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_roboM
+DefaultUnlocked=0
+DefaultBoardsArray=(UIFriendlyString="DOESN'T FIT", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="ORIGINAL PANDA", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="INK AND PAPER", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="BEST SELLERS", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="SPECTRUM GINGHAM", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="BUSINESS PANDA", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="PBJ ALL DAY", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="ABDUCTION", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=4)
+CharBioLoc=RobomodoBotBio
+CharBioHomeTownLoc=RobotBioHomeTown
+charBioYearsProLoc=RobotBioYearsPro
+CharStance=Goofy
+CharStyle=All-Around
+AkRTPCCharacterVoiceParamValue=VO_Martian
+
+[Skater_ContestWinner UIDataProvider_THHDSkater]
+CharacterId=12
+UISortPriority=2
+SkaterArchetypeName=SkaterArchetypes.sk_ContestWinner
+SkeletalMeshName=CH_ContestWinner.Meshes.ContestWinner
+AltSkeletalMeshName=CH_ContestWinner.Meshes.ContestWinner
+UIPreviewScale=0.92
+Identifier=jakeH
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_jakeH
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="PLAN B TEAM JERSEY", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="PLAN B TEAM MAGNUM", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="PLAN B MASCOT", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="PLAN B MASSIVE", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="PLAN B TEAM NATIONAL", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="PLAN B OG BLACK", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="PLAN B PENNANT", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="PLAN B UNITED BLUE", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=2)
+CharBioLoc=ContestWinnerBio
+CharBioHomeTownLoc=BoyWinnerBioHomeTown
+charBioYearsProLoc=BoyWinnerBioYearsPro
+CharStance=Regular
+CharStyle=Vert
+AkRTPCCharacterVoiceParamValue=VO_Chaz
+
+[Skater_Emily UIDataProvider_THHDSkater]
+CharacterId=13
+UISortPriority=2
+SkaterArchetypeName=SkaterArchetypes.sk_ContestWinner_Female
+SkeletalMeshName=CH_Emily.Meshes.Emily
+AltSkeletalMeshName=CH_Emily.Meshes.Emily
+UIPreviewScale=1.01
+Identifier=emilyW
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_emilyW
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="MULTI ELEPHANT", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="LOGO 3", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="TRIPPY 2", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="LOGO 2", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="TRIPPY", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="LOGO 1", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="FLYING ELEPHANT", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HIPPIE STICK", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=6)
+CharBioLoc=ContestWinnerGirlBio
+CharBioHomeTownLoc=GirlWinnerBioHomeTown
+charBioYearsProLoc=GirlWinnerBioYearsPro
+CharStance=Goofy
+CharStyle=Street
+AkRTPCCharacterVoiceParamValue=VO_SkaterGirl
+
+[Skater_AvatarSkater UIDataProvider_THHDSkater]
+CharacterId=14
+UISortPriority=4
+SkaterArchetypeName=SkaterArchetypes.sk_AvatarSkater
+SkeletalMeshName=CH_Avatar.Meshes.Avatar
+AltSkeletalMeshName=Ch_Avatar.Meshes.Avatar
+bIsAvatar=true
+UIPreviewScale=0.9
+Identifier=avatar
+UITexturePath=THHDFrontEnd
+PlayerIcon=THHDGlobal.picons.picon_avatar
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="HAWK ROSES", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="HAWK MCSQUEEB BLUE", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="SKATEPARK SERIES CARDS", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="SKATEPARK SERIES BIG HAWK", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HAWK FIGHTER", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="SKATEPARK SERIES BIG JOE", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HAWK MAYAN", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="SKATEPARK SERIES INVADER", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=8)
+CharBioLoc=AvatarBio
+CharBioHomeTownLoc=AvatarBioHomeTown
+charBioYearsProLoc=AvatarBioYearsPro
+CharStance=Regular
+CharStyle=All-Around
+
+[Skater_DLC_SteveCaballero UIDataProvider_THHDSkater]
+CharacterId=100
+UISortPriority=2
+bIsExpansionSkater=true
+SkaterArchetypeName=SkaterArchetypes_DLC1.sk_SteveCaballero
+SkeletalMeshName=CH_Caballero.Meshes.caballero
+AltSkeletalMeshName=CH_Caballero.Meshes.caballer_alt
+UIPreviewScale=0.95
+Identifier=steveC
+UITexturePath=THHDFrontEnd_DLC1
+PlayerIcon=THHDGlobal_DLC1.picons.picon_steveC
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="CAB DRAGON II YELLOW", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="CAB STREET", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="CAB HOT ROD RED", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="CAB BAN THIS", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="CAB FAUX BEAMER", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="CAB MECHANICAL DRAGON", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="CAB DRAGON II BLACK", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="CAB CHINESE DRAGON", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=5)
+CharBioLoc=SteveCBio
+CharBioHomeTownLoc=SteveCBioHomeTown
+charBioYearsProLoc=SteveCBioYearsPro
+CharStance=Goofy
+CharStyle=Vert
+AkRTPCCharacterVoiceParamValue=VO_David
+
+[Skater_DLC_GeoffRowley UIDataProvider_THHDSkater]
+CharacterId=101
+UISortPriority=2
+bIsExpansionSkater=true
+SkaterArchetypeName=SkaterArchetypes_DLC1.sk_GeoffRowley
+SkeletalMeshName=Ch_Geoff.Meshes.geoff
+AltSkeletalMeshName=Ch_Geoff.Meshes.geoff_alt
+UIPreviewScale=.99
+Identifier=geoffR
+UITexturePath=THHDFrontEnd_DLC1
+PlayerIcon=THHDGlobal_DLC1.picons.picon_geoffR
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="FAST TIMES", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="FLIP FLOP", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="MODERN", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HIPNOTIC", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="EMOJI", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="ACE OF SPADES", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="DEATH CARD", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="P2 SPLAT", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=2)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=8)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=3)
+CharBioLoc=GeoffRBio
+CharBioHomeTownLoc=GeoffRBioHomeTown
+charBioYearsProLoc=GeoffRBioYearsPro
+CharStance=Goofy
+CharStyle=Vert
+AkRTPCCharacterVoiceParamValue=VO_Geoff
+
+[Skater_DLC_RobertTrujillo UIDataProvider_THHDSkater]
+CharacterId=102
+UISortPriority=2
+bIsExpansionSkater=true
+SkaterArchetypeName=SkaterArchetypes_DLC1.sk_RobertTrujillo
+SkeletalMeshName=Ch_Robert.Meshes.robert
+AltSkeletalMeshName=Ch_Robert.Meshes.robert
+UIPreviewScale=1.0
+Identifier=robT
+UITexturePath=THHDFrontEnd_DLC1
+PlayerIcon=THHDGlobal_DLC1.picons.picon_robT
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="CROSS LOGO", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="DEATH TO INVADERS", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="BANDANA", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="RATON", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="RAT RING", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="POOL SKOOL", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="BONECROSS", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="SUN BURST", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=3)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=4)
+CharBioLoc=RobertTBio
+CharBioHomeTownLoc=RobertTBioHomeTown
+charBioYearsProLoc=RobertTBioYearsPro
+CharStance=Goofy
+CharStyle=Vert
+AkRTPCCharacterVoiceParamValue=VO_Travis
+
+[Skater_DLC_JamesHetfield UIDataProvider_THHDSkater]
+CharacterId=103
+UISortPriority=2
+bIsExpansionSkater=true
+SkaterArchetypeName=SkaterArchetypes_DLC1.sk_JamesHetfield
+SkeletalMeshName=Ch_James.Meshes.james
+AltSkeletalMeshName=Ch_James.Meshes.james
+UIPreviewScale=1.01
+Identifier=jamesH
+UITexturePath=THHDFrontEnd_DLC1
+PlayerIcon=THHDGlobal_DLC1.picons.picon_jamesH
+DefaultUnlocked=1
+DefaultBoardsArray=(UIFriendlyString="HOT ROD FLAMES", BoardCost=0, BoardUnlocked=1, BoardPurchased=1)
+DefaultBoardsArray=(UIFriendlyString="RIPPER NEW SCHOOL", BoardCost=250, BoardUnlocked=1, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="FUTURE PRIMITIVE", BoardCost=500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="VATO RAT", BoardCost=750, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="HYDRANT DRAGON", BoardCost=1000, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="FAUX BEAMER", BoardCost=1250, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="GRAFFITI RIPPER", BoardCost=1500, BoardUnlocked=0, BoardPurchased=0)
+DefaultBoardsArray=(UIFriendlyString="SKULL & DAGGERS", BoardCost=1750, BoardUnlocked=0, BoardPurchased=0)
+DefaultStatsArray=(UIFriendlyString="AIR", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="HangTime", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="OLLIE", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="SPEED", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SPIN", StatValue=7)
+DefaultStatsArray=(UIFriendlyString="LANDING", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="SWITCH", StatValue=4)
+DefaultStatsArray=(UIFriendlyString="RailBal", StatValue=6)
+DefaultStatsArray=(UIFriendlyString="LipBal", StatValue=5)
+DefaultStatsArray=(UIFriendlyString="ManualBal", StatValue=4)
+CharBioLoc=JamesHBio
+CharBioHomeTownLoc=JamesHBioHomeTown
+charBioYearsProLoc=JamesHBioYearsPro
+CharStance=Goofy
+CharStyle=Vert
+AkRTPCCharacterVoiceParamValue=VO_BeardGuy
+
+[IniVersion]
+0=1597633792.000000
+
