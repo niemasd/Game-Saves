@@ -3,6 +3,11 @@
 ## Total Enemies Killed
 This is a 2-byte integer at address `0139C53C`.
 
+## Random Enemy Encounter
+It seems like the enemy group you encounter in a random battle is stored as an array of 4 bytes starting at address `00FB7422`:
+* Bytes 1-3: Not sure (seemingly always `6D 30 31`?)
+* Byte 4: The monster group you encounter
+
 ## Items
 The inventory starts at address `0139F7CC`. Each item in the inventory is represented using 4 bytes:
 * Bytes 1-2 = item value (array of byte)
