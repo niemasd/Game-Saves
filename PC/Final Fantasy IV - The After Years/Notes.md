@@ -12,7 +12,49 @@ The inventory starts at address `0139F7CC`. Each item in the inventory is repres
 ### Changing Items
 The first inventory item slot is at address `0139F7CC`, and each subsequent item is 4 bytes further (e.g. the second item is at address `139F7D0`). Set the inventory slot's item value to one of the following (these are hex values):
 
-#### `08` = Armor, Consumables
+#### Byte 2 = `07`
+* Anything less than `D0` seems to crash the game
+* `D0 07` = Empty Name
+* `D1 07` = Flame Claws
+* `D2 07` = Ice Claws
+* `D3 07` = Lightning Claws
+* `D4 07` = Faerie Claws
+* `D5 07` = Hell Claws
+* `D6 07` = Cat Claws
+* `D7 07` = Rod
+* `D8 07` = Ice Rod
+* `D9 07` = Flame Rod
+* `DA 07` = Thunder Rod
+* `DB 07` = Polymorph Rod
+* `DC 07` = Faerie Rod
+* `DD 07` = Stardust Rod
+* `DE 07` = Lilith Rod
+* `DF 07` = Staff
+* `E0 07` = Healing Staff
+* `E1 07` = Mythril Staff
+* `E2 07` = Power Staff
+* `E3 07` = Aura Staff
+* `E4 07` = Sage's Staff
+* `E5 07` = Rune Staff
+* `E6 07` = Dark Sword
+* `E7 07` = Shadow Blade
+* `E8 07` = Deathbringer
+* `E9 07` = Mythgraven Blade
+* `EA 07` = Lustrous Sword
+* `EB 07` = Excalibur
+* `EC 07` = Flame Sword
+* `ED 07` = Icebrand
+* `EE 07` = Defender
+* `EF 07` = Blood Sword
+* `F0 07` = Ancient Sword
+* `F1 07` = Sleep Blade
+* `F2 07` = Stoneblade
+* `F3 07` = Spear
+* `F4 07` = Wind Spear
+* `F5 07` = Flame Lance
+* Anything greater than `F5` seems to carsh the game
+
+#### Byte 2 = `08`
 * `00 08` = Masamune
 * `01 08` = Assassin's Dagger
 * `02 08` = Mage Masher
@@ -176,45 +218,15 @@ The first inventory item slot is at address `0139F7CC`, and each subsequent item
 * `B9 08` = Cockatrice
 * `BA 08` = Mindflayer
 * Anything greater than `BA` seems to carsh the game
-
-#### `07` = Weapons
-* Anything less than `D0` seems to crash the game
-* `D0 07` = Empty Name
-* `D1 07` = Flame Claws
-* `D2 07` = Ice Claws
-* `D3 07` = Lightning Claws
-* `D4 07` = Faerie Claws
-* `D5 07` = Hell Claws
-* `D6 07` = Cat Claws
-* `D7 07` = Rod
-* `D8 07` = Ice Rod
-* `D9 07` = Flame Rod
-* `DA 07` = Thunder Rod
-* `DB 07` = Polymorph Rod
-* `DC 07` = Faerie Rod
-* `DD 07` = Stardust Rod
-* `DE 07` = Lilith Rod
-* `DF 07` = Staff
-* `E0 07` = Healing Staff
-* `E1 07` = Mythril Staff
-* `E2 07` = Power Staff
-* `E3 07` = Aura Staff
-* `E4 07` = Sage's Staff
-* `E5 07` = Rune Staff
-* `E6 07` = Dark Sword
-* `E7 07` = Shadow Blade
-* `E8 07` = Deathbringer
-* `E9 07` = Mythgraven Blade
-* `EA 07` = Lustrous Sword
-* `EB 07` = Excalibur
-* `EC 07` = Flame Sword
-* `ED 07` = Icebrand
-* `EE 07` = Defender
-* `EF 07` = Blood Sword
-* `F0 07` = Ancient Sword
-* `F1 07` = Sleep Blade
-* `F2 07` = Stoneblade
-* `F3 07` = Spear
-* `F4 07` = Wind Spear
-* `F5 07` = Flame Lance
-* Anything greater than `F5` seems to carsh the game
+* Anything less than ??? seems to crash the game
+* `F5 08` = Perseus's Bow
+* `F6 08` = Perseus Arrows
+* `F7 08` = Tiger Fangs
+* `F8 08` = Dragon Claws
+* `F9 08` = Loki's Lute
+* `FA 08` = Rising Sun
+* `FB 08` = Assassin's Dagger
+* `FC 08` = Gigant Axe
+* `FD 08` = Hog Call
+* `FE 08` = Hero's Shield
+* `FF 08` = Rainbow Robe
