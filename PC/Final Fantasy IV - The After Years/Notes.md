@@ -11,7 +11,10 @@ The inventory starts at address `0139F7CC`. Each item in the inventory is repres
 * Byte 4 is an integer with some unknown function (usually 0)
 
 ### Changing Items
-The first inventory item slot is at address `0139F7CC`, and each subsequent item is 4 bytes further (e.g. the second item is at address `139F7D0`). Set the inventory slot's item value to one of the following (these are decial values)
+The first inventory item slot is at address `0139F7CC`, and each subsequent item is 4 bytes further (e.g. the second item is at address `139F7D0`). Set the inventory slot's item value to one of the following (these are decial values).
+
+#### Usable Items
+Place a usable item in the first (top-left) slot of your inventory, and then set address `0139F7CC` to one of the following:
 * Anything less than 155 seems to crash the game
 * `155` = Bestiary
 * `156` = Alarm Clock
