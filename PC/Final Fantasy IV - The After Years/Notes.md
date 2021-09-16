@@ -12,6 +12,10 @@ The inventory starts at address `0139F7CC`. Each item in the inventory is repres
 
 ### Changing Items
 The first inventory item slot is at address `0139F7CC`, and each subsequent item is 4 bytes further (e.g. the second item is at address `139F7D0`). Set the inventory slot's item value to one of the following (these are decial values)
+* Anything less than 155 seems to crash the game
+* `155` = Bestiary
+* `156` = Alarm Clock
+* `157` = Unicorn Horn
 * `158` = Potion
 * `159` = Hi-Potion
 * `160` = X-Potion
@@ -41,4 +45,4 @@ The first inventory item slot is at address `0139F7CC`, and each subsequent item
 * `184` = Bomb
 * `185` = Cockatrice
 * `186` = Mindflayer
-* Anything larger than 186 crashes the game
+* Anything larger than 186 seems to carsh the game
