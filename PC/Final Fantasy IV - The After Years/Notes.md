@@ -41,3 +41,4 @@ The first inventory item slot is at address `0139F7CC`, and each subsequent item
 * `184` = Bomb
 * `185` = Cockatrice
 * `186` = Mindflayer
+* Anything larger than 186 crashes the game
