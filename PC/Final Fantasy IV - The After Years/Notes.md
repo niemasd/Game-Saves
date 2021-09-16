@@ -23,7 +23,19 @@ The first inventory item slot is at address `0139F7CC`, and each subsequent item
 * `07 08` = Dragon Whisker
 * `08 08` = Crescent Axe
 * `09 08` = Dwarven Axe
-* Anything greater than ??? seems to crash the game
+* `0A 08` = Ogrekiller
+* `0B 08` = Mythril Knife
+* `0C 08` = Dancing Dagger
+* `0D 08` = Mythril Sword
+* `0E 08` = Kitchen Knife
+* `0F 08` = Ragnarok
+* `10 08` = Shuriken
+* `11 08` = Fuma Shuriken
+* `12 08` = Boomerang
+* `13 08` = Moonring Blade
+* `14 08` = Dream Harp
+* `15 08` = Lamia Harp
+* Anything greater than `16 08` seems to crash the game
 * Anything less than `31 08` seems to crash the game
 * `31 08` = Iron Shield
 * `32 08` = Dark Shield
