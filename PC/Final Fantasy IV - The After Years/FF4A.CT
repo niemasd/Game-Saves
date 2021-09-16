@@ -2,6 +2,13 @@
 <CheatTable CheatEngineTableVersion="38">
   <CheatEntries>
     <CheatEntry>
+      <ID>24</ID>
+      <Description>"Total Enemies Killed"</Description>
+      <LastState Value="2048" RealAddress="0139C53C"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>FF4A.exe+23C53C</Address>
+    </CheatEntry>
+    <CheatEntry>
       <ID>15</ID>
       <Description>"Item Quantities"</Description>
       <Options moRecursiveSetValue="1" moAllowManualCollapseAndExpand="1"/>
@@ -11,7 +18,7 @@
         <CheatEntry>
           <ID>0</ID>
           <Description>"Item 1"</Description>
-          <LastState Value="99" RealAddress="0139F7CE"/>
+          <LastState Value="95" RealAddress="0139F7CE"/>
           <VariableType>Byte</VariableType>
           <Address>FF4A.exe+23F7CE</Address>
         </CheatEntry>
@@ -172,11 +179,14 @@
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
-      <ID>24</ID>
-      <Description>"Total Enemies Killed"</Description>
-      <LastState Value="1999" RealAddress="0139C53C"/>
-      <VariableType>2 Bytes</VariableType>
-      <Address>FF4A.exe+23C53C</Address>
+      <ID>25</ID>
+      <Description>"Item 1 Value"</Description>
+      <LastState Value="9E 08" RealAddress="0139F7CC"/>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Array of byte</VariableType>
+      <ByteLength>2</ByteLength>
+      <Address>FF4A.exe+23F7CC</Address>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
