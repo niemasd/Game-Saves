@@ -8,6 +8,7 @@ The bestiary is represented as kill counts (2-byte unsigned integer) for each mo
 
 ```
 Slays	Data
+0(Missing)	0000
 0(Seen)	0100
 1	1100
 2	2100
