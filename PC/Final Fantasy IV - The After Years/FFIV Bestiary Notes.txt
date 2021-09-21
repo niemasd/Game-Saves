@@ -1,0 +1,472 @@
+Here is the list in the order that they appear in the Bestiary (different than the order in the save file.)
+Use the culumns for DEC or HEX to see where the offsets are to edit.
+Under this is a list of what to change it to to have the quantity you want to have in the Slays section.
+
+No.	Name			DEC	HEX
+1	Floating Eye		9330	2472
+2	Goblin			9324	246C
+3	Sword Rat		9326	246E
+4	Helldiver		9328	2470
+5	Eyewing Moth		9340	247C
+6	Larva			9332	2474
+7	Sand Worm		9334	2476
+8	Desert Sahagin		9336	2478
+9	Hundlegs		9338	247A
+10	Tiny Mage		9360	2490
+11	Red Mousse		9362	2492
+12	Zombie			9354	248A
+13	Alligator		9344	2480
+14	Toadgre			9346	2482
+15	Gigantoad		9348	2484
+16	Sahagin			9350	2486
+17	Amoeba			9352	2488
+18	Fangshell		9356	248C
+19	Killer Fish		9358	248E
+20	Admantoise		9364	2494
+21	Yellow Jelly		9366	2496
+22	Domovoi			9368	2498
+23	Basilisk		9370	249A
+24	Leshy			9372	249C
+25	Gargoyle		9374	249E
+26	Cockatrice		9376	24A0
+27	Skeleton		9378	24A2
+28	Spirit			9380	24A4
+29	Bomb			9386	24AA
+30	Gray Bomb		9384	24A8
+31	Gatlinghog		9388	24AC
+32	Baron Marine		9390	24AE
+33	Captain			9392	24B0
+34	Zu			9394	24B2
+35	Bloodbones		9382	24A6
+36	Ghoul			9396	24B4
+37	Soul			9398	24B6
+38	Lilith			9400	24B8
+39	Revenant		9402	24BA
+40	Gigas Gator		9404	24BC
+41	Splasher		9406	24BE
+42	Devil's Castanet	9408	24C0
+43	Baron Guardsman		9410	24C2
+44	Hydra			9412	24C4
+45	Flood Worm		9414	24C6
+46	Electrofish		9416	24C8
+47	Treant			9418	24CA
+48	Mortblossom		9424	24D0
+49	Cait Sith		9420	24CC
+50	Ettin Snake		9422	24CE
+51	Needlehog		9426	24D2
+52	Cave Naga		9428	24D4
+53	Ogre			9430	24D6
+54	Sucubus			9432	24D8
+55	Cave Bat		9434	24DA
+56	Mindflayer		9436	24DC
+57	Centaur Knight		9438	24DE
+58	Sorceress		9440	24E0
+59	Purple Bavarois		9442	24E2
+60	Gremlin			9444	24E4
+61	Black Knight		9446	24E6
+62	Frostbeast		9448	24E8
+63	Ice Lizard		9450	24EA
+64	Fell Turtle		9452	24EC
+65	Marionetteer		9454	24EE
+66	Marionette		9456	24F0
+67	Soldieress		9458	24F2
+68	Mors			9464	24F8
+69	Rukh			9466	24FA
+70	Fledgling Rukh		9468	24FC
+71	Ironback		9486	250E
+72	Hornworm		9576	2568
+73	Blood Flower		9462	24F6
+74	Armadillo		9470	24FE
+75	Tunneler		9472	2500
+76	Caterpillar		9474	2502
+77	Gloom wing		9476	2504
+78	Goblin Captain		9478	2506
+79	Gorgon			9480	2508
+80	Hellflapper		9482	250A
+81	Magma Tortoise		9484	250C
+82	Alraune			9582	256E
+83	Security Eye		9488	2510
+84	Chimera			9490	2512
+85	Black Lizard		9496	2518
+86	Stone Golem		9498	251A
+87	Naga			9502	251E
+88	Evil Doll		9506	2522
+89	Flamehound		9508	2524
+90	Flame Knight		9510	2526
+91	White Mousse		9512	2528
+92	Medusa			9520	2530
+93	Mystery Egg		9516	252C
+94	Skuldier		9530	253A
+95	Blood Bat		9532	253C
+96	Steel Golem		9460	24F4
+97	Coeurl			9492	2514
+98	Sorcerer		9500	251C
+99	Mad Ogre		9504	2520
+100	Lamia Matriarch		9514	252A
+101	Mythril Golem		9518	252E
+102	Storm Anima		9522	2532
+103	Lamia			9524	2534
+104	Ghost Knight		9526	2536
+105	Balloon			9528	2538
+106	Green Dragon		9494	2516
+107	Bog Witch		9534	253E
+108	Bog Toad		9536	2540
+109	Evil Dreamer		9538	2542
+110	Elder Treant		9540	2544
+111	Malboro			9542	2546
+112	Arachne			9544	2548
+113	Fell Knight		9546	254A
+114	Imp			9548	254C
+115	Summoner		9550	254E
+116	Blood Eye		9552	2550
+117	Belphegor		9554	2552
+118	Thunder Dragon		9556	2554
+119	Trap Door		9558	2556
+120	Yellow Dragon		9560	2558
+121	Vampire Bat		9562	255A
+122	Chimera Brain		9564	255C
+123	Nagaraja		9566	255E
+124	Lesser Marilith		9568	2560
+125	Vampiress		9570	2562
+126	Abyss Worm		9572	2564
+127	Prokaryote		9574	2566
+128	Eukaryote		9578	256A
+129	Lunar Virus		9580	256C
+130	Dark Grenade		9584	2570
+131	Black Flan		9586	2572
+132	Clockwork Soldier	9588	2574
+133	Beam Cannon		9590	2576
+134	Clockwork Dragon	9592	2578
+135	Armor Construct		9594	257A
+136	Searcher		9596	257C
+137	Centaurion		9598	257E
+138	Ahriman			9600	2580
+139	Dark Sage		9602	2582
+140	Gold Dragon		9606	2586
+141	Silver Dragon		9608	2588
+142	Dinozombie		9610	258A
+143	Bone Dragon		9612	258C
+144	Moonmaiden		9618	2592
+145	Flan Princess		9622	2596
+146	Blue Dragon		9624	2598
+147	Armored Fiend		9628	259C
+148	Li'l Murderer		9630	259E
+149	Deathmask		9620	2594
+150	Behemoth		9626	259A
+151	Red Dragon		9632	25A0
+152	Zemus's Breath		9614	258E
+153	Zemus's Malice		9616	2590
+154	Mist Dragon		9634	25A2
+155	Baron Soldier		9342	247E
+156	General			9638	25A6
+157	Octomammoth		9640	25A8
+158	Antlion			9642	25AA
+159	Mom Bomb		9792	2640
+160	Skulnant		9648	25B0
+161	Scarmiglione 1		9646	25AE
+162	Scarmiglione 2		9650	25B2
+163	Baigan			9654	25B6
+164	Cagnazzo		9660	25BC
+165	Dark Elf		9664	25C0
+166	Dark Dragon		9666	25C2
+167	Sandy			9668	25C4
+168	Mindy			9670	25C6
+169	Cindy			9672	25C8
+170	Barbariccia		9674	25CA
+171	Calca			9678	25CE
+172	Brina			9680	25D0
+173	Calcabrina		9682	25D2
+174	Golbez			9684	25D4
+175	Doctor			9688	25D8
+176	Barnabas		9690	25DA
+177	Barnabas-Z		9692	25DC
+178	Dr. Lugae		9694	25DE
+179	King of Eblan		9696	25E0
+180	Queen of Eblan		9698	25E2
+181	Rubicante		9702	25E6
+182	Asura			9704	25E8
+183	Leviathan		9710	25EE
+184	Demon Wall		9712	25F0
+185	Odin			9714	25F2
+186	Bahamut			9716	25F4
+187	CPU			9726	25FE
+188	Defense Node		9728	2600
+189	Attack Node		9730	2602
+190	White Dragon		9732	2604
+191	Dark Bahamut		9734	2606
+192	Plague Horror		9736	2608
+193	Lunasaur		9738	260A
+194	Ogopogo			9740	260C
+195	Zemus			9742	260E
+196	Zeromus 1		9744	2610
+197	Zeromus 2		9746	2612
+198	Mopingway		9760	2620
+199	Geryon			9758	261E
+200	Proto-Babil		9778	2632
+
+
+This is the list of what to put into the above DEC/HEX locations.  If you want them to show up as seen but not Slayed
+(their stats and items will all be ????) use the one for 0.
+If you want them to show up as NEW, change the second byte (1 in the list below) to a 3.
+Examples:
+If you want to have it show 10 slays for Proto-Babil, change the data at 9778 (0x2362) to A100.
+If you want to have it show that you have 10 slays for Proto-Babil, but show as new change the above data to A300.
+If you want to have it show it as having seen him but not slayed (ran away) change it to 0100. 
+
+Slays	Data
+0(Seen)	0100
+1	1100
+2	2100
+3	3100
+4	4100
+5	5100
+6	6100
+7	7100
+8	8100
+9	9100
+10	A100
+11	B100
+12	C100
+13	D100
+14	E100
+15	F100
+16	0101
+17	1101
+18	2101
+19	3101
+20	4101
+21	5101
+22	6101
+23	7101
+24	8101
+25	9101
+26	A101
+27	B101
+28	C101
+29	D101
+30	E101
+31	F101
+32	0102
+33	1102
+34	2102
+35	3102
+36	4102
+37	5102
+38	6102
+39	7102
+40	8102
+41	9102
+42	A102
+43	B102
+44	C102
+45	D102
+46	E102
+47	F102
+48	0103
+49	1103
+50	2103
+51	3103
+52	4103
+53	5103
+54	6103
+55	7103
+56	8103
+57	9103
+58	A103
+59	B103
+60	C103
+61	D103
+62	E103
+63	F103
+64	0104
+65	1104
+66	2104
+67	3104
+68	4104
+69	5104
+70	6104
+71	7104
+72	8104
+73	9104
+74	A104
+75	B104
+76	C104
+77	D104
+78	E104
+79	F104
+80	0105
+81	1105
+82	2105
+83	3105
+84	4105
+85	5105
+86	6105
+87	7105
+88	8105
+89	9105
+90	A105
+91	B105
+92	C105
+93	D105
+94	E105
+95	F105
+96	0106
+97	1106
+98	2106
+99	3106
+100	4106
+101	5106
+102	6106
+103	7106
+104	8106
+105	9106
+106	A106
+107	B106
+108	C106
+109	D106
+110	E106
+111	F106
+112	0107
+113	1107
+114	2107
+115	3107
+116	4107
+117	5107
+118	6107
+119	7107
+120	8107
+121	9107
+122	A107
+123	B107
+124	C107
+125	D107
+126	E107
+127	F107
+128	0108
+129	1108
+130	2108
+131	3108
+132	4108
+133	5108
+134	6108
+135	7108
+136	8108
+137	9108
+138	A108
+139	B108
+140	C108
+141	D108
+142	E108
+143	F108
+144	0109
+145	1109
+146	2109
+147	3109
+148	4109
+149	5109
+150	6109
+151	7109
+152	8109
+153	9109
+154	A109
+155	B109
+156	C109
+157	D109
+158	E109
+159	F109
+160	010A
+161	110A
+162	210A
+163	310A
+164	410A
+165	510A
+166	610A
+167	710A
+168	810A
+169	910A
+170	A10A
+171	B10A
+172	C10A
+173	D10A
+174	E10A
+175	F10A
+176	010B
+177	110B
+178	210B
+179	310B
+180	410B
+181	510B
+182	610B
+183	710B
+184	810B
+185	910B
+186	A10B
+187	B10B
+188	C10B
+189	D10B
+190	E10B
+191	F10B
+192	010C
+193	110C
+194	210C
+195	310C
+196	410C
+197	510C
+198	610C
+199	710C
+200	810C
+201	910C
+202	A10C
+203	B10C
+204	C10C
+205	D10C
+206	E10C
+207	F10C
+208	010D
+209	110D
+210	210D
+211	310D
+212	410D
+213	510D
+214	610D
+215	710D
+216	810D
+217	910D
+218	A10D
+219	B10D
+220	C10D
+221	D10D
+222	E10D
+223	F10D
+224	010E
+225	110E
+226	210E
+227	310E
+228	410E
+229	510E
+230	610E
+231	710E
+232	810E
+233	910E
+234	A10E
+235	B10E
+236	C10E
+237	D10E
+238	E10E
+239	F10E
+240	010F
+241	110F
+242	210F
+243	310F
+244	410F
+245	510F
+246	610F
+247	710F
+248	810F
+249	910F
+250	A10F
+251	B10F
+252	C10F
+253	D10F
+254	E10F
+255	F10F
