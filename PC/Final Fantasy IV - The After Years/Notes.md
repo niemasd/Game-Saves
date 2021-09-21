@@ -4,7 +4,7 @@
 This is a 2-byte integer at address `0139C53C`.
 
 ## Bestiary
-Each monster in the bestiary is represented as 10 little-endian 2-byte integers, one for each Tale (first is Ceodore's, then Rydia's, etc.). The order *seems* to be the one here, starting with Goblin1 at `00D0893C`:
+Each monster in the bestiary is represented as 10 little-endian 2-byte integers = 20 bytes (decimal 20 in hex is 14), one for each Tale (first is Ceodore's, then Rydia's, etc.). The order *seems* to be the one here, starting with Goblin1 at `00D0893C`:
 
 https://finalfantasy.fandom.com/wiki/Bestiary_(The_After_Years)#Enemies_1.E2.80.9325
 
