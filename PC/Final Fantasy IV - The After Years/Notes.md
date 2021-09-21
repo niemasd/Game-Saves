@@ -4,7 +4,7 @@
 This is a 2-byte integer at address `0139C53C`.
 
 ## Bestiary
-Each monster in the bestiary is represented as 10 little-endian 2-byte integers, one for each Tale (first is Ceodore's, then Rydia's, etc.). Instead of kill counts incrementing by 1 (`01` in hex), they actually increment by 16 (`10` in hex). Here's the mapping of decimal true kill count to hex bestiary kill count:
+Each monster in the bestiary is represented as 10 little-endian 2-byte integers, one for each Tale (first is Ceodore's, then Rydia's, etc.). Each monster actually seems to be 80 bytes, but the first 20 bytes represent the kill counts (not sure what the rest represents). Instead of kill counts incrementing by 1 (`01` in hex), they actually increment by 16 (`10` in hex). Here's the mapping of decimal true kill count to hex bestiary kill count:
 
 ```
 Slays	Data
