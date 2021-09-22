@@ -14,7 +14,7 @@
     <CheatEntry>
       <ID>24</ID>
       <Description>"Total Enemies Killed"</Description>
-      <LastState Value="2309" RealAddress="00D0C53C"/>
+      <LastState Value="2314" RealAddress="00D0C53C"/>
       <VariableType>2 Bytes</VariableType>
       <Address>FF4A.exe+23C53C</Address>
     </CheatEntry>
@@ -206,6 +206,16 @@
           <Address>FF4A.exe+238B44</Address>
         </CheatEntry>
         <CheatEntry>
+          <ID>135</ID>
+          <Description>"Agartoise"</Description>
+          <LastState Value="00 00 B1 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" RealAddress="00D0A318"/>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+23A318</Address>
+        </CheatEntry>
+        <CheatEntry>
           <ID>123</ID>
           <Description>"Ahriman1"</Description>
           <LastState Value="21 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" RealAddress="00D09FD0"/>
@@ -388,7 +398,7 @@
         <CheatEntry>
           <ID>39</ID>
           <Description>"Cave Naga"</Description>
-          <LastState Value="61 01 31 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" RealAddress="00D08D4C"/>
+          <LastState Value="61 01 41 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" RealAddress="00D08D4C"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
@@ -468,7 +478,7 @@
         <CheatEntry>
           <ID>30</ID>
           <Description>"Ettin Snake"</Description>
-          <LastState Value="A1 00 01 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" RealAddress="00D08E00"/>
+          <LastState Value="A1 00 21 05 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" RealAddress="00D08E00"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
@@ -636,6 +646,16 @@
           <Address>FF4A.exe+238FF4</Address>
         </CheatEntry>
         <CheatEntry>
+          <ID>138</ID>
+          <Description>"Green Dragon1"</Description>
+          <LastState Value="00 00 41 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" RealAddress="00D0A304"/>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+23A304</Address>
+        </CheatEntry>
+        <CheatEntry>
           <ID>74</ID>
           <Description>"Hundlegs?"</Description>
           <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" RealAddress="00D08A18"/>
@@ -798,7 +818,7 @@
         <CheatEntry>
           <ID>126</ID>
           <Description>"Sandworm1"</Description>
-          <LastState Value="00 00 11 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" RealAddress="00D08A2C"/>
+          <LastState Value="00 00 41 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" RealAddress="00D08A2C"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
