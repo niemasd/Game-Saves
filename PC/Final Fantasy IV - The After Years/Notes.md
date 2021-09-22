@@ -4,7 +4,11 @@
 This is a 2-byte integer at address `0139C53C`.
 
 ## Bestiary
-Each monster in the bestiary is represented as 10 little-endian 2-byte integers, one for each Tale (first is Ceodore's, then Rydia's, etc.). Each monster actually seems to be 80 bytes, but the first 20 bytes represent the kill counts (not sure what the rest represents). Instead of kill counts incrementing by 1 (`01` in hex), they actually increment by 16 (`10` in hex). Here's the mapping of decimal true kill count to hex bestiary kill count:
+Each monster in the bestiary is represented as 10 little-endian 2-byte integers = 20 bytes (decimal 20 in hex is 14), one for each Tale (first is Ceodore's, then Rydia's, etc.). The order *seems* to be the one here, starting with Goblin1 at `00D0893C`:
+
+https://finalfantasy.fandom.com/wiki/Bestiary_(The_After_Years)#Enemies_1.E2.80.9325
+
+Instead of kill counts incrementing by 1 (`01` in hex), they actually increment by 16 (`10` in hex). The 1 in `?1??` seems to imply "opened entry" (i.e., no more "NEW" icon), and if the entry is not opened (i.e., it says "NEW"), it would be `?3??`. Here's the mapping of decimal true kill count to hex bestiary kill count:
 
 ```
 Slays	Data
