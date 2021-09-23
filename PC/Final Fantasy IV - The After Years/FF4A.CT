@@ -14,7 +14,7 @@
     <CheatEntry>
       <ID>24</ID>
       <Description>"Total Enemies Killed"</Description>
-      <LastState Value="2892" RealAddress="0139C53C"/>
+      <LastState Value="2989" RealAddress="0139C53C"/>
       <VariableType>2 Bytes</VariableType>
       <Address>FF4A.exe+23C53C</Address>
     </CheatEntry>
@@ -28,14 +28,14 @@
         <CheatEntry>
           <ID>0</ID>
           <Description>"Item 1"</Description>
-          <LastState Value="2" RealAddress="0139F7CE"/>
+          <LastState Value="93" RealAddress="0139F7CE"/>
           <VariableType>Byte</VariableType>
           <Address>FF4A.exe+23F7CE</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1</ID>
           <Description>"Item 2"</Description>
-          <LastState Value="1" RealAddress="0139F7D2"/>
+          <LastState Value="2" RealAddress="0139F7D2"/>
           <VariableType>Byte</VariableType>
           <Address>FF4A.exe+23F7D2</Address>
         </CheatEntry>
@@ -56,7 +56,7 @@
         <CheatEntry>
           <ID>4</ID>
           <Description>"Item 5"</Description>
-          <LastState Value="0" RealAddress="0139F7DE"/>
+          <LastState Value="2" RealAddress="0139F7DE"/>
           <VariableType>Byte</VariableType>
           <Address>FF4A.exe+23F7DE</Address>
         </CheatEntry>
@@ -70,7 +70,7 @@
         <CheatEntry>
           <ID>6</ID>
           <Description>"Item 7"</Description>
-          <LastState Value="1" RealAddress="0139F7E6"/>
+          <LastState Value="2" RealAddress="0139F7E6"/>
           <VariableType>Byte</VariableType>
           <Address>FF4A.exe+23F7E6</Address>
         </CheatEntry>
@@ -84,42 +84,42 @@
         <CheatEntry>
           <ID>8</ID>
           <Description>"Item 9"</Description>
-          <LastState Value="0" RealAddress="0139F7EE"/>
+          <LastState Value="1" RealAddress="0139F7EE"/>
           <VariableType>Byte</VariableType>
           <Address>FF4A.exe+23F7EE</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>9</ID>
           <Description>"Item 10"</Description>
-          <LastState Value="0" RealAddress="0139F7F2"/>
+          <LastState Value="1" RealAddress="0139F7F2"/>
           <VariableType>Byte</VariableType>
           <Address>FF4A.exe+23F7F2</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>10</ID>
           <Description>"Item 11"</Description>
-          <LastState Value="0" RealAddress="0139F7F6"/>
+          <LastState Value="1" RealAddress="0139F7F6"/>
           <VariableType>Byte</VariableType>
           <Address>FF4A.exe+23F7F6</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>11</ID>
           <Description>"Item 12"</Description>
-          <LastState Value="0" RealAddress="0139F7FA"/>
+          <LastState Value="1" RealAddress="0139F7FA"/>
           <VariableType>Byte</VariableType>
           <Address>FF4A.exe+23F7FA</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>12</ID>
           <Description>"Item 13"</Description>
-          <LastState Value="0" RealAddress="0139F7FE"/>
+          <LastState Value="1" RealAddress="0139F7FE"/>
           <VariableType>Byte</VariableType>
           <Address>FF4A.exe+23F7FE</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>13</ID>
           <Description>"Item 14"</Description>
-          <LastState Value="0" RealAddress="0139F802"/>
+          <LastState Value="1" RealAddress="0139F802"/>
           <VariableType>Byte</VariableType>
           <Address>FF4A.exe+23F802</Address>
         </CheatEntry>
@@ -272,6 +272,15 @@
           <Address>FF4A.exe+238F2C</Address>
         </CheatEntry>
         <CheatEntry>
+          <ID>261</ID>
+          <Description>"Asura"</Description>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 00 00" RealAddress="0139A4D0"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+23A4D0</Address>
+        </CheatEntry>
+        <CheatEntry>
           <ID>215</ID>
           <Description>"Bahamut"</Description>
           <LastState Value="01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00" RealAddress="01399FA8"/>
@@ -279,6 +288,15 @@
           <VariableType>Array of byte</VariableType>
           <ByteLength>20</ByteLength>
           <Address>FF4A.exe+239FA8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>260</ID>
+          <Description>"Balloon"</Description>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 61 01 00 00" RealAddress="01399170"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+239170</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>101</ID>
@@ -350,7 +368,7 @@
         <CheatEntry>
           <ID>255</ID>
           <Description>"Black Flan"</Description>
-          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 00 00" RealAddress="0139B81C"/>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 A1 01 00 00" RealAddress="0139B81C"/>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>Array of byte</VariableType>
           <ByteLength>20</ByteLength>
@@ -359,7 +377,7 @@
         <CheatEntry>
           <ID>105</ID>
           <Description>"Black Knight"</Description>
-          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 41 01 11 01 00 00" RealAddress="01398E78"/>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 41 01 21 01 00 00" RealAddress="01398E78"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
@@ -483,6 +501,15 @@
           <Address>FF4A.exe+238CC0</Address>
         </CheatEntry>
         <CheatEntry>
+          <ID>257</ID>
+          <Description>"Caterpillar"</Description>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 00 00" RealAddress="0139B7E0"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+23B7E0</Address>
+        </CheatEntry>
+        <CheatEntry>
           <ID>58</ID>
           <Description>"Cave Bat"</Description>
           <LastState Value="E1 01 21 07 00 00 11 01 11 01 00 00 00 00 00 00 00 00 00 00" RealAddress="013989A0"/>
@@ -544,7 +571,7 @@
         <CheatEntry>
           <ID>254</ID>
           <Description>"Coeurl"</Description>
-          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 21 01 00 00" RealAddress="0139B7F4"/>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 A1 01 00 00" RealAddress="0139B7F4"/>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>Array of byte</VariableType>
           <ByteLength>20</ByteLength>
@@ -703,6 +730,15 @@
           <Address>FF4A.exe+238A54</Address>
         </CheatEntry>
         <CheatEntry>
+          <ID>259</ID>
+          <Description>"Fell Knight"</Description>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 00 00" RealAddress="0139B844"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+23B844</Address>
+        </CheatEntry>
+        <CheatEntry>
           <ID>110</ID>
           <Description>"Fell Turtle"</Description>
           <LastState Value="31 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 21 01 00 00" RealAddress="0139901C"/>
@@ -825,6 +861,15 @@
           <VariableType>Array of byte</VariableType>
           <ByteLength>20</ByteLength>
           <Address>FF4A.exe+238BA8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>265</ID>
+          <Description>"Ghost Knight"</Description>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 00 00" RealAddress="01398F54"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+238F54</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>76</ID>
@@ -1095,6 +1140,15 @@
           <Address>FF4A.exe+239080</Address>
         </CheatEntry>
         <CheatEntry>
+          <ID>258</ID>
+          <Description>"Mad Ogre"</Description>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 21 01 00 00" RealAddress="0139B830"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+23B830</Address>
+        </CheatEntry>
+        <CheatEntry>
           <ID>196</ID>
           <Description>"Magma Tortoise"</Description>
           <LastState Value="00 00 00 00 00 00 00 00 21 01 00 00 00 00 11 01 11 01 00 00" RealAddress="01398FA4"/>
@@ -1170,7 +1224,7 @@
         <CheatEntry>
           <ID>250</ID>
           <Description>"Mors"</Description>
-          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 00 00" RealAddress="013990BC"/>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 21 02 00 00" RealAddress="013990BC"/>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>Array of byte</VariableType>
           <ByteLength>20</ByteLength>
@@ -1188,7 +1242,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>213</ID>
-          <Description>"Mysterious Girl3"</Description>
+          <Description>"Mysterious Girl1"</Description>
           <LastState Value="00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00" RealAddress="0139A264"/>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>Array of byte</VariableType>
@@ -1197,12 +1251,21 @@
         </CheatEntry>
         <CheatEntry>
           <ID>198</ID>
-          <Description>"Mysterious Girl4"</Description>
+          <Description>"Mysterious Girl2"</Description>
           <LastState Value="00 00 00 00 00 00 00 00 01 00 00 00 00 00 00 00 00 00 00 00" RealAddress="0139A37C"/>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>Array of byte</VariableType>
           <ByteLength>20</ByteLength>
           <Address>FF4A.exe+23A37C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>262</ID>
+          <Description>"Mysterious Girl3"</Description>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 00 00 00" RealAddress="0139A390"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+23A390</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>194</ID>
@@ -1231,6 +1294,15 @@
           <VariableType>Array of byte</VariableType>
           <ByteLength>20</ByteLength>
           <Address>FF4A.exe+238E3C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>266</ID>
+          <Description>"Nagaraja"</Description>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 00 00" RealAddress="01398F68"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+238F68</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>187</ID>
@@ -1354,7 +1426,7 @@
         <CheatEntry>
           <ID>57</ID>
           <Description>"Purple Bavarois"</Description>
-          <LastState Value="91 00 21 01 00 00 00 00 B1 02 00 00 00 00 41 01 21 01 00 00" RealAddress="01398B6C"/>
+          <LastState Value="91 00 21 01 00 00 00 00 B1 02 00 00 00 00 41 01 B1 02 00 00" RealAddress="01398B6C"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
@@ -1504,6 +1576,15 @@
           <Address>FF4A.exe+23A610</Address>
         </CheatEntry>
         <CheatEntry>
+          <ID>263</ID>
+          <Description>"Soldieress"</Description>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 00 00" RealAddress="01398F40"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+238F40</Address>
+        </CheatEntry>
+        <CheatEntry>
           <ID>252</ID>
           <Description>"Sorcerer"</Description>
           <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 00 00" RealAddress="013990E4"/>
@@ -1511,6 +1592,15 @@
           <VariableType>Array of byte</VariableType>
           <ByteLength>20</ByteLength>
           <Address>FF4A.exe+2390E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>264</ID>
+          <Description>"Sorceress"</Description>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 00 00" RealAddress="013992C4"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>20</ByteLength>
+          <Address>FF4A.exe+2392C4</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>50</ID>
@@ -1700,7 +1790,7 @@
         <CheatEntry>
           <ID>256</ID>
           <Description>"White Mousse"</Description>
-          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 11 01 00 00" RealAddress="0139B808"/>
+          <LastState Value="00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 C1 02 00 00" RealAddress="0139B808"/>
           <ShowAsHex>1</ShowAsHex>
           <VariableType>Array of byte</VariableType>
           <ByteLength>20</ByteLength>
