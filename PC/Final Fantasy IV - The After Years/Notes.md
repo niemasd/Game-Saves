@@ -40,7 +40,7 @@ Each individual global bestiary entry is represented as an array of 10 per-Tale 
 7. Edward's Tale
 8. Kain's Tale
 9. Lunarian's Tale
-10. The Crystals Tale
+10. The Crystals
 
 If a monster never shows up in a Tale, the corresponding 2-byte per-Tale entry should be all `0`s. I tried manually changing some such entries to non-zero slain counts, but nothing happened.
 
