@@ -4,272 +4,54 @@
 This is a 2-byte integer at address `0139C53C`.
 
 ## Bestiary
-Each monster in the bestiary is represented as 10 little-endian 2-byte integers = 20 bytes (decimal 20 in hex is 14), one for each Tale (first is Ceodore's, then Rydia's, etc.). The order *seems* to be the one here, starting with Goblin1 at `00D0893C`:
+
+### Individual Per-Tale Bestiary Entries
+Each individual per-Tale bestiary entry is represented as 2 bytes in the following format (depicted here as big-endian):
+
+```
+NNNNNNNN NNNNDCBA
+```
+ 
+* The 12 most-significant bits (`N`s) represent the number of slain monsters as a 12-bit unsigned integer
+  * In other words, if this entry is loaded as a 2-byte integer `X`, the number of slain monsters would be `(X >> 4) & 0xFFF`
+* The 4 least-significant bits (`DCBA`) represent flags about the entry:
+  * `A` represents whether or not the monster has been seen (`1` = seen, `0` = unseen)
+  * `B` represents whether or not the monster is "NEW", aka the bestiary entry hasn't been viewed by the player (`1` = "NEW", `0` = not "NEW")
+    * If the monster is unseen, "NEW" should be false (aka `BA == 10` shouldn't happen)
+  * `C` and `D` seem to be unused (seem to always be `0`)
+
+In my description above, I used a big-endian representation for ease of interpretation, but the 2-byte individual per-Tale bestiary entries are actually stored in memory as little-endian:
+
+```
+NNNNDCBA NNNNNNNN
+```
+
+I believe this is also how individual bestiary entries are represented in the Final Fantasy IV 3D Remake.
+
+### Individual Global Bestiary Entries
+Each individual global bestiary entry is represented as an array of 10 per-Tale bestiary entries = 20 bytes total, one for each of the Tales. The order is exactly the order of the 10 Tales:
+
+1. Ceodore's Tale
+2. Rydia's Tale
+3. Yang's Tale
+4. Palom's Tale
+5. Edge's Tale
+6. Porom's Tale
+7. Edward's Tale
+8. Kain's Tale
+9. Lunarian's Tale
+10. The Crystals Tale
+
+If a monster never shows up in a Tale, the corresponding 2-byte per-Tale entry should be all `0`s. I tried manually changing some such entries to non-zero slain counts, but nothing happened.
+
+### Global Bestiary Table
+The global bestiary is represented as an array of 20-byte global bestiary entries (as described above). Some monsters appear multiple times (I think there are multiple versions of certain monsters, perhaps with different stats), but what's confusing is that the monster numbering in the per-Tale bestiary entries in the game aren't consistent. Thus, in my own note-taking, I'm just numbering all instances of a given monster in increasing order of memory address in the global bestiary table.
+
+The order is somewhat related to the PSP bestiary (especially local groups of monsters):
 
 https://finalfantasy.fandom.com/wiki/Bestiary_(The_After_Years)#Enemies_1.E2.80.9325
 
-Instead of kill counts incrementing by 1 (`01` in hex), they actually increment by 16 (`10` in hex). The 1 in `?1??` seems to imply "opened entry" (i.e., no more "NEW" icon), and if the entry is not opened (i.e., it says "NEW"), it would be `?3??`. Here's the mapping of decimal true kill count to hex bestiary kill count:
-
-```
-Slays	Data
-0(Missing)	0000
-0(Seen)	0100
-1	1100
-2	2100
-3	3100
-4	4100
-5	5100
-6	6100
-7	7100
-8	8100
-9	9100
-10	A100
-11	B100
-12	C100
-13	D100
-14	E100
-15	F100
-16	0101
-17	1101
-18	2101
-19	3101
-20	4101
-21	5101
-22	6101
-23	7101
-24	8101
-25	9101
-26	A101
-27	B101
-28	C101
-29	D101
-30	E101
-31	F101
-32	0102
-33	1102
-34	2102
-35	3102
-36	4102
-37	5102
-38	6102
-39	7102
-40	8102
-41	9102
-42	A102
-43	B102
-44	C102
-45	D102
-46	E102
-47	F102
-48	0103
-49	1103
-50	2103
-51	3103
-52	4103
-53	5103
-54	6103
-55	7103
-56	8103
-57	9103
-58	A103
-59	B103
-60	C103
-61	D103
-62	E103
-63	F103
-64	0104
-65	1104
-66	2104
-67	3104
-68	4104
-69	5104
-70	6104
-71	7104
-72	8104
-73	9104
-74	A104
-75	B104
-76	C104
-77	D104
-78	E104
-79	F104
-80	0105
-81	1105
-82	2105
-83	3105
-84	4105
-85	5105
-86	6105
-87	7105
-88	8105
-89	9105
-90	A105
-91	B105
-92	C105
-93	D105
-94	E105
-95	F105
-96	0106
-97	1106
-98	2106
-99	3106
-100	4106
-101	5106
-102	6106
-103	7106
-104	8106
-105	9106
-106	A106
-107	B106
-108	C106
-109	D106
-110	E106
-111	F106
-112	0107
-113	1107
-114	2107
-115	3107
-116	4107
-117	5107
-118	6107
-119	7107
-120	8107
-121	9107
-122	A107
-123	B107
-124	C107
-125	D107
-126	E107
-127	F107
-128	0108
-129	1108
-130	2108
-131	3108
-132	4108
-133	5108
-134	6108
-135	7108
-136	8108
-137	9108
-138	A108
-139	B108
-140	C108
-141	D108
-142	E108
-143	F108
-144	0109
-145	1109
-146	2109
-147	3109
-148	4109
-149	5109
-150	6109
-151	7109
-152	8109
-153	9109
-154	A109
-155	B109
-156	C109
-157	D109
-158	E109
-159	F109
-160	010A
-161	110A
-162	210A
-163	310A
-164	410A
-165	510A
-166	610A
-167	710A
-168	810A
-169	910A
-170	A10A
-171	B10A
-172	C10A
-173	D10A
-174	E10A
-175	F10A
-176	010B
-177	110B
-178	210B
-179	310B
-180	410B
-181	510B
-182	610B
-183	710B
-184	810B
-185	910B
-186	A10B
-187	B10B
-188	C10B
-189	D10B
-190	E10B
-191	F10B
-192	010C
-193	110C
-194	210C
-195	310C
-196	410C
-197	510C
-198	610C
-199	710C
-200	810C
-201	910C
-202	A10C
-203	B10C
-204	C10C
-205	D10C
-206	E10C
-207	F10C
-208	010D
-209	110D
-210	210D
-211	310D
-212	410D
-213	510D
-214	610D
-215	710D
-216	810D
-217	910D
-218	A10D
-219	B10D
-220	C10D
-221	D10D
-222	E10D
-223	F10D
-224	010E
-225	110E
-226	210E
-227	310E
-228	410E
-229	510E
-230	610E
-231	710E
-232	810E
-233	910E
-234	A10E
-235	B10E
-236	C10E
-237	D10E
-238	E10E
-239	F10E
-240	010F
-241	110F
-242	210F
-243	310F
-244	410F
-245	510F
-246	610F
-247	710F
-248	810F
-249	910F
-250	A10F
-251	B10F
-252	C10F
-253	D10F
-254	E10F
-255	F10F
-```
+However, the PC version deviates somewhat significantly from this overall (i.e., the PSP bestiary is a useful tool for reverse-engineering the PC bestiary for exploring local neighbors in the table, but it's not overall very similar). I am working on a global bestiary, and I will add it to this repo when it's finished.
 
 ## Items
 The inventory starts at address `0139F7CC`. Each item in the inventory is represented using 4 bytes:
