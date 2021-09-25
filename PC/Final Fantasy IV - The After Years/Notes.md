@@ -12,6 +12,8 @@ Rydia's summons start at address `FF4A.exe+23CA0C`, and each slot is represented
 1B 04 Cockatrice
 1C 04 Mindflayer
 1D 04 Chocobo
+1E 04 ???
+1F 04 ???
 20 04 Ifrit
 21 04 Titan
 22 04 Dragon
