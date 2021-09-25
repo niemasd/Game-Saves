@@ -1,7 +1,26 @@
 # Cheat Engine Notes
 
 ## Total Enemies Killed
-This is a 2-byte integer at address `0139C53C`.
+This is a 2-byte integer at address `FF4A.exe+23C53C`.
+
+## Rydia's Summons
+Rydia's summons start at address `FF4A.exe+23CA0C`, and each slot is represented as 2 bytes with the following values:
+
+```
+19 04 Goblin
+1A 04 Bomb
+1B 04 Cockatrice
+1C 04 Mindflayer
+1D 04 Chocobo
+20 04 Ifrit
+21 04 Titan
+22 04 Dragon
+23 04 Sylph
+24 04 Odin
+25 04 Leviathan
+26 04 Asura
+27 04 Bahamut
+```
 
 ## Bestiary
 
