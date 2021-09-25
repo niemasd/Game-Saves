@@ -12,8 +12,8 @@ The number of summon slots that are unlocked is a 1-byte unsigned integer at add
 1B 04 Cockatrice
 1C 04 Mindflayer
 1D 04 Chocobo
-1E 04 ???
-1F 04 ???
+1E 04 Shiva
+1F 04 Ramuh
 20 04 Ifrit
 21 04 Titan
 22 04 Dragon
