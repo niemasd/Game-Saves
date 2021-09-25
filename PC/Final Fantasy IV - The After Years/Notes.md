@@ -4,7 +4,7 @@
 This is a 2-byte integer at address `FF4A.exe+23C53C`.
 
 ## Rydia's Summons
-Rydia's summons start at address `FF4A.exe+23CA0C`, and each slot is represented as 2 bytes with the following values:
+The number of summon slots that are unlocked is a 1-byte unsigned integer at address `FF4A.exe+23CA3C`. Rydia's summon slots start at address `FF4A.exe+23CA0C`, and each slot is represented as 2 bytes with the following values:
 
 ```
 19 04 Goblin
