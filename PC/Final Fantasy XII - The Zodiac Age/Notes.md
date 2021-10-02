@@ -844,3 +844,21 @@ The value `65535` denotes "not selected".
 16406	Traveler
 16407	Gil Toss
 ```
+
+# Jobs (1-byte unsigned integers)
+The value `255` denotes "not selected".
+
+```
+0	White Mage
+1	Uhlan
+2	Machinist
+3	Red Battlemage
+4	Knight
+5	Monk
+6	Time Battlemage
+7	Foebreaker
+8	Archer
+9	Blackmage
+10	Bushi
+11	Shikari
+```
