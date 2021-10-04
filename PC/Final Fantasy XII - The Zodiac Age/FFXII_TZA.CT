@@ -159,6 +159,13 @@
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2092B24</Address>
         </CheatEntry>
+        <CheatEntry>
+          <ID>1231</ID>
+          <Description>"Larsa (Guest) HP"</Description>
+          <LastState Value="9999" Activated="1" RealAddress="021B4084"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FFXII_TZA.exe+2094084</Address>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
