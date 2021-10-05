@@ -4,14 +4,12 @@
     <CheatEntry>
       <ID>707</ID>
       <Description>"Gil (99999999)"</Description>
-      <LastState Value="99999999" Activated="1" RealAddress="02164288"/>
       <VariableType>4 Bytes</VariableType>
       <Address>FFXII_TZA.exe+2044288</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>1230</ID>
       <Description>"Teleport Stones"</Description>
-      <LastState Value="99" Activated="1" RealAddress="021B741C"/>
       <VariableType>Byte</VariableType>
       <Address>FFXII_TZA.exe+209741C</Address>
     </CheatEntry>
@@ -25,21 +23,18 @@
         <CheatEntry>
           <ID>710</ID>
           <Description>"Vaan EXP"</Description>
-          <LastState Value="99999999" RealAddress="021B2AA0"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2092AA0</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>724</ID>
           <Description>"Penelo EXP"</Description>
-          <LastState Value="13741148" RealAddress="021B3388"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2093388</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>708</ID>
           <Description>"Reks EXP"</Description>
-          <LastState Value="169" RealAddress="021B3550"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2093550</Address>
         </CheatEntry>
@@ -54,31 +49,39 @@
       <CheatEntries>
         <CheatEntry>
           <ID>706</ID>
-          <Description>"LP (99999)"</Description>
-          <LastState Value="99999" Activated="1" RealAddress="0209B118"/>
+          <Description>"Vaan LP"</Description>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+1F7B118</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>725</ID>
-          <Description>"LP (99999)"</Description>
-          <LastState Value="99999" Activated="1" RealAddress="0209B1D8"/>
+          <Description>"Balthier LP"</Description>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+1F7B1D8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1014</ID>
-          <Description>"LP (99999)"</Description>
-          <LastState Value="99999" Activated="1" RealAddress="0209B298"/>
+          <Description>"Fran LP"</Description>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+1F7B298</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1221</ID>
-          <Description>"LP (99999)"</Description>
-          <LastState Value="99999" Activated="1" RealAddress="0209B418"/>
+          <Description>"Basch LP"</Description>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+1F7B418</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1234</ID>
+          <Description>"Ashe LP"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FFXII_TZA.exe+1F7B4D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1233</ID>
+          <Description>"Penelo LP"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FFXII_TZA.exe+1F7B598</Address>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
@@ -92,77 +95,66 @@
         <CheatEntry>
           <ID>722</ID>
           <Description>"Vaan HP"</Description>
-          <LastState Value="9999" Activated="1" RealAddress="021B295C"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+209295C</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>727</ID>
           <Description>"Penelo HP"</Description>
-          <LastState Value="9999" Activated="1" RealAddress="021B3244"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2093244</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1012</ID>
           <Description>"Balthier HP"</Description>
-          <LastState Value="9999" Activated="1" RealAddress="021B2EB4"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2092EB4</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1013</ID>
           <Description>"Fran HP"</Description>
-          <LastState Value="9999" Activated="1" RealAddress="021B2CEC"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2092CEC</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1222</ID>
           <Description>"Bosch HP"</Description>
-          <LastState Value="9999" Activated="1" RealAddress="021B307C"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+209307C</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1218</ID>
           <Description>"Bosch (Guest) HP"</Description>
-          <LastState Value="9999" Activated="1" RealAddress="021B379C"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+209379C</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1224</ID>
           <Description>"Lamont (Guest) HP"</Description>
-          <LastState Value="9999" Activated="1" RealAddress="021B3B2C"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2093B2C</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1226</ID>
           <Description>"Vossler (Guest 1) HP"</Description>
-          <LastState Value="9999" Activated="1" RealAddress="021B3CF4"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2093CF4</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1228</ID>
           <Description>"Vossler (Guest 2)"</Description>
-          <LastState Value="9999" Activated="1" RealAddress="021B3EBC"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2093EBC</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1227</ID>
           <Description>"Ashe (Guest) HP"</Description>
-          <LastState Value="9999" Activated="1" RealAddress="021B2B24"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2092B24</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1231</ID>
           <Description>"Larsa (Guest) HP"</Description>
-          <LastState Value="9999" Activated="1" RealAddress="021B4084"/>
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2094084</Address>
         </CheatEntry>
@@ -192,35 +184,30 @@
                 <CheatEntry>
                   <ID>1214</ID>
                   <Description>"Item Slots"</Description>
-                  <LastState Value="4" RealAddress="02170C38"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2050C38</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>711</ID>
                   <Description>"Item 1"</Description>
-                  <LastState Value="6" RealAddress="0216FD4C"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FD4C</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>717</ID>
                   <Description>"Item 2"</Description>
-                  <LastState Value="8" RealAddress="0216FD4E"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FD4E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1215</ID>
                   <Description>"Item 3"</Description>
-                  <LastState Value="9" RealAddress="0216FD50"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FD50</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1216</ID>
                   <Description>"Item 4"</Description>
-                  <LastState Value="10" RealAddress="0216FD52"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FD52</Address>
                 </CheatEntry>
@@ -236,126 +223,108 @@
                 <CheatEntry>
                   <ID>1139</ID>
                   <Description>"Weapon Slots"</Description>
-                  <LastState Value="17" RealAddress="02170C3C"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2050C3C</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>775</ID>
                   <Description>"Weapon 1"</Description>
-                  <LastState Value="4273" RealAddress="0216FDCC"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDCC</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>777</ID>
                   <Description>"Weapon 2"</Description>
-                  <LastState Value="4268" RealAddress="0216FDCE"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDCE</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1140</ID>
                   <Description>"Weapon 3"</Description>
-                  <LastState Value="4200" RealAddress="0216FDD0"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDD0</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1141</ID>
                   <Description>"Weapon 4"</Description>
-                  <LastState Value="4292" RealAddress="0216FDD2"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDD2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1142</ID>
                   <Description>"Weapon 5"</Description>
-                  <LastState Value="4271" RealAddress="0216FDD4"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDD4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1143</ID>
                   <Description>"Weapon 6"</Description>
-                  <LastState Value="4249" RealAddress="0216FDD6"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDD6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1144</ID>
                   <Description>"Weapon 7"</Description>
-                  <LastState Value="4120" RealAddress="0216FDD8"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDD8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1145</ID>
                   <Description>"Weapon 8"</Description>
-                  <LastState Value="4130" RealAddress="0216FDDA"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDDA</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1146</ID>
                   <Description>"Weapon 9"</Description>
-                  <LastState Value="4267" RealAddress="0216FDDC"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDDC</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1147</ID>
                   <Description>"Weapon 10"</Description>
-                  <LastState Value="4149" RealAddress="0216FDDE"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDDE</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1148</ID>
                   <Description>"Weapon 11"</Description>
-                  <LastState Value="4294" RealAddress="0216FDE0"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDE0</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1149</ID>
                   <Description>"Weapon 12"</Description>
-                  <LastState Value="4224" RealAddress="0216FDE2"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDE2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1150</ID>
                   <Description>"Weapon 13"</Description>
-                  <LastState Value="4234" RealAddress="0216FDE4"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDE4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1151</ID>
                   <Description>"Weapon 14"</Description>
-                  <LastState Value="4274" RealAddress="0216FDE6"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDE6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1152</ID>
                   <Description>"Weapon 15"</Description>
-                  <LastState Value="4272" RealAddress="0216FDE8"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDE8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1153</ID>
                   <Description>"Weapon 16"</Description>
-                  <LastState Value="4293" RealAddress="0216FDEA"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDEA</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1154</ID>
                   <Description>"Weapon 17"</Description>
-                  <LastState Value="4291" RealAddress="0216FDEC"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FDEC</Address>
                 </CheatEntry>
@@ -371,56 +340,48 @@
                 <CheatEntry>
                   <ID>1155</ID>
                   <Description>"Armor Slots"</Description>
-                  <LastState Value="7" RealAddress="02170C40"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2050C40</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>988</ID>
                   <Description>"Armor 1"</Description>
-                  <LastState Value="4296" RealAddress="0216FF5C"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FF5C</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>990</ID>
                   <Description>"Armor 2"</Description>
-                  <LastState Value="4336" RealAddress="0216FF5E"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FF5E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1156</ID>
                   <Description>"Armor 3"</Description>
-                  <LastState Value="4357" RealAddress="0216FF60"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FF60</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1157</ID>
                   <Description>"Armor 4"</Description>
-                  <LastState Value="4375" RealAddress="0216FF62"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FF62</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1158</ID>
                   <Description>"Armor 5"</Description>
-                  <LastState Value="4396" RealAddress="0216FF64"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FF64</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1159</ID>
                   <Description>"Armor 6"</Description>
-                  <LastState Value="4417" RealAddress="0216FF66"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FF66</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1160</ID>
                   <Description>"Armor 7"</Description>
-                  <LastState Value="4435" RealAddress="0216FF68"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+204FF68</Address>
                 </CheatEntry>
@@ -436,23 +397,26 @@
                 <CheatEntry>
                   <ID>1161</ID>
                   <Description>"Accessory Slots"</Description>
-                  <LastState Value="2" RealAddress="02170C44"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2050C44</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1163</ID>
                   <Description>"Accessory 1"</Description>
-                  <LastState Value="4481" RealAddress="02170074"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2050074</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1213</ID>
                   <Description>"Accessory 2"</Description>
-                  <LastState Value="4442" RealAddress="02170076"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2050076</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1232</ID>
+                  <Description>"Accessory 3"</Description>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>FFXII_TZA.exe+2050078</Address>
                 </CheatEntry>
               </CheatEntries>
             </CheatEntry>
@@ -475,7 +439,6 @@
                 <CheatEntry>
                   <ID>714</ID>
                   <Description>"Potion"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7054"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097054</Address>
@@ -483,7 +446,6 @@
                 <CheatEntry>
                   <ID>716</ID>
                   <Description>"Hi-Potion"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7056"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097056</Address>
@@ -491,7 +453,6 @@
                 <CheatEntry>
                   <ID>718</ID>
                   <Description>"X-Potion"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7058"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097058</Address>
@@ -499,7 +460,6 @@
                 <CheatEntry>
                   <ID>719</ID>
                   <Description>"Ether"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B705A"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+209705A</Address>
@@ -507,7 +467,6 @@
                 <CheatEntry>
                   <ID>720</ID>
                   <Description>"Hi-Ether"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B705C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+209705C</Address>
@@ -515,7 +474,6 @@
                 <CheatEntry>
                   <ID>721</ID>
                   <Description>"Elixir"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B705E"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+209705E</Address>
@@ -523,7 +481,6 @@
                 <CheatEntry>
                   <ID>729</ID>
                   <Description>"Phoenix Down"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7060"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097060</Address>
@@ -531,7 +488,6 @@
                 <CheatEntry>
                   <ID>730</ID>
                   <Description>"Gold Needle"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7062"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097062</Address>
@@ -539,7 +495,6 @@
                 <CheatEntry>
                   <ID>731</ID>
                   <Description>"Echo Herbs"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7064"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097064</Address>
@@ -547,7 +502,6 @@
                 <CheatEntry>
                   <ID>732</ID>
                   <Description>"Antidote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7066"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097066</Address>
@@ -555,7 +509,6 @@
                 <CheatEntry>
                   <ID>733</ID>
                   <Description>"Eye Drops"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7068"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097068</Address>
@@ -563,7 +516,6 @@
                 <CheatEntry>
                   <ID>734</ID>
                   <Description>"Prince's Kiss"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B706A"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+209706A</Address>
@@ -571,7 +523,6 @@
                 <CheatEntry>
                   <ID>735</ID>
                   <Description>"Handkerchief"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B706C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+209706C</Address>
@@ -579,7 +530,6 @@
                 <CheatEntry>
                   <ID>736</ID>
                   <Description>"Chronos Tear"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B706E"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+209706E</Address>
@@ -587,7 +537,6 @@
                 <CheatEntry>
                   <ID>737</ID>
                   <Description>"Nu Khai Sand"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7070"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097070</Address>
@@ -595,7 +544,6 @@
                 <CheatEntry>
                   <ID>738</ID>
                   <Description>"Serum"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7072"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097072</Address>
@@ -603,7 +551,6 @@
                 <CheatEntry>
                   <ID>739</ID>
                   <Description>"Remedy"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7074"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097074</Address>
@@ -611,7 +558,6 @@
                 <CheatEntry>
                   <ID>740</ID>
                   <Description>"Soleil Fang"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7076"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097076</Address>
@@ -619,7 +565,6 @@
                 <CheatEntry>
                   <ID>741</ID>
                   <Description>"Rime Fang"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7078"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097078</Address>
@@ -627,7 +572,6 @@
                 <CheatEntry>
                   <ID>742</ID>
                   <Description>"Lightning Fang"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B707A"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+209707A</Address>
@@ -635,7 +579,6 @@
                 <CheatEntry>
                   <ID>743</ID>
                   <Description>"Bacchus's Wine"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B707C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+209707C</Address>
@@ -643,7 +586,6 @@
                 <CheatEntry>
                   <ID>744</ID>
                   <Description>"Megalixer"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B707E"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+209707E</Address>
@@ -651,7 +593,6 @@
                 <CheatEntry>
                   <ID>745</ID>
                   <Description>"Baltoro Seed"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7080"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097080</Address>
@@ -659,7 +600,6 @@
                 <CheatEntry>
                   <ID>746</ID>
                   <Description>"Domain Calvados"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7082"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097082</Address>
@@ -667,7 +607,6 @@
                 <CheatEntry>
                   <ID>747</ID>
                   <Description>"Dark Energy"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7084"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097084</Address>
@@ -675,7 +614,6 @@
                 <CheatEntry>
                   <ID>748</ID>
                   <Description>"Meteorite (1)"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7086"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097086</Address>
@@ -683,7 +621,6 @@
                 <CheatEntry>
                   <ID>749</ID>
                   <Description>"Meteorite (2)"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7088"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2097088</Address>
@@ -691,7 +628,6 @@
                 <CheatEntry>
                   <ID>750</ID>
                   <Description>"Meteorite (3)"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B708A"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+209708A</Address>
@@ -699,7 +635,6 @@
                 <CheatEntry>
                   <ID>751</ID>
                   <Description>"Meteorite (4)"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B708C"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+209708C</Address>
@@ -707,7 +642,6 @@
                 <CheatEntry>
                   <ID>752</ID>
                   <Description>"Reverse Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70A8"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970A8</Address>
@@ -715,7 +649,6 @@
                 <CheatEntry>
                   <ID>753</ID>
                   <Description>"Dark Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70AA"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970AA</Address>
@@ -723,7 +656,6 @@
                 <CheatEntry>
                   <ID>754</ID>
                   <Description>"Aero Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70AC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970AC</Address>
@@ -731,7 +663,6 @@
                 <CheatEntry>
                   <ID>755</ID>
                   <Description>"Aquara Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70AE"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970AE</Address>
@@ -739,7 +670,6 @@
                 <CheatEntry>
                   <ID>756</ID>
                   <Description>"Bio Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70B0"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970B0</Address>
@@ -747,7 +677,6 @@
                 <CheatEntry>
                   <ID>757</ID>
                   <Description>"Shock Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70B2"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970B2</Address>
@@ -755,7 +684,6 @@
                 <CheatEntry>
                   <ID>758</ID>
                   <Description>"Holy Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70B4"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970B4</Address>
@@ -763,7 +691,6 @@
                 <CheatEntry>
                   <ID>759</ID>
                   <Description>"Scathe Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70B6"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970B6</Address>
@@ -771,7 +698,6 @@
                 <CheatEntry>
                   <ID>760</ID>
                   <Description>"Balance Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70B8"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970B8</Address>
@@ -779,7 +705,6 @@
                 <CheatEntry>
                   <ID>761</ID>
                   <Description>"Gravity Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70BA"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970BA</Address>
@@ -787,7 +712,6 @@
                 <CheatEntry>
                   <ID>762</ID>
                   <Description>"Cura Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70BC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970BC</Address>
@@ -795,7 +719,6 @@
                 <CheatEntry>
                   <ID>763</ID>
                   <Description>"Dispel Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70BE"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970BE</Address>
@@ -803,7 +726,6 @@
                 <CheatEntry>
                   <ID>764</ID>
                   <Description>"Aeroga Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70C0"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970C0</Address>
@@ -811,7 +733,6 @@
                 <CheatEntry>
                   <ID>765</ID>
                   <Description>"Warp Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70C2"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970C2</Address>
@@ -819,7 +740,6 @@
                 <CheatEntry>
                   <ID>766</ID>
                   <Description>"Bubble Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70C4"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970C4</Address>
@@ -827,7 +747,6 @@
                 <CheatEntry>
                   <ID>767</ID>
                   <Description>"Hastega Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70C6"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970C6</Address>
@@ -835,7 +754,6 @@
                 <CheatEntry>
                   <ID>768</ID>
                   <Description>"Reflectga Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70C8"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970C8</Address>
@@ -843,7 +761,6 @@
                 <CheatEntry>
                   <ID>769</ID>
                   <Description>"Vanishga Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70CA"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970CA</Address>
@@ -851,7 +768,6 @@
                 <CheatEntry>
                   <ID>770</ID>
                   <Description>"Float Mote"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70CC"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970CC</Address>
@@ -859,7 +775,6 @@
                 <CheatEntry>
                   <ID>771</ID>
                   <Description>"Eksir Berries"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70CE"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970CE</Address>
@@ -867,7 +782,6 @@
                 <CheatEntry>
                   <ID>772</ID>
                   <Description>"Dark Matter"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70D0"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970D0</Address>
@@ -875,7 +789,6 @@
                 <CheatEntry>
                   <ID>773</ID>
                   <Description>"Knot of Rust"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B70D2"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+20970D2</Address>
@@ -899,7 +812,6 @@
                     <CheatEntry>
                       <ID>953</ID>
                       <Description>"Mythril Sword"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7214"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097214</Address>
@@ -907,28 +819,24 @@
                     <CheatEntry>
                       <ID>778</ID>
                       <Description>"Broadsword"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70D6"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970D6</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>780</ID>
                       <Description>"Longsword"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70D8"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970D8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>781</ID>
                       <Description>"Iron Sword"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70DA"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970DA</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>963</ID>
                       <Description>"Mythril Blade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7224"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097224</Address>
@@ -936,105 +844,90 @@
                     <CheatEntry>
                       <ID>782</ID>
                       <Description>"Zwill Blade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70DC"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970DC</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>783</ID>
                       <Description>"Ancient Sword"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70DE"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970DE</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>784</ID>
                       <Description>"Blood Sword"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70E0"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970E0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>785</ID>
                       <Description>"Lohengrin"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70E2"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970E2</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>786</ID>
                       <Description>"Flametongue"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70E4"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970E4</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>787</ID>
                       <Description>"Demonsbane"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70E6"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970E6</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>788</ID>
                       <Description>"Icebrand"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70E8"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970E8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>789</ID>
                       <Description>"Platinum Sword"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70EA"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970EA</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>790</ID>
                       <Description>"Bastard Sword"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70EC"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970EC</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>791</ID>
                       <Description>"Diamond Sword"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70EE"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970EE</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>792</ID>
                       <Description>"Runeblade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70F0"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970F0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>793</ID>
                       <Description>"Deathbringer"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70F2"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970F2</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>794</ID>
                       <Description>"Stoneblade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70F4"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970F4</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>795</ID>
                       <Description>"Durandal"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70F6"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970F6</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>973</ID>
                       <Description>"Great Trango"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7236"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097236</Address>
@@ -1042,7 +935,6 @@
                     <CheatEntry>
                       <ID>976</ID>
                       <Description>"Karkata"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7254"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097254</Address>
@@ -1050,7 +942,6 @@
                     <CheatEntry>
                       <ID>978</ID>
                       <Description>"Simha"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7258"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097258</Address>
@@ -1067,49 +958,42 @@
                     <CheatEntry>
                       <ID>796</ID>
                       <Description>"Claymore"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70F8"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970F8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>797</ID>
                       <Description>"Defender"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70FA"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970FA</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>798</ID>
                       <Description>"Save the Queen"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70FC"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970FC</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>799</ID>
                       <Description>"Ragnarok"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B70FE"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20970FE</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>800</ID>
                       <Description>"Ultima Blade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7100"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097100</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>801</ID>
                       <Description>"Excalibur"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7102"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097102</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>802</ID>
                       <Description>"Tournesol"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7104"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097104</Address>
@@ -1117,7 +1001,6 @@
                     <CheatEntry>
                       <ID>969</ID>
                       <Description>"Wyrmhero Blade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B722E"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209722E</Address>
@@ -1125,7 +1008,6 @@
                     <CheatEntry>
                       <ID>977</ID>
                       <Description>"Excalipur"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7256"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097256</Address>
@@ -1133,7 +1015,6 @@
                     <CheatEntry>
                       <ID>956</ID>
                       <Description>"Treaty-Blade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7218"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097218</Address>
@@ -1141,7 +1022,6 @@
                     <CheatEntry>
                       <ID>957</ID>
                       <Description>"Sword of Kings"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B721A"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209721A</Address>
@@ -1158,77 +1038,66 @@
                     <CheatEntry>
                       <ID>803</ID>
                       <Description>"Kotetsu"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7106"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097106</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>804</ID>
                       <Description>"Osafune"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7108"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097108</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>805</ID>
                       <Description>"Kogarasumaru"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B710A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209710A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>806</ID>
                       <Description>"Magoroku"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B710C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209710C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>807</ID>
                       <Description>"Murasame"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B710E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209710E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>808</ID>
                       <Description>"Kiku-ichimonji"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7110"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097110</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>809</ID>
                       <Description>"Yakei"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7112"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097112</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>810</ID>
                       <Description>"Ame-no-Murakumo"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7114"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097114</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>811</ID>
                       <Description>"Muramasa"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7116"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097116</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>812</ID>
                       <Description>"Masamune"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7118"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097118</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>965</ID>
                       <Description>"Kumbha"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7228"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097228</Address>
@@ -1245,49 +1114,42 @@
                     <CheatEntry>
                       <ID>813</ID>
                       <Description>"Ashura"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B711A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209711A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>814</ID>
                       <Description>"Sakura-saezuri"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B711C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209711C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>815</ID>
                       <Description>"Kagenui"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B711E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209711E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>816</ID>
                       <Description>"Koga Blade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7120"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097120</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>817</ID>
                       <Description>"Iga Blade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7122"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097122</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>818</ID>
                       <Description>"Orochi"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7124"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097124</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>819</ID>
                       <Description>"Yagyu Darkblade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7126"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097126</Address>
@@ -1295,7 +1157,6 @@
                     <CheatEntry>
                       <ID>967</ID>
                       <Description>"Mesa"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B722A"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209722A</Address>
@@ -1312,84 +1173,72 @@
                     <CheatEntry>
                       <ID>822</ID>
                       <Description>"Javelin"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7128"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097128</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>824</ID>
                       <Description>"Spear"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B712A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209712A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>825</ID>
                       <Description>"Partisan"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B712C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209712C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>826</ID>
                       <Description>"Heavy Lance"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B712E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209712E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>827</ID>
                       <Description>"Storm Spear"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7130"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097130</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>828</ID>
                       <Description>"Obelisk"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7132"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097132</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>829</ID>
                       <Description>"Halberd"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7134"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097134</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>830</ID>
                       <Description>"Trident"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7136"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097136</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>831</ID>
                       <Description>"Holy Lance"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7138"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097138</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>832</ID>
                       <Description>"Gungnir"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B713A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209713A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>833</ID>
                       <Description>"Dragon Whisker"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B713C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209713C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>970</ID>
                       <Description>"Vrsabba"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7230"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097230</Address>
@@ -1397,7 +1246,6 @@
                     <CheatEntry>
                       <ID>834</ID>
                       <Description>"Zodiac Spear"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B713E"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209713E</Address>
@@ -1414,84 +1262,72 @@
                     <CheatEntry>
                       <ID>835</ID>
                       <Description>"Oaken Pole"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7140"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097140</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>837</ID>
                       <Description>"Cypress Pole"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7142"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097142</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>838</ID>
                       <Description>"Battle Bamboo"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7144"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097144</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>839</ID>
                       <Description>"Musk Stick"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7146"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097146</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>840</ID>
                       <Description>"Iron Pole"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7148"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097148</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>841</ID>
                       <Description>"Six-fluted Pole"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B714A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209714A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>842</ID>
                       <Description>"Gokuu Pole"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B714C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209714C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>843</ID>
                       <Description>"Zephyr Pole"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B714E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209714E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>844</ID>
                       <Description>"Ivory Pole"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7150"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097150</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>845</ID>
                       <Description>"Sweep"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7152"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097152</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>846</ID>
                       <Description>"Eight-fluted Pole"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7154"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097154</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>847</ID>
                       <Description>"Whale Whisker"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7156"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097156</Address>
@@ -1499,7 +1335,6 @@
                     <CheatEntry>
                       <ID>982</ID>
                       <Description>"Kanya"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7260"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097260</Address>
@@ -1516,98 +1351,84 @@
                     <CheatEntry>
                       <ID>848</ID>
                       <Description>"Shortbow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7158"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097158</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>850</ID>
                       <Description>"Silver Bow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B715A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209715A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>851</ID>
                       <Description>"Aevis Killer"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B715C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209715C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>852</ID>
                       <Description>"Killer Bow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B715E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209715E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>853</ID>
                       <Description>"Longbow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7160"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097160</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>854</ID>
                       <Description>"Elfin Bow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7162"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097162</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>855</ID>
                       <Description>"Loxley Bow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7164"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097164</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>856</ID>
                       <Description>"Giant Stonebow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7166"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097166</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>857</ID>
                       <Description>"Burning Bow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7168"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097168</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>858</ID>
                       <Description>"Traitor's Bow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B716A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209716A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>859</ID>
                       <Description>"Yoichi Bow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B716C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209716C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>860</ID>
                       <Description>"Perseus Bow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B716E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209716E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>861</ID>
                       <Description>"Artemis Bow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7170"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097170</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>862</ID>
                       <Description>"Sagittarius"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7172"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097172</Address>
@@ -1615,7 +1436,6 @@
                     <CheatEntry>
                       <ID>983</ID>
                       <Description>"Dhanusha"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7262"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097262</Address>
@@ -1623,7 +1443,6 @@
                     <CheatEntry>
                       <ID>975</ID>
                       <Description>"Seitengrat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7238"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097238</Address>
@@ -1640,49 +1459,42 @@
                     <CheatEntry>
                       <ID>863</ID>
                       <Description>"Bowgun"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7174"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097174</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>865</ID>
                       <Description>"Crossbow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7176"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097176</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>866</ID>
                       <Description>"Paramina Crossbow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7178"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097178</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>867</ID>
                       <Description>"Recurve Crossbow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B717A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209717A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>868</ID>
                       <Description>"Hunting Crossbow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B717C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209717C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>869</ID>
                       <Description>"Penetrator Crossbow"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B717E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209717E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>870</ID>
                       <Description>"Gastrophetes"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7180"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097180</Address>
@@ -1690,7 +1502,6 @@
                     <CheatEntry>
                       <ID>972</ID>
                       <Description>"Tula"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7234"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097234</Address>
@@ -1707,77 +1518,66 @@
                     <CheatEntry>
                       <ID>871</ID>
                       <Description>"Altair"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7182"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097182</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>873</ID>
                       <Description>"Capella"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7184"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097184</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>874</ID>
                       <Description>"Vega"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7186"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097186</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>875</ID>
                       <Description>"Sirius"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7188"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097188</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>876</ID>
                       <Description>"Betelgeuse"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B718A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209718A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>877</ID>
                       <Description>"Ras Algethi"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B718C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209718C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>878</ID>
                       <Description>"Aldebaran"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B718E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209718E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>879</ID>
                       <Description>"Spica"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7190"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097190</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>880</ID>
                       <Description>"Antares"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7192"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097192</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>881</ID>
                       <Description>"Arcturus"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7194"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097194</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>882</ID>
                       <Description>"Fomalhaut"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7196"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097196</Address>
@@ -1785,7 +1585,6 @@
                     <CheatEntry>
                       <ID>981</ID>
                       <Description>"Mithuna"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B725E"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209725E</Address>
@@ -1802,49 +1601,42 @@
                     <CheatEntry>
                       <ID>883</ID>
                       <Description>"Handaxe"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7198"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097198</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>885</ID>
                       <Description>"Broadaxe"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B719A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209719A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>886</ID>
                       <Description>"Slasher"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B719C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209719C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>887</ID>
                       <Description>"Hammerhead"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B719E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209719E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>888</ID>
                       <Description>"Francisca"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71A0"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971A0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>889</ID>
                       <Description>"Greataxe"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71A2"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971A2</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>890</ID>
                       <Description>"Golden Axe"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71A4"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971A4</Address>
@@ -1861,7 +1653,6 @@
                     <CheatEntry>
                       <ID>891</ID>
                       <Description>"Iron Hammer"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71A6"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971A6</Address>
@@ -1869,35 +1660,30 @@
                     <CheatEntry>
                       <ID>893</ID>
                       <Description>"War Hammer"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71A8"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971A8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>894</ID>
                       <Description>"Sledgehammer"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71AA"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971AA</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>895</ID>
                       <Description>"Morning Star"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71AC"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971AC</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>896</ID>
                       <Description>"Scorpion Tail"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71AE"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971AE</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>980</ID>
                       <Description>"Vrscika"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B725C"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209725C</Address>
@@ -1914,7 +1700,6 @@
                     <CheatEntry>
                       <ID>897</ID>
                       <Description>"Dagger"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71B0"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971B0</Address>
@@ -1922,7 +1707,6 @@
                     <CheatEntry>
                       <ID>899</ID>
                       <Description>"Mage Masher"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71B2"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971B2</Address>
@@ -1930,7 +1714,6 @@
                     <CheatEntry>
                       <ID>900</ID>
                       <Description>"Assassin's Dagger"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71B4"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971B4</Address>
@@ -1938,7 +1721,6 @@
                     <CheatEntry>
                       <ID>901</ID>
                       <Description>"Chopper"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71B6"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971B6</Address>
@@ -1946,7 +1728,6 @@
                     <CheatEntry>
                       <ID>902</ID>
                       <Description>"Main Gauche"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71B8"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971B8</Address>
@@ -1954,7 +1735,6 @@
                     <CheatEntry>
                       <ID>903</ID>
                       <Description>"Gladius"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71BA"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971BA</Address>
@@ -1962,7 +1742,6 @@
                     <CheatEntry>
                       <ID>904</ID>
                       <Description>"Avenger"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71BC"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971BC</Address>
@@ -1970,7 +1749,6 @@
                     <CheatEntry>
                       <ID>905</ID>
                       <Description>"Orichalcum Dark"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71BE"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971BE</Address>
@@ -1978,7 +1756,6 @@
                     <CheatEntry>
                       <ID>906</ID>
                       <Description>"Platinum Dagger"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71C0"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971C0</Address>
@@ -1986,7 +1763,6 @@
                     <CheatEntry>
                       <ID>907</ID>
                       <Description>"Zwill Crossblade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71C2"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971C2</Address>
@@ -1994,7 +1770,6 @@
                     <CheatEntry>
                       <ID>908</ID>
                       <Description>"Shikari Nagasa"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71C4"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971C4</Address>
@@ -2002,7 +1777,6 @@
                     <CheatEntry>
                       <ID>968</ID>
                       <Description>"Mina"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B722C"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209722C</Address>
@@ -2019,7 +1793,6 @@
                     <CheatEntry>
                       <ID>909</ID>
                       <Description>"Rod"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71C6"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971C6</Address>
@@ -2027,7 +1800,6 @@
                     <CheatEntry>
                       <ID>911</ID>
                       <Description>"Serpent Rod"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71C8"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971C8</Address>
@@ -2035,7 +1807,6 @@
                     <CheatEntry>
                       <ID>912</ID>
                       <Description>"Healing Rod"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71CA"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971CA</Address>
@@ -2043,7 +1814,6 @@
                     <CheatEntry>
                       <ID>913</ID>
                       <Description>"Gaia Rod"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71CC"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971CC</Address>
@@ -2051,7 +1821,6 @@
                     <CheatEntry>
                       <ID>914</ID>
                       <Description>"Power Rod"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71CE"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971CE</Address>
@@ -2059,7 +1828,6 @@
                     <CheatEntry>
                       <ID>915</ID>
                       <Description>"Empyrean Rod"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71D0"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971D0</Address>
@@ -2067,7 +1835,6 @@
                     <CheatEntry>
                       <ID>916</ID>
                       <Description>"Holy Rod"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71D2"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971D2</Address>
@@ -2075,7 +1842,6 @@
                     <CheatEntry>
                       <ID>917</ID>
                       <Description>"Rod of Faith"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71D4"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971D4</Address>
@@ -2092,7 +1858,6 @@
                     <CheatEntry>
                       <ID>918</ID>
                       <Description>"Oak Staff"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71D6"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971D6</Address>
@@ -2100,7 +1865,6 @@
                     <CheatEntry>
                       <ID>920</ID>
                       <Description>"Cherry Staff"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71D8"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971D8</Address>
@@ -2108,7 +1872,6 @@
                     <CheatEntry>
                       <ID>921</ID>
                       <Description>"Wizard's Staff"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71DA"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971DA</Address>
@@ -2116,7 +1879,6 @@
                     <CheatEntry>
                       <ID>922</ID>
                       <Description>"Flame Staff"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71DC"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971DC</Address>
@@ -2124,7 +1886,6 @@
                     <CheatEntry>
                       <ID>923</ID>
                       <Description>"Storm Staff"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71DE"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971DE</Address>
@@ -2132,7 +1893,6 @@
                     <CheatEntry>
                       <ID>924</ID>
                       <Description>"Glacial Staff"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71E0"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971E0</Address>
@@ -2140,7 +1900,6 @@
                     <CheatEntry>
                       <ID>925</ID>
                       <Description>"Golden Staff"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71E2"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971E2</Address>
@@ -2148,7 +1907,6 @@
                     <CheatEntry>
                       <ID>926</ID>
                       <Description>"Judicer's Staff"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71E4"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971E4</Address>
@@ -2156,7 +1914,6 @@
                     <CheatEntry>
                       <ID>927</ID>
                       <Description>"Cloud Staff"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71E6"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971E6</Address>
@@ -2164,7 +1921,6 @@
                     <CheatEntry>
                       <ID>928</ID>
                       <Description>"Staff of the Magi"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71E8"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971E8</Address>
@@ -2181,7 +1937,6 @@
                     <CheatEntry>
                       <ID>929</ID>
                       <Description>"Mace"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71EA"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971EA</Address>
@@ -2189,7 +1944,6 @@
                     <CheatEntry>
                       <ID>931</ID>
                       <Description>"Bronze Mace"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71EC"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971EC</Address>
@@ -2197,7 +1951,6 @@
                     <CheatEntry>
                       <ID>932</ID>
                       <Description>"Bhuj"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71EE"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971EE</Address>
@@ -2205,7 +1958,6 @@
                     <CheatEntry>
                       <ID>933</ID>
                       <Description>"Miter"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71F0"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971F0</Address>
@@ -2213,7 +1965,6 @@
                     <CheatEntry>
                       <ID>934</ID>
                       <Description>"Thorned Mace"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71F2"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971F2</Address>
@@ -2221,7 +1972,6 @@
                     <CheatEntry>
                       <ID>935</ID>
                       <Description>"Chaos Mace"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71F4"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971F4</Address>
@@ -2229,7 +1979,6 @@
                     <CheatEntry>
                       <ID>936</ID>
                       <Description>"Doom Mace"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71F6"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971F6</Address>
@@ -2237,7 +1986,6 @@
                     <CheatEntry>
                       <ID>937</ID>
                       <Description>"Zeus Mace"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71F8"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971F8</Address>
@@ -2245,7 +1993,6 @@
                     <CheatEntry>
                       <ID>938</ID>
                       <Description>"Grand Mace"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71FA"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971FA</Address>
@@ -2253,7 +2000,6 @@
                     <CheatEntry>
                       <ID>952</ID>
                       <Description>"Bonebreaker"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7212"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097212</Address>
@@ -2261,7 +2007,6 @@
                     <CheatEntry>
                       <ID>971</ID>
                       <Description>"Bone of Byblos"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7232"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097232</Address>
@@ -2278,7 +2023,6 @@
                     <CheatEntry>
                       <ID>939</ID>
                       <Description>"Gilt Measure"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71FC"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971FC</Address>
@@ -2286,7 +2030,6 @@
                     <CheatEntry>
                       <ID>941</ID>
                       <Description>"Arc Scale"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B71FE"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20971FE</Address>
@@ -2294,7 +2037,6 @@
                     <CheatEntry>
                       <ID>942</ID>
                       <Description>"Multiscale"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7200"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097200</Address>
@@ -2302,7 +2044,6 @@
                     <CheatEntry>
                       <ID>943</ID>
                       <Description>"Cross Scale"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7202"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097202</Address>
@@ -2310,7 +2051,6 @@
                     <CheatEntry>
                       <ID>944</ID>
                       <Description>"Caliper"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7204"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097204</Address>
@@ -2318,7 +2058,6 @@
                     <CheatEntry>
                       <ID>945</ID>
                       <Description>"Euclid's Sextant"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7206"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097206</Address>
@@ -2335,7 +2074,6 @@
                     <CheatEntry>
                       <ID>946</ID>
                       <Description>"Hornito"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7208"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097208</Address>
@@ -2343,7 +2081,6 @@
                     <CheatEntry>
                       <ID>948</ID>
                       <Description>"Fumarole"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B720A"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209720A</Address>
@@ -2351,7 +2088,6 @@
                     <CheatEntry>
                       <ID>949</ID>
                       <Description>"Tumulus"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B720C"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209720C</Address>
@@ -2359,7 +2095,6 @@
                     <CheatEntry>
                       <ID>950</ID>
                       <Description>"Caldera"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B720E"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209720E</Address>
@@ -2367,7 +2102,6 @@
                     <CheatEntry>
                       <ID>951</ID>
                       <Description>"Volcano"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7210"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097210</Address>
@@ -2375,7 +2109,6 @@
                     <CheatEntry>
                       <ID>979</ID>
                       <Description>"Makara"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B725A"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209725A</Address>
@@ -2392,7 +2125,6 @@
                     <CheatEntry>
                       <ID>962</ID>
                       <Description>"Flimsy Blade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7222"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097222</Address>
@@ -2400,7 +2132,6 @@
                     <CheatEntry>
                       <ID>954</ID>
                       <Description>"Hero's Blade"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7216"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097216</Address>
@@ -2417,7 +2148,6 @@
                     <CheatEntry>
                       <ID>960</ID>
                       <Description>"Chirijiraden"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B721E"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209721E</Address>
@@ -2425,7 +2155,6 @@
                     <CheatEntry>
                       <ID>958</ID>
                       <Description>"Joyeuse (Larsa)"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B721C"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209721C</Address>
@@ -2433,7 +2162,6 @@
                     <CheatEntry>
                       <ID>961</ID>
                       <Description>"Nightmare (1st)"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7220"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097220</Address>
@@ -2441,7 +2169,6 @@
                     <CheatEntry>
                       <ID>964</ID>
                       <Description>"Nightmare (2nd)"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7226"/>
                       <ShowAsSigned>0</ShowAsSigned>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097226</Address>
@@ -2467,140 +2194,120 @@
                     <CheatEntry>
                       <ID>984</ID>
                       <Description>"Leather Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7266"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097266</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>991</ID>
                       <Description>"Buckler"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7268"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097268</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>992</ID>
                       <Description>"Bronze Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B726A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209726A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>993</ID>
                       <Description>"Round Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B726C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209726C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>994</ID>
                       <Description>"Shell Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B726E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209726E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>995</ID>
                       <Description>"Golden Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7270"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097270</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>996</ID>
                       <Description>"Ice Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7272"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097272</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>997</ID>
                       <Description>"Flame Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7274"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097274</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>998</ID>
                       <Description>"Diamond Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7276"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097276</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>999</ID>
                       <Description>"Platinum Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7278"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097278</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1000</ID>
                       <Description>"Dragon Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B727A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209727A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1001</ID>
                       <Description>"Crystal Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B727C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209727C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1002</ID>
                       <Description>"Genji Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B727E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209727E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1003</ID>
                       <Description>"Kaiser Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7280"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097280</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1004</ID>
                       <Description>"Aegis Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7282"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097282</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1005</ID>
                       <Description>"Demon Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7284"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097284</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1006</ID>
                       <Description>"Venetian Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7286"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097286</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1007</ID>
                       <Description>"Zodiac Escutcheon"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7288"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097288</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1008</ID>
                       <Description>"Ensanguined Shield"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B728A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209728A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>987</ID>
                       <Description>"Gendarme"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7264"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097264</Address>
                     </CheatEntry>
@@ -2616,147 +2323,126 @@
                     <CheatEntry>
                       <ID>1009</ID>
                       <Description>"Leather Cap"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B728C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209728C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1015</ID>
                       <Description>"Headgear"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B728E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209728E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1016</ID>
                       <Description>"Headguard"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7290"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097290</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1017</ID>
                       <Description>"Leather Headgear"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7292"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097292</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1018</ID>
                       <Description>"Horned Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7294"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097294</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1019</ID>
                       <Description>"Balaclava"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7296"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097296</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1020</ID>
                       <Description>"Soldier's Cap"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7298"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097298</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1021</ID>
                       <Description>"Green Beret"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B729A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209729A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1022</ID>
                       <Description>"Red Cap"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B729C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209729C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1023</ID>
                       <Description>"Headband"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B729E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209729E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1024</ID>
                       <Description>"Pirate Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72A0"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972A0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1025</ID>
                       <Description>"Goggle Mask"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72A2"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972A2</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1026</ID>
                       <Description>"Adamant Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72A4"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972A4</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1027</ID>
                       <Description>"Officer's Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72A6"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972A6</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1028</ID>
                       <Description>"Chakra Band"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72A8"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972A8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1029</ID>
                       <Description>"Thief's Cap"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72AA"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972AA</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1030</ID>
                       <Description>"Gigas Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72AC"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972AC</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1031</ID>
                       <Description>"Chaperon"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72AE"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972AE</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1032</ID>
                       <Description>"Crown of Laurels"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72B0"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972B0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1033</ID>
                       <Description>"Renewing Morion"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72B2"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972B2</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1034</ID>
                       <Description>"Dueling Mask"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72B4"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972B4</Address>
                     </CheatEntry>
@@ -2772,147 +2458,126 @@
                     <CheatEntry>
                       <ID>1035</ID>
                       <Description>"Cotton Cap"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72B6"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972B6</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1037</ID>
                       <Description>"Magick Curch"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72B8"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972B8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1038</ID>
                       <Description>"Pointy Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72BA"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972BA</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1039</ID>
                       <Description>"Topkapi Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72BC"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972BC</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1040</ID>
                       <Description>"Calot Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72BE"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972BE</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1041</ID>
                       <Description>"Wizard's Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72C0"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972C0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1042</ID>
                       <Description>"Lambent Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72C2"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972C2</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1043</ID>
                       <Description>"Feathered Cap"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72C4"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972C4</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1044</ID>
                       <Description>"Mage's Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72C6"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972C6</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1045</ID>
                       <Description>"Lamia's Tiara"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72C8"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972C8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1046</ID>
                       <Description>"Sorcerer's Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72CA"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972CA</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1047</ID>
                       <Description>"Black Cowl"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72CC"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972CC</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1048</ID>
                       <Description>"Astrakhan Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72CE"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972CE</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1049</ID>
                       <Description>"Gaia Hat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72D0"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972D0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1050</ID>
                       <Description>"Hypnocrown"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72D2"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972D2</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1051</ID>
                       <Description>"Gold Hairpin"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72D4"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972D4</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1052</ID>
                       <Description>"Celebrant's Miter"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72D6"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972D6</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1053</ID>
                       <Description>"Black Mask"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72D8"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972D8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1054</ID>
                       <Description>"White Mask"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72DA"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972DA</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1055</ID>
                       <Description>"Golden Skullcap"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72DC"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972DC</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1056</ID>
                       <Description>"Circlet"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72DE"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972DE</Address>
                     </CheatEntry>
@@ -2928,126 +2593,108 @@
                     <CheatEntry>
                       <ID>1057</ID>
                       <Description>"Leather Helm"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72E0"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972E0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1059</ID>
                       <Description>"Bronze Helm"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72E2"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972E2</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1060</ID>
                       <Description>"Sallet"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72E4"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972E4</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1061</ID>
                       <Description>"Iron Helm"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72E6"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972E6</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1062</ID>
                       <Description>"Barbut"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72E8"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972E8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1063</ID>
                       <Description>"Winged Helm"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72EA"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972EA</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1064</ID>
                       <Description>"Golden Helm"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72EC"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972EC</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1065</ID>
                       <Description>"Burgonet"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72EE"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972EE</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1066</ID>
                       <Description>"Close Helmet"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72F0"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972F0</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1067</ID>
                       <Description>"Bone Helm"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72F2"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972F2</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1068</ID>
                       <Description>"Diamond Helm"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72F4"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972F4</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1069</ID>
                       <Description>"Steel Mask"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72F6"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972F6</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1070</ID>
                       <Description>"Platinum Helm"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72F8"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972F8</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1071</ID>
                       <Description>"Giant's Helmet"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72FA"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972FA</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1072</ID>
                       <Description>"Dragon Helm"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72FC"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972FC</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1073</ID>
                       <Description>"Genji Helm"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B72FE"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+20972FE</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1074</ID>
                       <Description>"Magepower Shishak"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7300"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097300</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1075</ID>
                       <Description>"Grand Helm"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7302"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097302</Address>
                     </CheatEntry>
@@ -3063,147 +2710,126 @@
                     <CheatEntry>
                       <ID>1076</ID>
                       <Description>"Leather Clothing"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7304"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097304</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1078</ID>
                       <Description>"Chromed Leathers"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7306"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097306</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1079</ID>
                       <Description>"Leather Breastplate"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7308"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097308</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1080</ID>
                       <Description>"Bronze Chestplate"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B730A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209730A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1081</ID>
                       <Description>"Ringmail"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B730C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209730C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1082</ID>
                       <Description>"Windbreaker"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B730E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209730E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1083</ID>
                       <Description>"Heavy Coat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7310"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097310</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1084</ID>
                       <Description>"Survival Vest"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7312"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097312</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1085</ID>
                       <Description>"Brigandine"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7314"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097314</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1086</ID>
                       <Description>"Jujitsu Gi"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7316"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097316</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1087</ID>
                       <Description>"Viking Coat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7318"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097318</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1088</ID>
                       <Description>"Metal Jerkin"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B731A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209731A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1089</ID>
                       <Description>"Adamant Vest"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B731C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209731C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1090</ID>
                       <Description>"Barrel Coat"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B731E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209731E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1091</ID>
                       <Description>"Power Vest"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7320"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097320</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1092</ID>
                       <Description>"Ninja Gear"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7322"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097322</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1093</ID>
                       <Description>"Gigas Chestplate"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7324"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097324</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1094</ID>
                       <Description>"Minerva Bustier"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7326"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097326</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1095</ID>
                       <Description>"Rubber Suit"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7328"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097328</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1096</ID>
                       <Description>"Mirage Vest"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B732A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209732A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1097</ID>
                       <Description>"Brave Suit"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B732C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209732C</Address>
                     </CheatEntry>
@@ -3219,147 +2845,126 @@
                     <CheatEntry>
                       <ID>1098</ID>
                       <Description>"Cotton Shirt"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B732E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209732E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1100</ID>
                       <Description>"Light Woven Shirt"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7330"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097330</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1101</ID>
                       <Description>"Silken Shirt"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7332"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097332</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1102</ID>
                       <Description>"Kilimweave Shirt"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7334"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097334</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1103</ID>
                       <Description>"Shepherd's Bolero"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7336"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097336</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1104</ID>
                       <Description>"Wizard's Robes"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7338"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097338</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1105</ID>
                       <Description>"Chanter's Djellaba"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B733A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209733A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1106</ID>
                       <Description>"Traveler's Vestment"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B733C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209733C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1107</ID>
                       <Description>"Mage's Habit"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B733E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209733E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1108</ID>
                       <Description>"Enchanter's Habit"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7340"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097340</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1109</ID>
                       <Description>"Sorcerer's Habit"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7342"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097342</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1110</ID>
                       <Description>"Black Garb"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7344"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097344</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1111</ID>
                       <Description>"Carmagnole"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7346"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097346</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1112</ID>
                       <Description>"Maduin Gear"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7348"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097348</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1113</ID>
                       <Description>"Jade Gown"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B734A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209734A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1114</ID>
                       <Description>"Gaia Gear"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B734C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209734C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1115</ID>
                       <Description>"Cleric's Robes"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B734E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209734E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1116</ID>
                       <Description>"White Robes"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7350"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097350</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1117</ID>
                       <Description>"Black Robes"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7352"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097352</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1118</ID>
                       <Description>"Glimmering Robes"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7354"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097354</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1119</ID>
                       <Description>"Lordly Robes"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7356"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097356</Address>
                     </CheatEntry>
@@ -3375,126 +2980,108 @@
                     <CheatEntry>
                       <ID>1120</ID>
                       <Description>"Leather Armor"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7358"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097358</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1122</ID>
                       <Description>"Bronze Armor"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B735A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209735A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1123</ID>
                       <Description>"Scale Armor"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B735C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209735C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1124</ID>
                       <Description>"Iron Armor"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B735E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209735E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1125</ID>
                       <Description>"Linen Cuirass"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7360"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097360</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1126</ID>
                       <Description>"Chainmail"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7362"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097362</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1127</ID>
                       <Description>"Golden Armor"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7364"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097364</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1128</ID>
                       <Description>"Shielded Armor"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7366"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097366</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1129</ID>
                       <Description>"Demon Mail"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7368"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097368</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1130</ID>
                       <Description>"Bone Mail"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B736A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209736A</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1131</ID>
                       <Description>"Diamond Armor"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B736C"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209736C</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1132</ID>
                       <Description>"Mirror Mail"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B736E"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209736E</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1133</ID>
                       <Description>"Platinum Armor"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7370"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097370</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1134</ID>
                       <Description>"Carabineer Mail"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7372"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097372</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1135</ID>
                       <Description>"Dragon Mail"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7374"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097374</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1136</ID>
                       <Description>"Genji Armor"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7376"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097376</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1137</ID>
                       <Description>"Maximillian"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B7378"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+2097378</Address>
                     </CheatEntry>
                     <CheatEntry>
                       <ID>1138</ID>
                       <Description>"Grand Armor"</Description>
-                      <LastState Value="99" Activated="1" RealAddress="021B737A"/>
                       <VariableType>Byte</VariableType>
                       <Address>FFXII_TZA.exe+209737A</Address>
                     </CheatEntry>
@@ -3512,336 +3099,288 @@
                 <CheatEntry>
                   <ID>1171</ID>
                   <Description>"Opal Ring"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B737C"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+209737C</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1170</ID>
                   <Description>"Ruby Ring"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B737E"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+209737E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1169</ID>
                   <Description>"Tourmaline Ring"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7380"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2097380</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1168</ID>
                   <Description>"Sage's Ring"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7382"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2097382</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1167</ID>
                   <Description>"Ring of Renewal"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7384"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2097384</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1166</ID>
                   <Description>"Agate Ring"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7386"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2097386</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1164</ID>
                   <Description>"Bangle"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7388"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2097388</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1172</ID>
                   <Description>"Orrachea Armlet"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B738A"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+209738A</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1173</ID>
                   <Description>"Power Armlet"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B738C"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+209738C</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1174</ID>
                   <Description>"Argyle Armlet"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B738E"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+209738E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1175</ID>
                   <Description>"Diamond Armlet"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7390"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2097390</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1176</ID>
                   <Description>"Amber Armlet"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7392"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2097392</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1177</ID>
                   <Description>"Berserker Bracers"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7394"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2097394</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1178</ID>
                   <Description>"Magick Gloves"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7396"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2097396</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1179</ID>
                   <Description>"Thief's Cuffs"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B7398"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2097398</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1180</ID>
                   <Description>"Blazer Gloves"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B739A"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+209739A</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1181</ID>
                   <Description>"Genji Gloves"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B739C"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+209739C</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1182</ID>
                   <Description>"Gauntlets"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B739E"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+209739E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1183</ID>
                   <Description>"Turtleshell Choker"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73A0"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973A0</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1184</ID>
                   <Description>"Nihopalaoa"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73A2"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973A2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1185</ID>
                   <Description>"Embroidered Tippet"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73A4"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973A4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1186</ID>
                   <Description>"Leather Gorget"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73A6"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973A6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1187</ID>
                   <Description>"Jade Collar"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73A8"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973A8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1188</ID>
                   <Description>"Steel Gorget"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73AA"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973AA</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1189</ID>
                   <Description>"Rose Corsage"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73AC"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973AC</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1190</ID>
                   <Description>"Pheasant Netsuke"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73AE"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973AE</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1191</ID>
                   <Description>"Indigo Pendant"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73B0"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973B0</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1192</ID>
                   <Description>"Golden Amulet"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73B2"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973B2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1193</ID>
                   <Description>"Bowline Sash"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73B4"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973B4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1194</ID>
                   <Description>"Firefly"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73B6"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973B6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1195</ID>
                   <Description>"Sash"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73B8"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973B8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1196</ID>
                   <Description>"Bubble Belt"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73BA"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973BA</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1197</ID>
                   <Description>"Cameo Belt"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73BC"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973BC</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1198</ID>
                   <Description>"Nishijin Belt"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73BE"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973BE</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1199</ID>
                   <Description>"Black Belt"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73C0"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973C0</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1200</ID>
                   <Description>"Battle Harness"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73C2"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973C2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1201</ID>
                   <Description>"Germinas Boots"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73C4"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973C4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1211</ID>
                   <Description>"Heremes Sandals"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73C6"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973C6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1212</ID>
                   <Description>"Gillie Boots"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73C8"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973C8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1202</ID>
                   <Description>"Steel Poleyns"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73CA"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973CA</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1203</ID>
                   <Description>"Winged Boots"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73CC"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973CC</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1204</ID>
                   <Description>"Quasimodo Boots"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73CE"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973CE</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1205</ID>
                   <Description>"Manufactured Nethicite"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73D0"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973D0</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1206</ID>
                   <Description>"Cat-ear Hood"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73D2"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973D2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1207</ID>
                   <Description>"Fuzzy Miter"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73D4"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973D4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1208</ID>
                   <Description>"Ribbon"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73D6"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973D6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1209</ID>
                   <Description>"Goddess's Magicite"</Description>
-                  <LastState Value="0" Activated="1" RealAddress="021B73D8"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973D8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1210</ID>
                   <Description>"Dawn Shard"</Description>
-                  <LastState Value="99" Activated="1" RealAddress="021B73DA"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+20973DA</Address>
                 </CheatEntry>
@@ -3861,14 +3400,12 @@
         <CheatEntry>
           <ID>1219</ID>
           <Description>"Barheim Light %"</Description>
-          <LastState Value="99" RealAddress="02164E42"/>
           <VariableType>Byte</VariableType>
           <Address>FFXII_TZA.exe+2044E42</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1225</ID>
           <Description>"Bhujerba Notoriety %"</Description>
-          <LastState Value="100" RealAddress="02164B31"/>
           <VariableType>Byte</VariableType>
           <Address>FFXII_TZA.exe+2044B31</Address>
         </CheatEntry>
