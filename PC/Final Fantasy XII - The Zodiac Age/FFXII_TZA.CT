@@ -180,6 +180,13 @@
           <VariableType>4 Bytes</VariableType>
           <Address>FFXII_TZA.exe+2094084</Address>
         </CheatEntry>
+        <CheatEntry>
+          <ID>1631</ID>
+          <Description>"Reddas (Guest)"</Description>
+          <LastState Value="9999" Activated="1" RealAddress="021B424C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FFXII_TZA.exe+209424C</Address>
+        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
@@ -1336,7 +1343,7 @@
         </CheatEntry>
         <CheatEntry>
           <ID>715</ID>
-          <Description>"Quantities"</Description>
+          <Description>"Quantities (99)"</Description>
           <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
           <LastState Value="" Activated="1" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
@@ -2981,7 +2988,7 @@
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1513</ID>
-                  <Description>"Black Orb"</Description>
+                  <Description>"Black Orb?"</Description>
                   <LastState Value="99" Activated="1" RealAddress="021B762C"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+209762C</Address>
@@ -2999,6 +3006,13 @@
                   <LastState Value="99" Activated="1" RealAddress="021B7642"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+2097642</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1630</ID>
+                  <Description>"Black Orb"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="021B7648"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>FFXII_TZA.exe+2097648</Address>
                 </CheatEntry>
               </CheatEntries>
             </CheatEntry>
