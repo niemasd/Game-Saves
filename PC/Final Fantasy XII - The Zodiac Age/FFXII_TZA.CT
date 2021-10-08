@@ -234,6 +234,22 @@
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
+              <ID>1633</ID>
+              <Description>"Loot"</Description>
+              <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1634</ID>
+                  <Description>"Loot 1"</Description>
+                  <LastState Value="8435" RealAddress="02170836"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>FFXII_TZA.exe+2050836</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
               <ID>1243</ID>
               <Description>"Abilities"</Description>
               <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
@@ -1273,7 +1289,7 @@
                 <CheatEntry>
                   <ID>1161</ID>
                   <Description>"Accessory Slots"</Description>
-                  <LastState Value="3" RealAddress="02170C44"/>
+                  <LastState Value="2" RealAddress="02170C44"/>
                   <ShowAsSigned>0</ShowAsSigned>
                   <VariableType>4 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2050C44</Address>
@@ -1295,7 +1311,7 @@
                 <CheatEntry>
                   <ID>1232</ID>
                   <Description>"Accessory 3"</Description>
-                  <LastState Value="4483" RealAddress="02170078"/>
+                  <LastState Value="65535" RealAddress="02170078"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>FFXII_TZA.exe+2050078</Address>
                 </CheatEntry>
@@ -2999,6 +3015,13 @@
                   <LastState Value="99" Activated="1" RealAddress="021B762E"/>
                   <VariableType>Byte</VariableType>
                   <Address>FFXII_TZA.exe+209762E</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>1635</ID>
+                  <Description>"Semclam Shell"</Description>
+                  <LastState Value="99" RealAddress="021B7630"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>FFXII_TZA.exe+2097630</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>1624</ID>
