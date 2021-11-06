@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Experience"</Description>
+      <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"Current EXP"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF67B6EBDDC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>Yakuza3.exe+11CBDDC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"Total EXP"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF67B6EBDD8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>Yakuza3.exe+11CBDD8</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Money"</Description>
+      <LastState Value="999999999" Activated="1" RealAddress="7FF67B6EE1B8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Yakuza3.exe+11CE1B8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Club Money"</Description>
+      <LastState Value="999999999" Activated="1" RealAddress="7FF67B6EE1CC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Yakuza3.exe+11CE1CC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"HP (91751800)"</Description>
+      <LastState Value="91751800" Activated="1" RealAddress="7FF67B6EBDC4"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Yakuza3.exe+11CBDC4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Heat (1184030720)"</Description>
+      <LastState Value="1184030720" Activated="1" RealAddress="7FF67B6EBDC8"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Yakuza3.exe+11CBDC8</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
