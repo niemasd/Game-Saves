@@ -1,0 +1,10 @@
+{
+	"WindowMode": "Fullscreen",
+	"FrameRate": "60FPS",
+	"TextureQuality": "Ultra",
+	"ShadowQuality": "Ultra",
+	"MaxAnisotropy": "16X",
+	"PostProcessingQuality": "Ultra",
+	"AudioChannelSetup": "Surround",
+	"AudioDynamicRange": "Medium"
+}

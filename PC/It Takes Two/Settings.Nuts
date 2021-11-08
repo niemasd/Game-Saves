@@ -1,0 +1,18 @@
+{
+	"TelemetryOptIn": "On",
+	"KeyboardBinding_MoveForward": "17",
+	"KeyboardBinding_MoveBackward": "31",
+	"KeyboardBinding_MoveLeft": "30",
+	"KeyboardBinding_MoveRight": "32",
+	"KeyboardBinding_MinigameTop": "17",
+	"KeyboardBinding_MinigameBottom": "31",
+	"KeyboardBinding_MinigameLeft": "30",
+	"KeyboardBinding_MinigameRight": "32",
+	"KeyboardBinding_Cancel": "16",
+	"KeyboardBinding_GroundPound": "29",
+	"KeyboardBinding_Jump": "57",
+	"KeyboardBinding_Interaction": "18",
+	"KeyboardBinding_SwingAttach": "33",
+	"KeyboardBinding_MovementDash": "42",
+	"KeyboardBinding_MovementSprintToggle": "58"
+}
