@@ -11,7 +11,7 @@
         <CheatEntry>
           <ID>0</ID>
           <Description>"Money"</Description>
-          <LastState Value="999999999" RealAddress="7FF6B83EBD94"/>
+          <LastState Value="999999999" RealAddress="7FF7B9A6BD94"/>
           <VariableType>4 Bytes</VariableType>
           <Address>Yakuza4.exe+19ABD94</Address>
         </CheatEntry>
@@ -25,21 +25,21 @@
             <CheatEntry>
               <ID>1</ID>
               <Description>"Current Experience"</Description>
-              <LastState Value="999999" RealAddress="7FF6B83E934C"/>
+              <LastState Value="999999" RealAddress="7FF7B9A6934C"/>
               <VariableType>4 Bytes</VariableType>
               <Address>Yakuza4.exe+19A934C</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>2</ID>
               <Description>"To Next Level"</Description>
-              <LastState Value="999999" RealAddress="7FF6B83E9350"/>
+              <LastState Value="999999" RealAddress="7FF7B9A69350"/>
               <VariableType>4 Bytes</VariableType>
               <Address>Yakuza4.exe+19A9350</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>4</ID>
               <Description>"Orbs"</Description>
-              <LastState Value="99" RealAddress="7FF6B83E935C"/>
+              <LastState Value="99" RealAddress="7FF7B9A6935C"/>
               <VariableType>Byte</VariableType>
               <Address>Yakuza4.exe+19A935C</Address>
             </CheatEntry>
@@ -48,14 +48,14 @@
         <CheatEntry>
           <ID>6</ID>
           <Description>"HP (95027201)"</Description>
-          <LastState Value="95027201" RealAddress="7FF6B83E9334"/>
+          <LastState Value="95027201" RealAddress="7FF7B9A69334"/>
           <VariableType>4 Bytes</VariableType>
           <Address>Yakuza4.exe+19A9334</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>5</ID>
           <Description>"Heat (1180352512)"</Description>
-          <LastState Value="1180352512" RealAddress="7FF6B83E933C"/>
+          <LastState Value="1180352512" RealAddress="7FF7B9A6933C"/>
           <VariableType>4 Bytes</VariableType>
           <Address>Yakuza4.exe+19A933C</Address>
         </CheatEntry>
@@ -71,7 +71,7 @@
         <CheatEntry>
           <ID>15</ID>
           <Description>"Money"</Description>
-          <LastState Value="999999999" RealAddress="7FF6B83EBD98"/>
+          <LastState Value="999999999" RealAddress="7FF7B9A6BD98"/>
           <VariableType>4 Bytes</VariableType>
           <Address>Yakuza4.exe+19ABD98</Address>
         </CheatEntry>
@@ -85,21 +85,21 @@
             <CheatEntry>
               <ID>11</ID>
               <Description>"Current Experience"</Description>
-              <LastState Value="999999" RealAddress="7FF6B83E93FC"/>
+              <LastState Value="999999" RealAddress="7FF7B9A693FC"/>
               <VariableType>4 Bytes</VariableType>
               <Address>Yakuza4.exe+19A93FC</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>12</ID>
               <Description>"To Next Level"</Description>
-              <LastState Value="999999" RealAddress="7FF6B83E9400"/>
+              <LastState Value="999999" RealAddress="7FF7B9A69400"/>
               <VariableType>4 Bytes</VariableType>
               <Address>Yakuza4.exe+19A9400</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>8</ID>
               <Description>"Orbs"</Description>
-              <LastState Value="99" RealAddress="7FF6B83E940C"/>
+              <LastState Value="99" RealAddress="7FF7B9A6940C"/>
               <VariableType>Byte</VariableType>
               <Address>Yakuza4.exe+19A940C</Address>
             </CheatEntry>
@@ -108,21 +108,21 @@
         <CheatEntry>
           <ID>14</ID>
           <Description>"HP (111411202)"</Description>
-          <LastState Value="111411202" RealAddress="7FF6B83E93E4"/>
+          <LastState Value="111411202" RealAddress="7FF7B9A693E4"/>
           <VariableType>4 Bytes</VariableType>
           <Address>Yakuza4.exe+19A93E4</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>13</ID>
           <Description>"Heat (1180762112)"</Description>
-          <LastState Value="1180762112" RealAddress="7FF6B83E93EC"/>
+          <LastState Value="1180762112" RealAddress="7FF7B9A693EC"/>
           <VariableType>4 Bytes</VariableType>
           <Address>Yakuza4.exe+19A93EC</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>16</ID>
           <Description>"EcoPoints"</Description>
-          <LastState Value="999999" RealAddress="7FF6B83EBDF8"/>
+          <LastState Value="999999" RealAddress="7FF7B9A6BDF8"/>
           <VariableType>4 Bytes</VariableType>
           <Address>Yakuza4.exe+19ABDF8</Address>
         </CheatEntry>
@@ -136,14 +136,14 @@
             <CheatEntry>
               <ID>23</ID>
               <Description>"Funds"</Description>
-              <LastState Value="999999999" RealAddress="7FF6B83EBE08"/>
+              <LastState Value="999999999" RealAddress="7FF7B9A6BE08"/>
               <VariableType>4 Bytes</VariableType>
               <Address>Yakuza4.exe+19ABE08</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>17</ID>
               <Description>"Stamina"</Description>
-              <LastState Value="660" RealAddress="7FF6B83F76D4"/>
+              <LastState Value="660" RealAddress="7FF7B9A776D4"/>
               <VariableType>4 Bytes</VariableType>
               <Address>Yakuza4.exe+19B76D4</Address>
             </CheatEntry>
@@ -155,13 +155,13 @@
       <ID>25</ID>
       <Description>"Part 3"</Description>
       <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
-      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>24</ID>
           <Description>"Money"</Description>
-          <LastState Value="999999999" Activated="1" RealAddress="7FF6B83EBD9C"/>
+          <LastState Value="999999999" RealAddress="7FF7B9A6BD9C"/>
           <VariableType>4 Bytes</VariableType>
           <Address>Yakuza4.exe+19ABD9C</Address>
         </CheatEntry>
@@ -169,27 +169,27 @@
           <ID>29</ID>
           <Description>"Experience"</Description>
           <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
-          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <LastState Value="" RealAddress="00000000"/>
           <GroupHeader>1</GroupHeader>
           <CheatEntries>
             <CheatEntry>
               <ID>28</ID>
               <Description>"Current Experience"</Description>
-              <LastState Value="999999" Activated="1" RealAddress="7FF6B83E94AC"/>
+              <LastState Value="248000" RealAddress="7FF7B9A694AC"/>
               <VariableType>4 Bytes</VariableType>
               <Address>Yakuza4.exe+19A94AC</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>30</ID>
               <Description>"To Next Level"</Description>
-              <LastState Value="999999" Activated="1" RealAddress="7FF6B83E94B0"/>
+              <LastState Value="248000" RealAddress="7FF7B9A694B0"/>
               <VariableType>4 Bytes</VariableType>
               <Address>Yakuza4.exe+19A94B0</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>31</ID>
               <Description>"Orbs"</Description>
-              <LastState Value="99" Activated="1" RealAddress="7FF6B83E94BC"/>
+              <LastState Value="99" RealAddress="7FF7B9A694BC"/>
               <VariableType>Byte</VariableType>
               <Address>Yakuza4.exe+19A94BC</Address>
             </CheatEntry>
@@ -198,16 +198,76 @@
         <CheatEntry>
           <ID>26</ID>
           <Description>"HP (78643203)"</Description>
-          <LastState Value="78643203" Activated="1" RealAddress="7FF6B83E9494"/>
+          <LastState Value="78643203" RealAddress="7FF7B9A69494"/>
           <VariableType>4 Bytes</VariableType>
           <Address>Yakuza4.exe+19A9494</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>27</ID>
           <Description>"Heat (1182801920)"</Description>
-          <LastState Value="1182801920" Activated="1" RealAddress="7FF6B83E949C"/>
+          <LastState Value="1182801920" RealAddress="7FF7B9A6949C"/>
           <VariableType>4 Bytes</VariableType>
           <Address>Yakuza4.exe+19A949C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>33</ID>
+      <Description>"Part 4"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description>"Money"</Description>
+          <LastState Value="999999999" Activated="1" RealAddress="7FF7B9A6BD90"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>Yakuza4.exe+19ABD90</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"Experience"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>35</ID>
+              <Description>"Current Experience"</Description>
+              <LastState Value="999999" Activated="1" RealAddress="7FF7B9A6929C"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Yakuza4.exe+19A929C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>37</ID>
+              <Description>"To Next Level"</Description>
+              <LastState Value="999999" Activated="1" RealAddress="7FF7B9A692A0"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Yakuza4.exe+19A92A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>38</ID>
+              <Description>"Orbs"</Description>
+              <LastState Value="99" Activated="1" RealAddress="7FF7B9A692AC"/>
+              <VariableType>Byte</VariableType>
+              <Address>Yakuza4.exe+19A92AC</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"HP (96665600)"</Description>
+          <LastState Value="96665600" Activated="1" RealAddress="7FF7B9A69284"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>Yakuza4.exe+19A9284</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description>"Heat (1180352512)"</Description>
+          <LastState Value="1180352512" Activated="1" RealAddress="7FF7B9A6928C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>Yakuza4.exe+19A928C</Address>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
