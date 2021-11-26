@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Bestiary"</Description>
+      <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"Goblin"</Description>
+          <LastState Value="25" RealAddress="2304B88010C"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>2304B88010C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"Steel Bat"</Description>
+          <LastState Value="24" RealAddress="2304B88011C"/>
+          <VariableType>Byte</VariableType>
+          <Address>2304B88011C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"Devil Crab"</Description>
+          <LastState Value="2" RealAddress="2304B88012C"/>
+          <VariableType>Byte</VariableType>
+          <Address>2304B88012C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"Stroper"</Description>
+          <LastState Value="14" RealAddress="2304B88013C"/>
+          <VariableType>Byte</VariableType>
+          <Address>2304B88013C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"Black Goblin"</Description>
+          <LastState Value="22" RealAddress="2304B88014C"/>
+          <VariableType>Byte</VariableType>
+          <Address>2304B88014C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"White Serpent"</Description>
+          <LastState Value="21" RealAddress="2304B88015C"/>
+          <VariableType>Byte</VariableType>
+          <Address>2304B88015C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"Moldwynd"</Description>
+          <LastState Value="15" RealAddress="2304B88016C"/>
+          <VariableType>Byte</VariableType>
+          <Address>2304B88016C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"Wing Raptor"</Description>
+          <LastState Value="1" RealAddress="2304B88017C"/>
+          <VariableType>Byte</VariableType>
+          <Address>2304B88017C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"Mani Wizard"</Description>
+          <LastState Value="1" RealAddress="2304B88018C"/>
+          <VariableType>Byte</VariableType>
+          <Address>2304B88018C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Stray Cat"</Description>
+          <LastState Value="12" RealAddress="2304B88019C"/>
+          <VariableType>Byte</VariableType>
+          <Address>2304B88019C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"Killer Bee"</Description>
+          <LastState Value="16" RealAddress="2304B8801AC"/>
+          <VariableType>Byte</VariableType>
+          <Address>2304B8801AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"Nutkin"</Description>
+          <LastState Value="6" RealAddress="230ADBD699C"/>
+          <VariableType>Byte</VariableType>
+          <Address>230ADBD699C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
