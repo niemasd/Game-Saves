@@ -2,96 +2,450 @@
 <CheatTable CheatEngineTableVersion="38">
   <CheatEntries>
     <CheatEntry>
-      <ID>2</ID>
+      <ID>46</ID>
       <Description>"Bestiary"</Description>
-      <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
-      <LastState Value="" RealAddress="00000000"/>
+      <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="230ADBD68EA"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
-          <ID>3</ID>
-          <Description>"Goblin"</Description>
-          <LastState Value="25" RealAddress="2304B88010C"/>
+          <ID>48</ID>
+          <Description>"Goblin 1"</Description>
+          <LastState Value="1" RealAddress="230ADBD68E0"/>
           <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Byte</VariableType>
-          <Address>2304B88010C</Address>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD68E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>47</ID>
+          <Description>"Goblin 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD68E4"/>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD68E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"Goblin 3"</Description>
+          <LastState Value="1" RealAddress="230ADBD68E8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD68E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"Goblin 4 (Killed)"</Description>
+          <LastState Value="27" RealAddress="230ADBD68EC"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD68EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>50</ID>
+          <Description>"Steel Bat 1"</Description>
+          <LastState Value="5" RealAddress="230ADBD68F0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD68F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>49</ID>
+          <Description>"Steel Bat 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD68F4"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD68F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"Steel Bat 3"</Description>
+          <LastState Value="5" RealAddress="230ADBD68F8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD68F8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>4</ID>
-          <Description>"Steel Bat"</Description>
-          <LastState Value="24" RealAddress="2304B88011C"/>
-          <VariableType>Byte</VariableType>
-          <Address>2304B88011C</Address>
+          <Description>"Steel Bat 4 (Killed)"</Description>
+          <LastState Value="26" RealAddress="230ADBD68FC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD68FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>55</ID>
+          <Description>"Devil Crab 1"</Description>
+          <LastState Value="6" RealAddress="230ADBD6900"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6900</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"Devil Crab 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD6904"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6904</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"Devil Crab 3"</Description>
+          <LastState Value="6" RealAddress="230ADBD6908"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6908</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>5</ID>
-          <Description>"Devil Crab"</Description>
-          <LastState Value="2" RealAddress="2304B88012C"/>
-          <VariableType>Byte</VariableType>
-          <Address>2304B88012C</Address>
+          <Description>"Devil Crab 4 (Killed)"</Description>
+          <LastState Value="3" RealAddress="230ADBD690C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD690C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>56</ID>
+          <Description>"Stroper 1"</Description>
+          <LastState Value="7" RealAddress="230ADBD6910"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6910</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>57</ID>
+          <Description>"Stroper 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD6914"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6914</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description>"Stroper 3"</Description>
+          <LastState Value="7" RealAddress="230ADBD6918"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6918</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>6</ID>
-          <Description>"Stroper"</Description>
-          <LastState Value="14" RealAddress="2304B88013C"/>
-          <VariableType>Byte</VariableType>
-          <Address>2304B88013C</Address>
+          <Description>"Stroper 4 (Killed)"</Description>
+          <LastState Value="14" RealAddress="230ADBD691C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD691C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>58</ID>
+          <Description>"Black Goblin 1"</Description>
+          <LastState Value="8" RealAddress="230ADBD6920"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6920</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>59</ID>
+          <Description>"Black Goblin 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD6924"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6924</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description>"Black Goblin 3"</Description>
+          <LastState Value="8" RealAddress="230ADBD6928"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6928</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>7</ID>
-          <Description>"Black Goblin"</Description>
-          <LastState Value="22" RealAddress="2304B88014C"/>
-          <VariableType>Byte</VariableType>
-          <Address>2304B88014C</Address>
+          <Description>"Black Goblin 4 (Killed)"</Description>
+          <LastState Value="30" RealAddress="230ADBD692C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD692C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>61</ID>
+          <Description>"White Serpent 1"</Description>
+          <LastState Value="9" RealAddress="230ADBD6930"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6930</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>60</ID>
+          <Description>"White Serpent 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD6934"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6934</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description>"White Serpent 3"</Description>
+          <LastState Value="9" RealAddress="230ADBD6938"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6938</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>8</ID>
-          <Description>"White Serpent"</Description>
-          <LastState Value="21" RealAddress="2304B88015C"/>
-          <VariableType>Byte</VariableType>
-          <Address>2304B88015C</Address>
+          <Description>"White Serpent 4 (Killed)"</Description>
+          <LastState Value="26" RealAddress="230ADBD693C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD693C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>62</ID>
+          <Description>"Moldwynd 1"</Description>
+          <LastState Value="10" RealAddress="230ADBD6940"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6940</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>63</ID>
+          <Description>"Moldwynd 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD6944"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6944</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"Moldwynd 3"</Description>
+          <LastState Value="10" RealAddress="230ADBD6948"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6948</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>9</ID>
-          <Description>"Moldwynd"</Description>
-          <LastState Value="15" RealAddress="2304B88016C"/>
-          <VariableType>Byte</VariableType>
-          <Address>2304B88016C</Address>
+          <Description>"Moldwynd 4 (Killed)"</Description>
+          <LastState Value="18" RealAddress="230ADBD694C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD694C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>64</ID>
+          <Description>"Wing Raptor 1"</Description>
+          <LastState Value="281" RealAddress="230ADBD6950"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6950</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>65</ID>
+          <Description>"Wing Raptor 2"</Description>
+          <LastState Value="00000001" RealAddress="230ADBD6954"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6954</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"Wing Raptor 3"</Description>
+          <LastState Value="281" RealAddress="230ADBD6958"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6958</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>10</ID>
-          <Description>"Wing Raptor"</Description>
-          <LastState Value="1" RealAddress="2304B88017C"/>
-          <VariableType>Byte</VariableType>
-          <Address>2304B88017C</Address>
+          <Description>"Wing Raptor 4 (Killed)"</Description>
+          <LastState Value="2" RealAddress="230ADBD695C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD695C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>66</ID>
+          <Description>"Mani Wizard 1"</Description>
+          <LastState Value="11" RealAddress="230ADBD6960"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6960</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>67</ID>
+          <Description>"Mani Wizard 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD6964"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6964</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description>"Mani Wizard 3"</Description>
+          <LastState Value="11" RealAddress="230ADBD6968"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6968</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>11</ID>
-          <Description>"Mani Wizard"</Description>
-          <LastState Value="1" RealAddress="2304B88018C"/>
-          <VariableType>Byte</VariableType>
-          <Address>2304B88018C</Address>
+          <Description>"Mani Wizard 4 (Killed)"</Description>
+          <LastState Value="13" RealAddress="230ADBD696C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD696C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>68</ID>
+          <Description>"Stray Cat 1"</Description>
+          <LastState Value="4" RealAddress="230ADBD6970"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6970</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>69</ID>
+          <Description>"Stray Cat 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD6974"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6974</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"Stray Cat 3"</Description>
+          <LastState Value="4" RealAddress="230ADBD6978"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6978</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>12</ID>
-          <Description>"Stray Cat"</Description>
-          <LastState Value="12" RealAddress="2304B88019C"/>
-          <VariableType>Byte</VariableType>
-          <Address>2304B88019C</Address>
+          <Description>"Stray Cat 4 (Killed)"</Description>
+          <LastState Value="14" RealAddress="230ADBD697C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD697C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>70</ID>
+          <Description>"Killer Bee 1"</Description>
+          <LastState Value="2" RealAddress="230ADBD6980"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6980</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>71</ID>
+          <Description>"Killer Bee 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD6984"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6984</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>38</ID>
+          <Description>"Killer Bee 3"</Description>
+          <LastState Value="2" RealAddress="230ADBD6988"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6988</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>1</ID>
-          <Description>"Killer Bee"</Description>
-          <LastState Value="16" RealAddress="2304B8801AC"/>
-          <VariableType>Byte</VariableType>
-          <Address>2304B8801AC</Address>
+          <Description>"Killer Bee 4 (Killed)"</Description>
+          <LastState Value="18" RealAddress="230ADBD698C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD698C</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>13</ID>
-          <Description>"Nutkin"</Description>
-          <LastState Value="6" RealAddress="230ADBD699C"/>
-          <VariableType>Byte</VariableType>
+          <ID>72</ID>
+          <Description>"Nutkin 1"</Description>
+          <LastState Value="3" RealAddress="230ADBD6990"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6990</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>73</ID>
+          <Description>"Nutkin 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD6994"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6994</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>74</ID>
+          <Description>"Nutkin 3"</Description>
+          <LastState Value="3" RealAddress="230ADBD6998"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD6998</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>75</ID>
+          <Description>"Nutkin 4 (Killed)"</Description>
+          <LastState Value="7" RealAddress="230ADBD699C"/>
+          <VariableType>4 Bytes</VariableType>
           <Address>230ADBD699C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>76</ID>
+          <Description>"Sucker 1"</Description>
+          <LastState Value="13" RealAddress="230ADBD69A0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>77</ID>
+          <Description>"Sucker 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD69A4"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>78</ID>
+          <Description>"Sucker 3"</Description>
+          <LastState Value="13" RealAddress="230ADBD69A8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>52</ID>
+          <Description>"Sucker 4 (Killed)"</Description>
+          <LastState Value="8" RealAddress="230ADBD69AC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>79</ID>
+          <Description>"Octokraken 1"</Description>
+          <LastState Value="14" RealAddress="230ADBD69B0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>80</ID>
+          <Description>"Octokraken 2"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="230ADBD69B4"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>81</ID>
+          <Description>"Octokraken 3"</Description>
+          <LastState Value="14" RealAddress="230ADBD69B8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>51</ID>
+          <Description>"Octokraken 4 (Killed)"</Description>
+          <LastState Value="12" RealAddress="230ADBD69BC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>82</ID>
+          <Description>"??? 1"</Description>
+          <LastState Value="0" RealAddress="230ADBD69C0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>83</ID>
+          <Description>"??? 2"</Description>
+          <LastState Value="00000000" RealAddress="230ADBD69C4"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>84</ID>
+          <Description>"??? 3"</Description>
+          <LastState Value="0" RealAddress="230ADBD69C8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>85</ID>
+          <Description>"??? 4 (Killed)"</Description>
+          <LastState Value="0" RealAddress="230ADBD69CC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>230ADBD69CC</Address>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
