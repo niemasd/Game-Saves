@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>27</ID>
+      <Description>"Part 1"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"Money"</Description>
+          <LastState Value="999999999" Activated="1" RealAddress="1428F96C8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>Yakuza5.exe+28F96C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"HP"</Description>
+          <LastState Value="103549184" Activated="1" RealAddress="1428F3B04"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>Yakuza5.exe+28F3B04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"Heat (1177792512)"</Description>
+          <LastState Value="1177792512" Activated="1" RealAddress="1428F3B0C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>Yakuza5.exe+28F3B0C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"Experience"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1</ID>
+              <Description>"Current EXP"</Description>
+              <LastState Value="99999" Activated="1" RealAddress="1428F3B24"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Yakuza5.exe+28F3B24</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>3</ID>
+              <Description>"Next Level"</Description>
+              <LastState Value="99999" Activated="1" RealAddress="1428F3B28"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Yakuza5.exe+28F3B28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>4</ID>
+              <Description>"Orbs"</Description>
+              <LastState Value="99" Activated="1" RealAddress="1428F3B2C"/>
+              <VariableType>Byte</VariableType>
+              <Address>Yakuza5.exe+28F3B2C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>9</ID>
+              <Description>"Weapons"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" Activated="1" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>26</ID>
+                  <Description>"One-Handed Light Weapons"</Description>
+                  <LastState Value="10019" Activated="1" RealAddress="1428F3B34"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B34</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>15</ID>
+                  <Description>"Two-Handed Light Weapons"</Description>
+                  <LastState Value="1038" Activated="1" RealAddress="1428F3B38"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B38</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>16</ID>
+                  <Description>"Knives"</Description>
+                  <LastState Value="10036" Activated="1" RealAddress="1428F3B3C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B3C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>17</ID>
+                  <Description>"Katanas"</Description>
+                  <LastState Value="10000" Activated="1" RealAddress="1428F3B40"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B40</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>18</ID>
+                  <Description>"Poles"</Description>
+                  <LastState Value="9999" Activated="1" RealAddress="1428F3B44"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B44</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>19</ID>
+                  <Description>"Hammers"</Description>
+                  <LastState Value="9999" Activated="1" RealAddress="1428F3B48"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B48</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>20</ID>
+                  <Description>"Kali Sticks"</Description>
+                  <LastState Value="9999" Activated="1" RealAddress="1428F3B4C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B4C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>21</ID>
+                  <Description>"Tonfa"</Description>
+                  <LastState Value="9999" Activated="1" RealAddress="1428F3B50"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B50</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>22</ID>
+                  <Description>"Nunchaku"</Description>
+                  <LastState Value="9999" Activated="1" RealAddress="1428F3B54"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B54</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>23</ID>
+                  <Description>"Knuckles"</Description>
+                  <LastState Value="9999" Activated="1" RealAddress="1428F3B58"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B58</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>8</ID>
+                  <Description>"Guns"</Description>
+                  <LastState Value="412" Activated="1" RealAddress="1428F3B5C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B5C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>24</ID>
+                  <Description>"Two-Handed Heavy Weapons"</Description>
+                  <LastState Value="10002" Activated="1" RealAddress="1428F3B60"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3B60</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"Taxi"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>10</ID>
+              <Description>"Taxi Points"</Description>
+              <LastState Value="999999" Activated="1" RealAddress="1428F9808"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Yakuza5.exe+28F9808</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>12</ID>
+              <Description>"Driver EXP"</Description>
+              <LastState Value="9999999" Activated="1" RealAddress="142908244"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Yakuza5.exe+2908244</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>14</ID>
+          <Description>"Social Commitment"</Description>
+          <LastState Value="1000" Activated="1" RealAddress="1428FAB78"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>Yakuza5.exe+28FAB78</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>31</ID>
+      <Description>"Part 2"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description>"HP"</Description>
+          <LastState Value="136577024" Activated="1" RealAddress="1428F3E04"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>Yakuza5.exe+28F3E04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"Heat (1177792512)"</Description>
+          <LastState Value="1177792512" Activated="1" RealAddress="1428F3E0C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>Yakuza5.exe+28F3E0C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"Experience"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>28</ID>
+              <Description>"Current EXP"</Description>
+              <LastState Value="99999" Activated="1" RealAddress="1428F3E24"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Yakuza5.exe+28F3E24</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>29</ID>
+              <Description>"Next Level"</Description>
+              <LastState Value="99999" Activated="1" RealAddress="1428F3E28"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>Yakuza5.exe+28F3E28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>32</ID>
+              <Description>"Orbs"</Description>
+              <LastState Value="99" Activated="1" RealAddress="1428F3E2C"/>
+              <VariableType>Byte</VariableType>
+              <Address>Yakuza5.exe+28F3E2C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>47</ID>
+              <Description>"Weapons"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>35</ID>
+                  <Description>"One-Handed Light Weapons"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E34"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E34</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>36</ID>
+                  <Description>"Two-Handed Light Weapons"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E38"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E38</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>37</ID>
+                  <Description>"Knives"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E3C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E3C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>38</ID>
+                  <Description>"Katanas"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E40"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E40</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>39</ID>
+                  <Description>"Poles"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E44"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E44</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>40</ID>
+                  <Description>"Hammers"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E48"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E48</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>41</ID>
+                  <Description>"Kali Sticks"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E4C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E4C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>42</ID>
+                  <Description>"Tonfa"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E50"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E50</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>43</ID>
+                  <Description>"Nunchaku"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E54"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E54</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>44</ID>
+                  <Description>"Knuckles"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E58"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E58</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>45</ID>
+                  <Description>"Guns"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E5C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E5C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>46</ID>
+                  <Description>"Two-Handed Heavy Weapons"</Description>
+                  <LastState Value="9999" RealAddress="1428F3E60"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>Yakuza5.exe+28F3E60</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
