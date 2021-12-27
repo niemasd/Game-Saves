@@ -1,0 +1,1254 @@
+{
+    "$id": 0,
+    "$type": "0|SaveFile, Assembly-CSharp",
+    "randomSeed": 12589218,
+    "currentScene": "Part3_Cabin",
+    "playTime": 0,
+    "storyEvents": {
+        "$id": 1,
+        "$type": "1|DiskCardGame.StoryEventsData, Assembly-CSharp",
+        "completedEvents": {
+            "$id": 2,
+            "$type": "2|System.Collections.Generic.List`1[[DiskCardGame.StoryEvent, Assembly-CSharp]], mscorlib",
+            "$rlength": 28,
+            "$rcontent": [
+                40,
+                48,
+                33,
+                43,
+                44,
+                45,
+                34,
+                35,
+                36,
+                37,
+                24,
+                47,
+                38,
+                6,
+                19,
+                29,
+                60,
+                64,
+                4,
+                5,
+                27,
+                28,
+                0,
+                1,
+                3,
+                59,
+                66,
+                162
+            ]
+        }
+    },
+    "dialogueData": {
+        "$id": 3,
+        "$type": "3|DiskCardGame.DialogueEventsData, Assembly-CSharp",
+        "eventData": {
+            "$id": 4,
+            "$type": "4|System.Collections.Generic.List`1[[DiskCardGame.DialogueEventsData+EventSaveData, Assembly-CSharp]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        }
+    },
+    "progressionData": {
+        "$id": 5,
+        "$type": "5|DiskCardGame.ProgressionData, Assembly-CSharp",
+        "learnedAbilities": {
+            "$id": 6,
+            "$type": "6|System.Collections.Generic.List`1[[DiskCardGame.Ability, Assembly-CSharp]], mscorlib",
+            "$rlength": 34,
+            "$rcontent": [
+                19,
+                21,
+                33,
+                2,
+                34,
+                11,
+                75,
+                6,
+                4,
+                83,
+                17,
+                9,
+                14,
+                1,
+                5,
+                18,
+                26,
+                12,
+                31,
+                29,
+                23,
+                20,
+                15,
+                24,
+                32,
+                30,
+                3,
+                16,
+                13,
+                10,
+                22,
+                25,
+                7,
+                8
+            ]
+        },
+        "learnedMechanics": {
+            "$id": 7,
+            "$type": "7|System.Collections.Generic.List`1[[DiskCardGame.MechanicsConcept, Assembly-CSharp]], mscorlib",
+            "$rlength": 27,
+            "$rcontent": [
+                1,
+                2,
+                4,
+                27,
+                11,
+                36,
+                35,
+                28,
+                29,
+                30,
+                0,
+                3,
+                13,
+                9,
+                17,
+                18,
+                16,
+                53,
+                6,
+                5,
+                7,
+                14,
+                12,
+                8,
+                26,
+                33,
+                24
+            ]
+        },
+        "learnedCards": {
+            "$id": 8,
+            "$type": "8|System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "introducedCards": {
+            "$id": 9,
+            "$type": 8,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "introducedConsumables": {
+            "$id": 10,
+            "$type": 8,
+            "$rlength": 2,
+            "$rcontent": [
+                "SquirrelBottle",
+                "Pliers"
+            ]
+        }
+    },
+    "currentRun": {
+        "$id": 11,
+        "$type": "9|DiskCardGame.RunState, Assembly-CSharp",
+        "playerDeck": {
+            "$id": 12,
+            "$type": "10|DiskCardGame.DeckInfo, Assembly-CSharp",
+            "cardIds": {
+                "$id": 13,
+                "$type": 8,
+                "$rlength": 4,
+                "$rcontent": [
+                    "Wolf",
+                    "Stinkbug_Talking",
+                    "Stoat_Talking",
+                    "Bullfrog"
+                ]
+            },
+            "boonIds": null,
+            "cardIdModInfos": {
+                "$id": 14,
+                "$type": "11|System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Collections.Generic.List`1[[DiskCardGame.CardModificationInfo, Assembly-CSharp]], mscorlib]], mscorlib",
+                "comparer": {
+                    "$id": 15,
+                    "$type": "12|System.Collections.Generic.InternalStringComparer, mscorlib"
+                },
+                "$rlength": 4,
+                "$rcontent": [
+                    {
+                        "$k": "Wolf",
+                        "$v": {
+                            "$id": 16,
+                            "$type": "13|System.Collections.Generic.List`1[[DiskCardGame.CardModificationInfo, Assembly-CSharp]], mscorlib",
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Stinkbug_Talking",
+                        "$v": {
+                            "$id": 17,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Stoat_Talking",
+                        "$v": {
+                            "$id": 18,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Bullfrog",
+                        "$v": {
+                            "$id": 19,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "totems": {
+            "$id": 20,
+            "$type": "14|System.Collections.Generic.List`1[[DiskCardGame.TotemDefinition, Assembly-CSharp]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "totemTops": {
+            "$id": 21,
+            "$type": "15|System.Collections.Generic.List`1[[DiskCardGame.Tribe, Assembly-CSharp]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "totemBottoms": {
+            "$id": 22,
+            "$type": 6,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "consumables": {
+            "$id": 23,
+            "$type": 8,
+            "$rlength": 2,
+            "$rcontent": [
+                "SquirrelBottle",
+                "Pliers"
+            ]
+        },
+        "currency": 0,
+        "playerLives": 2,
+        "maxPlayerLives": 2,
+        "difficultyModifier": 1,
+        "storyEventsCompleted": {
+            "$id": 24,
+            "$type": 2,
+            "$rlength": 1,
+            "$rcontent": [
+                162
+            ]
+        },
+        "eyeState": 0,
+        "runIntroCompleted": false,
+        "leshyBossBattle": false,
+        "riggedDraws": {
+            "$id": 25,
+            "$type": 8,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "bonelordPuzzleActive": false,
+        "skullTeeth": 3,
+        "survivorsDead": false,
+        "map": null,
+        "currentNodeId": 0,
+        "regionTier": 0,
+        "regionIndex": 0,
+        "playerAvatarHead": 4,
+        "playerAvatarArms": 5,
+        "playerAvatarBody": 6,
+        "causeOfDeath": null,
+        "completed": false,
+        "deathcardName": null
+    },
+    "pastRuns": {
+        "$id": 26,
+        "$type": "16|System.Collections.Generic.List`1[[DiskCardGame.RunState, Assembly-CSharp]], mscorlib",
+        "$rlength": 0,
+        "$rcontent": [
+        ]
+    },
+    "deathCardMods": {
+        "$id": 27,
+        "$type": 13,
+        "$rlength": 4,
+        "$rcontent": [
+            {
+                "$id": 28,
+                "$type": "17|DiskCardGame.CardModificationInfo, Assembly-CSharp",
+                "singletonId": null,
+                "nameReplacement": "Reginald",
+                "attackAdjustment": 1,
+                "healthAdjustment": 3,
+                "abilities": {
+                    "$id": 29,
+                    "$type": 6,
+                    "$rlength": 1,
+                    "$rcontent": [
+                        4
+                    ]
+                },
+                "negateAbilities": {
+                    "$id": 30,
+                    "$type": 6,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "bloodCostAdjustment": 0,
+                "bonesCostAdjustment": 3,
+                "energyCostAdjustment": 0,
+                "nullifyGemsCost": false,
+                "addGemCost": {
+                    "$id": 31,
+                    "$type": "18|System.Collections.Generic.List`1[[DiskCardGame.GemType, Assembly-CSharp]], mscorlib",
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "gemify": false,
+                "specialAbilities": {
+                    "$id": 32,
+                    "$type": "19|System.Collections.Generic.List`1[[DiskCardGame.SpecialTriggeredAbility, Assembly-CSharp]], mscorlib",
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "statIcon": 0,
+                "fromCardMerge": false,
+                "fromDuplicateMerge": false,
+                "fromTotem": false,
+                "fromLatch": false,
+                "fromOverclock": false,
+                "sideDeckMod": false,
+                "nonCopyable": false,
+                "transformerBeastCardId": null,
+                "deathCardInfo": {
+                    "$id": 33,
+                    "$type": "20|DiskCardGame.DeathCardInfo, Assembly-CSharp",
+                    "headType": 0,
+                    "mouthIndex": 5,
+                    "eyesIndex": 2,
+                    "lostEye": false
+                },
+                "bountyHunterInfo": null,
+                "buildACardPortraitInfo": null,
+                "decalIds": null
+            },
+            {
+                "$id": 34,
+                "$type": 17,
+                "singletonId": null,
+                "nameReplacement": "Kaycee",
+                "attackAdjustment": 1,
+                "healthAdjustment": 2,
+                "abilities": {
+                    "$id": 35,
+                    "$type": 6,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        24,
+                        15
+                    ]
+                },
+                "negateAbilities": {
+                    "$id": 36,
+                    "$type": 6,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "bloodCostAdjustment": 1,
+                "bonesCostAdjustment": 0,
+                "energyCostAdjustment": 0,
+                "nullifyGemsCost": false,
+                "addGemCost": {
+                    "$id": 37,
+                    "$type": 18,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "gemify": false,
+                "specialAbilities": {
+                    "$id": 38,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "statIcon": 0,
+                "fromCardMerge": false,
+                "fromDuplicateMerge": false,
+                "fromTotem": false,
+                "fromLatch": false,
+                "fromOverclock": false,
+                "sideDeckMod": false,
+                "nonCopyable": false,
+                "transformerBeastCardId": null,
+                "deathCardInfo": {
+                    "$id": 39,
+                    "$type": 20,
+                    "headType": 3,
+                    "mouthIndex": 1,
+                    "eyesIndex": 4,
+                    "lostEye": false
+                },
+                "bountyHunterInfo": null,
+                "buildACardPortraitInfo": null,
+                "decalIds": null
+            },
+            {
+                "$id": 40,
+                "$type": 17,
+                "singletonId": null,
+                "nameReplacement": "Louis",
+                "attackAdjustment": 1,
+                "healthAdjustment": 1,
+                "abilities": {
+                    "$id": 41,
+                    "$type": 6,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        3,
+                        13
+                    ]
+                },
+                "negateAbilities": {
+                    "$id": 42,
+                    "$type": 6,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "bloodCostAdjustment": 1,
+                "bonesCostAdjustment": 0,
+                "energyCostAdjustment": 0,
+                "nullifyGemsCost": false,
+                "addGemCost": {
+                    "$id": 43,
+                    "$type": 18,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "gemify": false,
+                "specialAbilities": {
+                    "$id": 44,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "statIcon": 0,
+                "fromCardMerge": false,
+                "fromDuplicateMerge": false,
+                "fromTotem": false,
+                "fromLatch": false,
+                "fromOverclock": false,
+                "sideDeckMod": false,
+                "nonCopyable": false,
+                "transformerBeastCardId": null,
+                "deathCardInfo": {
+                    "$id": 45,
+                    "$type": 20,
+                    "headType": 2,
+                    "mouthIndex": 2,
+                    "eyesIndex": 0,
+                    "lostEye": false
+                },
+                "bountyHunterInfo": null,
+                "buildACardPortraitInfo": null,
+                "decalIds": null
+            },
+            {
+                "$id": 46,
+                "$type": 17,
+                "singletonId": null,
+                "nameReplacement": "Kaminski",
+                "attackAdjustment": 0,
+                "healthAdjustment": 1,
+                "abilities": {
+                    "$id": 47,
+                    "$type": 6,
+                    "$rlength": 2,
+                    "$rcontent": [
+                        18,
+                        15
+                    ]
+                },
+                "negateAbilities": {
+                    "$id": 48,
+                    "$type": 6,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "bloodCostAdjustment": 0,
+                "bonesCostAdjustment": 1,
+                "energyCostAdjustment": 0,
+                "nullifyGemsCost": false,
+                "addGemCost": {
+                    "$id": 49,
+                    "$type": 18,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "gemify": false,
+                "specialAbilities": {
+                    "$id": 50,
+                    "$type": 19,
+                    "$rlength": 0,
+                    "$rcontent": [
+                    ]
+                },
+                "statIcon": 0,
+                "fromCardMerge": false,
+                "fromDuplicateMerge": false,
+                "fromTotem": false,
+                "fromLatch": false,
+                "fromOverclock": false,
+                "sideDeckMod": false,
+                "nonCopyable": false,
+                "transformerBeastCardId": null,
+                "deathCardInfo": {
+                    "$id": 51,
+                    "$type": 20,
+                    "headType": 1,
+                    "mouthIndex": 3,
+                    "eyesIndex": 1,
+                    "lostEye": false
+                },
+                "bountyHunterInfo": null,
+                "buildACardPortraitInfo": null,
+                "decalIds": null
+            }
+        ]
+    },
+    "wallCandlesProgress": 0,
+    "oilPaintingState": {
+        "$id": 52,
+        "$type": "21|DiskCardGame.OilPaintingPuzzle+SaveState, Assembly-CSharp",
+        "puzzleSolution": {
+            "$id": 53,
+            "$type": 8,
+            "$rlength": 4,
+            "$rcontent": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        "puzzleSolved": false,
+        "rewardIndex": 0,
+        "rewardTaken": false
+    },
+    "sliderTrackStates": {
+        "$id": 54,
+        "$type": "22|System.Collections.Generic.List`1[[DiskCardGame.SliderPuzzleTrack+SaveState, Assembly-CSharp]], mscorlib",
+        "$rlength": 0,
+        "$rcontent": [
+        ]
+    },
+    "gbcData": {
+        "$id": 55,
+        "$type": "23|GBC.SaveData, Assembly-CSharp",
+        "deck": {
+            "$id": 56,
+            "$type": 10,
+            "cardIds": {
+                "$id": 57,
+                "$type": 8,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            },
+            "boonIds": null,
+            "cardIdModInfos": {
+                "$id": 58,
+                "$type": 11,
+                "comparer": $iref:15,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            }
+        },
+        "collection": {
+            "$id": 59,
+            "$type": "24|DiskCardGame.CardCollectionInfo, Assembly-CSharp",
+            "cardIds": {
+                "$id": 60,
+                "$type": 8,
+                "$rlength": 0,
+                "$rcontent": [
+                ]
+            }
+        },
+        "cardsViewedInCollection": {
+            "$id": 61,
+            "$type": 8,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "currency": 0,
+        "packsOpened": 0,
+        "npcAttempts": 0,
+        "fusedCardsIndex": 0,
+        "tentacleIndex": 0,
+        "overworldNode": null,
+        "overworldScene": "GBC_WorldMap",
+        "overworldIndoorPosition": {
+            "$type": "25|UnityEngine.Vector2, UnityEngine.CoreModule",
+            0,
+            0
+        },
+        "overworldIndoorLookDirection": 0,
+        "objectStates": {
+            "$id": 62,
+            "$type": "26|System.Collections.Generic.List`1[[GBC.SaveData+ObjectStateData, Assembly-CSharp]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "playerAvatarHead": 5,
+        "playerAvatarArms": 4,
+        "playerAvatarBody": 5,
+        "undeadTemple": {
+            "$id": 63,
+            "$type": "27|GBC.UndeadTempleSaveData, Assembly-CSharp",
+            "shopState": {
+                "$id": 64,
+                "$type": "28|GBC.TempleSaveData+ShopInventoryState, Assembly-CSharp",
+                "card1Progress": 0,
+                "card2Progress": 0,
+                "card3Progress": 0,
+                "card4Progress": 0
+            },
+            "cameraPosition": {
+                "$type": 25,
+                0,
+                0
+            },
+            "roomId": null,
+            "epitaphPieces": {
+                "$id": 65,
+                "$type": "29|System.Collections.Generic.List`1[[GBC.UndeadTempleSaveData+EpitaphPieceState, Assembly-CSharp]], mscorlib",
+                "$rlength": 9,
+                "$rcontent": [
+                    {
+                        "$id": 66,
+                        "$type": "30|GBC.UndeadTempleSaveData+EpitaphPieceState, Assembly-CSharp",
+                        "index": 0,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 67,
+                        "$type": 30,
+                        "index": 1,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 68,
+                        "$type": 30,
+                        "index": 2,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 69,
+                        "$type": 30,
+                        "index": 3,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 70,
+                        "$type": 30,
+                        "index": 4,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 71,
+                        "$type": 30,
+                        "index": 5,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 72,
+                        "$type": 30,
+                        "index": 6,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 73,
+                        "$type": 30,
+                        "index": 7,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    },
+                    {
+                        "$id": 74,
+                        "$type": 30,
+                        "index": 8,
+                        "found": false,
+                        "placed": false,
+                        "tombstoneIndex": 0
+                    }
+                ]
+            }
+        },
+        "natureTemple": {
+            "$id": 75,
+            "$type": "31|GBC.NatureTempleSaveData, Assembly-CSharp",
+            "shopState": {
+                "$id": 76,
+                "$type": 28,
+                "card1Progress": 0,
+                "card2Progress": 0,
+                "card3Progress": 0,
+                "card4Progress": 0
+            },
+            "cameraPosition": {
+                "$type": 25,
+                0,
+                0
+            },
+            "roomId": null,
+            "hasCamera": false,
+            "hookedShark": false,
+            "trappedRabbit": false,
+            "trapPosition": {
+                "$type": 25,
+                0,
+                0
+            },
+            "trapperHeadTurned": false,
+            "safeState": {
+                "$id": 77,
+                "$type": "32|GBC.TempleSaveData+SlidersSaveState, Assembly-CSharp",
+                "index": 0,
+                "sliderPositions": {
+                    "$id": 78,
+                    "$type": "33|System.Int32[], mscorlib",
+                    "$plength": 3,
+                    "$pcontent": [
+                        0,
+                        0,
+                        0
+                    ]
+                }
+            }
+        },
+        "wizardTemple": {
+            "$id": 79,
+            "$type": "34|GBC.WizardTempleSaveData, Assembly-CSharp",
+            "shopState": {
+                "$id": 80,
+                "$type": 28,
+                "card1Progress": 0,
+                "card2Progress": 0,
+                "card3Progress": 0,
+                "card4Progress": 0
+            },
+            "cameraPosition": {
+                "$type": 25,
+                0,
+                0
+            },
+            "roomId": null,
+            "pedestals": {
+                "$id": 81,
+                "$type": "35|System.Collections.Generic.List`1[[GBC.TempleSaveData+SlidersSaveState, Assembly-CSharp]], mscorlib",
+                "$rlength": 3,
+                "$rcontent": [
+                    {
+                        "$id": 82,
+                        "$type": 32,
+                        "index": 0,
+                        "sliderPositions": {
+                            "$id": 83,
+                            "$type": 33,
+                            "$plength": 3,
+                            "$pcontent": [
+                                3,
+                                1,
+                                4
+                            ]
+                        }
+                    },
+                    {
+                        "$id": 84,
+                        "$type": 32,
+                        "index": 0,
+                        "sliderPositions": {
+                            "$id": 85,
+                            "$type": 33,
+                            "$plength": 3,
+                            "$pcontent": [
+                                3,
+                                1,
+                                4
+                            ]
+                        }
+                    },
+                    {
+                        "$id": 86,
+                        "$type": 32,
+                        "index": 0,
+                        "sliderPositions": {
+                            "$id": 87,
+                            "$type": 33,
+                            "$plength": 3,
+                            "$pcontent": [
+                                3,
+                                1,
+                                4
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "techTemple": {
+            "$id": 88,
+            "$type": "36|GBC.TechTempleSaveData, Assembly-CSharp",
+            "shopState": {
+                "$id": 89,
+                "$type": 28,
+                "card1Progress": 0,
+                "card2Progress": 0,
+                "card3Progress": 0,
+                "card4Progress": 0
+            },
+            "cameraPosition": {
+                "$type": 25,
+                0,
+                0
+            },
+            "roomId": null
+        }
+    },
+    "part3Data": {
+        "$id": 90,
+        "$type": "37|DiskCardGame.Part3SaveData, Assembly-CSharp",
+        "deck": {
+            "$id": 91,
+            "$type": 10,
+            "cardIds": {
+                "$id": 92,
+                "$type": 8,
+                "$rlength": 4,
+                "$rcontent": [
+                    "BatteryBot",
+                    "Shieldbot",
+                    "Sniper",
+                    "CloserBot"
+                ]
+            },
+            "boonIds": null,
+            "cardIdModInfos": {
+                "$id": 93,
+                "$type": 11,
+                "comparer": $iref:15,
+                "$rlength": 4,
+                "$rcontent": [
+                    {
+                        "$k": "BatteryBot",
+                        "$v": {
+                            "$id": 94,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Shieldbot",
+                        "$v": {
+                            "$id": 95,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Sniper",
+                        "$v": {
+                            "$id": 96,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "CloserBot",
+                        "$v": {
+                            "$id": 97,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        "riggedDraws": {
+            "$id": 98,
+            "$type": 8,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "currency": 0,
+        "shopNodeCostModifier": 0,
+        "deckGemsDistribution": {
+            "$id": 99,
+            "$type": 33,
+            "$plength": 3,
+            "$pcontent": [
+                3,
+                3,
+                4
+            ]
+        },
+        "sideDeckAbilities": {
+            "$id": 100,
+            "$type": 6,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "playerLives": 1,
+        "playerMaxLives": 1,
+        "items": {
+            "$id": 101,
+            "$type": 8,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "unlockedItems": {
+            "$id": 102,
+            "$type": "38|System.Collections.Generic.List`1[[DiskCardGame.Part3SaveData+ItemUnlock, Assembly-CSharp]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "areaData": {
+            "$id": 103,
+            "$type": "39|System.Collections.Generic.List`1[[DiskCardGame.Part3SaveData+MapAreaStateData, Assembly-CSharp]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "playerPos": {
+            "$id": 104,
+            "$type": "40|DiskCardGame.Part3SaveData+WorldPosition, Assembly-CSharp",
+            "worldId": "StartingArea",
+            "gridX": 2,
+            "gridY": 0
+        },
+        "checkpointPos": {
+            "$id": 105,
+            "$type": 40,
+            "worldId": "StartingArea",
+            "gridX": 2,
+            "gridY": 0
+        },
+        "bloodstainPos": null,
+        "bloodstainCurrency": 0,
+        "bounty": 0,
+        "battlesSinceBountyHunter": 0,
+        "bountyHunterMods": {
+            "$id": 106,
+            "$type": 13,
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "reachedCheckpoints": {
+            "$id": 107,
+            "$type": 8,
+            "$rlength": 1,
+            "$rcontent": [
+                "StartingArea"
+            ]
+        },
+        "nodesActivated": 0,
+        "pelts": 0,
+        "collectedTarots": {
+            "$id": 108,
+            "$type": "41|System.Collections.Generic.List`1[[DiskCardGame.TraderTarotType, Assembly-CSharp]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "lukeFileIndex": 0,
+        "deletedFilePath": null,
+        "canvasBossEyeIndex": -1,
+        "canvasBossMouthIndex": -1,
+        "foundUndeadTempleQuill": false,
+        "wellDredgedQuill": false,
+        "wellDredgedCoin": false,
+        "undeadTempleSignedScroll": false,
+        "techAreaSatellitesOn": {
+            "$id": 109,
+            "$type": "42|System.Boolean[], mscorlib",
+            "$plength": 4,
+            "$pcontent": [
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        "techElevatorOn": false
+    },
+    "grimoraData": {
+        "$id": 110,
+        "$type": "43|DiskCardGame.GrimoraSaveData, Assembly-CSharp",
+        "gridX": 1,
+        "gridY": 6,
+        "removedPieces": {
+            "$id": 111,
+            "$type": "44|System.Collections.Generic.List`1[[System.Int32, mscorlib]], mscorlib",
+            "$rlength": 0,
+            "$rcontent": [
+            ]
+        },
+        "deck": {
+            "$id": 112,
+            "$type": 10,
+            "cardIds": {
+                "$id": 113,
+                "$type": 8,
+                "$rlength": 5,
+                "$rcontent": [
+                    "Gravedigger",
+                    "Gravedigger",
+                    "Gravedigger",
+                    "FrankNStein",
+                    "FrankNStein"
+                ]
+            },
+            "boonIds": null,
+            "cardIdModInfos": {
+                "$id": 114,
+                "$type": 11,
+                "comparer": $iref:15,
+                "$rlength": 5,
+                "$rcontent": [
+                    {
+                        "$k": "Gravedigger",
+                        "$v": {
+                            "$id": 115,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Gravedigger#1",
+                        "$v": {
+                            "$id": 116,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "Gravedigger#2",
+                        "$v": {
+                            "$id": 117,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "FrankNStein",
+                        "$v": {
+                            "$id": 118,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    },
+                    {
+                        "$k": "FrankNStein#1",
+                        "$v": {
+                            "$id": 119,
+                            "$type": 13,
+                            "$rlength": 0,
+                            "$rcontent": [
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "gbcCardsCollected": {
+        "$id": 120,
+        "$type": 8,
+        "$rlength": 73,
+        "$rcontent": [
+            "Skeleton",
+            "Gravedigger",
+            "Draugr",
+            "Zombie",
+            "FrankNStein",
+            "DeadHand",
+            "Family",
+            "Pupil",
+            "JuniorSage",
+            "Bonehound",
+            "SkeletonMage",
+            "MarrowMage",
+            "HeadlessHorseman",
+            "Sarcophagus",
+            "FactoryConduit",
+            "MoxSapphire",
+            "Necromancer",
+            "RubyGolem",
+            "Mole",
+            "CloserBot",
+            "Automaton",
+            "Salmon",
+            "TombRobber",
+            "CoinLeft",
+            "Hrokkall",
+            "CoinRight",
+            "NullConduit",
+            "Bullfrog",
+            "MantisGod",
+            "Warren",
+            "AttackConduit",
+            "RoboMice",
+            "Urayuli",
+            "Adder",
+            "ElkCub",
+            "EnergyRoller",
+            "Bloodhound",
+            "Grizzly",
+            "StimMage",
+            "Cat",
+            "GemFiend",
+            "MageKnight",
+            "MoleMan",
+            "Elk",
+            "MoxRuby",
+            "MasterGoranj",
+            "PracticeMage",
+            "WolfCub",
+            "MoxDualOB",
+            "OrangeMage",
+            "Revenant",
+            "ForceMage",
+            "GreenMage",
+            "MoxDualBG",
+            "FlyingMage",
+            "Rabbit",
+            "MineCart",
+            "MuscleMage",
+            "SquirrelBall",
+            "MasterOrlu",
+            "SentryBot",
+            "Shutterbug",
+            "BatteryBot",
+            "TechMoxTriple",
+            "AboveCurve",
+            "Thickbot",
+            "MeatBot",
+            "PlasmaGunner",
+            "EnergyConduit",
+            "Banshee",
+            "GhostShip",
+            "BoltHound",
+            "Bonepile"
+        ]
+    },
+    "ouroborosDeaths": 0,
+    "unlockedAchievements": {
+        "$id": 121,
+        "$type": "45|System.Collections.Generic.List`1[[Achievement, Assembly-CSharp]], mscorlib",
+        "$rlength": 21,
+        "$rcontent": [
+            0,
+            1,
+            11,
+            12,
+            2,
+            3,
+            4,
+            13,
+            5,
+            6,
+            7,
+            8,
+            10,
+            9,
+            17,
+            18,
+            19,
+            21,
+            20,
+            22,
+            23
+        ]
+    }
+}
