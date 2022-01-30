@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Hacksilver"</Description>
+      <LastState Value="999999" Activated="1" RealAddress="7FF2BA1F0138"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>7FF2BA1F0138</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Experience"</Description>
+      <LastState Value="99999" Activated="1" RealAddress="7FF2BA1EFF78"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>7FF2BA1EFF78</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
