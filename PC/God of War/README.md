@@ -1,2 +1,2 @@
 * **Location:** `%USERPROFILE%\Saved Games\God of War\<USER_ID>\`
-* **Last Played:** 2022-01-29
+* **Last Played:** 2022-02-17

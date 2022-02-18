@@ -4,174 +4,195 @@
     <CheatEntry>
       <ID>0</ID>
       <Description>"Hacksilver"</Description>
-      <LastState Value="9999999" Activated="1" RealAddress="7FF2FA111838"/>
+      <LastState Value="9999999" Activated="1" RealAddress="7FF2F1B91838"/>
       <VariableType>4 Bytes</VariableType>
-      <Address>7FF2FA111838</Address>
+      <Address>7FF2F1B91838</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>1</ID>
       <Description>"Experience"</Description>
-      <LastState Value="129745" RealAddress="7FF2FA111678"/>
+      <LastState Value="999999" Activated="1" RealAddress="7FF2F1B91678"/>
       <VariableType>4 Bytes</VariableType>
-      <Address>7FF2FA111678</Address>
+      <Address>7FF2F1B91678</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>3</ID>
       <Description>"Resources and Special Items"</Description>
       <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
-      <LastState Value="" RealAddress="FFFFFFFF914F1700"/>
+      <LastState Value="" RealAddress="FFFFFFFF61700000"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>10</ID>
           <Description>"Traveler's Grisly Trophy"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA111AB8"/>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B91AB8"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA111AB8</Address>
+          <Address>7FF2F1B91AB8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>11</ID>
           <Description>"Traveler's Armor Shard"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA111AF8"/>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B91AF8"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA111AF8</Address>
+          <Address>7FF2F1B91AF8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>12</ID>
           <Description>"Ancient's Rubble"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA111B38"/>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B91B38"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA111B38</Address>
+          <Address>7FF2F1B91B38</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>13</ID>
           <Description>"Ancient's Heart"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA111B78"/>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B91B78"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA111B78</Address>
+          <Address>7FF2F1B91B78</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>14</ID>
           <Description>"Aegir's Gold"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA111BB8"/>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B91BB8"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA111BB8</Address>
+          <Address>7FF2F1B91BB8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>15</ID>
           <Description>"Mark of the Dwarves"</Description>
-          <LastState Value="4" RealAddress="7FF2FA112B78"/>
+          <LastState Value="4" RealAddress="7FF2F1B92B78"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA112B78</Address>
+          <Address>7FF2F1B92B78</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>2</ID>
           <Description>"Soft Svartalfheim Steel"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA112DB8"/>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B92DB8"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA112DB8</Address>
+          <Address>7FF2F1B92DB8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>7</ID>
           <Description>"Solid Svartalfheim Steel"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA112DF8"/>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B92DF8"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA112DF8</Address>
+          <Address>7FF2F1B92DF8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>8</ID>
           <Description>"Hardened Svartalfheim Steel"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA112E38"/>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B92E38"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA112E38</Address>
+          <Address>7FF2F1B92E38</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>9</ID>
           <Description>"Frozen Flame"</Description>
-          <LastState Value="5" RealAddress="7FF2FA112E78"/>
+          <LastState Value="5" RealAddress="7FF2F1B92E78"/>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA112E78</Address>
+          <Address>7FF2F1B92E78</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description>"Chaos Flame"</Description>
+          <LastState Value="4" RealAddress="7FF2F1B92FB8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF2F1B92FB8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>5</ID>
           <Description>"Dust of Realms"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA113178"/>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B93178"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA113178</Address>
+          <Address>7FF2F1B93178</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>6</ID>
           <Description>"World Serpent Scale Fragment"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA1131B8"/>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B931B8"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA1131B8</Address>
+          <Address>7FF2F1B931B8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>4</ID>
           <Description>"World Serpent Scale"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA1131F8"/>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B931F8"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA1131F8</Address>
+          <Address>7FF2F1B931F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"Asgardian Steel"</Description>
+          <LastState Value="999" Activated="1" RealAddress="7FF2F1B933B8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF2F1B933B8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>19</ID>
           <Description>"Seior Mask"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA113E38"/>
+          <LastState Value="12" RealAddress="7FF2F1B93E38"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA113E38</Address>
+          <Address>7FF2F1B93E38</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>22</ID>
           <Description>"Ornate Cups"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA113EB8"/>
+          <LastState Value="6" RealAddress="7FF2F1B93EB8"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA113EB8</Address>
+          <Address>7FF2F1B93EB8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description>"Brooches"</Description>
+          <LastState Value="2" RealAddress="7FF2F1B93EF8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF2F1B93EF8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>18</ID>
           <Description>"Lost Toys"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA113F38"/>
+          <LastState Value="6" RealAddress="7FF2F1B93F38"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA113F38</Address>
+          <Address>7FF2F1B93F38</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>20</ID>
           <Description>"Ship Heads"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA113F78"/>
+          <LastState Value="9" RealAddress="7FF2F1B93F78"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA113F78</Address>
+          <Address>7FF2F1B93F78</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>21</ID>
           <Description>"Spoils of War"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA113FB8"/>
+          <LastState Value="6" RealAddress="7FF2F1B93FB8"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA113FB8</Address>
+          <Address>7FF2F1B93FB8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>23</ID>
           <Description>"Offering to Tyr"</Description>
-          <LastState Value="999" Activated="1" RealAddress="7FF2FA116038"/>
+          <LastState Value="3" RealAddress="7FF2F1B96038"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA116038</Address>
+          <Address>7FF2F1B96038</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>16</ID>
           <Description>"Iounn Apple"</Description>
-          <LastState Value="9" RealAddress="7FF2FA116AF8"/>
+          <LastState Value="9" RealAddress="7FF2F1B96AF8"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA116AF8</Address>
+          <Address>7FF2F1B96AF8</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>17</ID>
           <Description>"Horn of Blood Mead"</Description>
-          <LastState Value="5" RealAddress="7FF2FA116B38"/>
+          <LastState Value="6" RealAddress="7FF2F1B96B38"/>
           <VariableType>4 Bytes</VariableType>
-          <Address>7FF2FA116B38</Address>
+          <Address>7FF2F1B96B38</Address>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
