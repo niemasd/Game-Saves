@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Guild"</Description>
+      <LastState Value="9999999" RealAddress="1D1BD914038"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>1D1BD914038</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"Creature Compendium"</Description>
+      <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>111</ID>
+          <Description>"001 - Little Bighorn"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>112</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C184"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C184</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>113</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C187"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C187</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>108</ID>
+          <Description>"002 - Bighorn"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>109</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C188"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C188</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>110</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C18B"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C18B</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>105</ID>
+          <Description>"003 - Batterhorn"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>106</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C18C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C18C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>107</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C18F"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C18F</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>102</ID>
+          <Description>"004 - Splatterhorn"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>103</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C190"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C190</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>104</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C193"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C193</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>99</ID>
+          <Description>"005 - Purrloiner"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>100</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C194"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C194</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>101</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C197"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C197</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>96</ID>
+          <Description>"006 - Cutpurrse"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>97</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C198"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C198</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C19B"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C19B</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>93</ID>
+          <Description>"007 - Puss in Bouts"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>94</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C19C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C19C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>95</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C19F"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C19F</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>90</ID>
+          <Description>"008 - Puss in Boats"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>91</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1A0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>92</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1A3"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1A3</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>87</ID>
+          <Description>"009 - Hog-Goblin"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>88</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1A4"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>89</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1A7"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1A7</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>84</ID>
+          <Description>"010 - Gobfather"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>85</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>86</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1AB"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1AB</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>81</ID>
+          <Description>"011 - Gobspeed"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>82</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1AC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>83</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1AF"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1AF</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>78</ID>
+          <Description>"012 - Gobforsaken"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>79</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1B0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>80</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1B3"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1B3</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>75</ID>
+          <Description>"013 - Mite"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>76</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1B4"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>77</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1B7"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1B7</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>72</ID>
+          <Description>"014 - Mighty Mite"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>73</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1B8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1B8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>74</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1BB"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1BB</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>69</ID>
+          <Description>"015 - Dynamite"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>70</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1BC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1BC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>71</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1BF"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1BF</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>66</ID>
+          <Description>"016 - Mermite"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>67</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1C0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>68</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1C3"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1C3</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>63</ID>
+          <Description>"017 - Hurly"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>64</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1C4"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1C4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>65</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1C7"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1C7</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>60</ID>
+          <Description>"018 - Burly Hurly"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>61</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>62</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1CB"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1CB</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>57</ID>
+          <Description>"019 - Hurlcules"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>58</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1CC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1CC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>59</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1CF"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1CF</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"020 - Hurlabaloo"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>55</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1D0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>56</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1D3"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1D3</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>16</ID>
+          <Description>"021 - Ruff"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>15</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1D4"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>17</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1D7"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1D7</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"022 - Ruffian"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>19</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1D8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>20</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1DB"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1DB</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"023 - Gruffian"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>22</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1DC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1DC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>23</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1DF"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1DF</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description>"024 - Scruffian"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>25</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1E0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>26</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1E3"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1E3</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"025 - Rhinosaur"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>28</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1E4"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1E4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>29</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1E7"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1E7</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"026 - Rhinosnore"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>31</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>32</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1EB"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1EB</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"027 - Rhinobore"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>34</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1EC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1EC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>35</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1EF"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1EF</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"028 - Rhinosaw"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>37</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1F0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>38</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1F3"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1F3</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description>"029 - Jabber"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>40</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1F4"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1F4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>41</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1F7"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1F7</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>42</ID>
+          <Description>"030 - Stabber"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>43</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1F8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>44</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1FB"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1FB</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>45</ID>
+          <Description>"031 - Stabberwocky"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>46</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C1FC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C1FC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>47</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C1FF"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C1FF</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>48</ID>
+          <Description>"032 - Jabberguppy"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>49</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C200"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C200</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>50</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C203"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C203</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>51</ID>
+          <Description>"033 - Baatender"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>52</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C204"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C204</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>53</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C207"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C207</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>114</ID>
+          <Description>"034 - Baabarian"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>115</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C208"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C208</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>116</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C20B"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C20B</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>117</ID>
+          <Description>"035 - Baabie"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>118</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C20C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C20C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>119</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C20F"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C20F</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>120</ID>
+          <Description>"036 - Baarndancer"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>121</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C210"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C210</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>122</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C213"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C213</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>123</ID>
+          <Description>"037 - Sore Boar"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>124</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C214"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C214</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>125</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C217"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C217</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>126</ID>
+          <Description>"038 - Crashing Boar"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>127</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C218"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C218</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>128</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C21B"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C21B</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>129</ID>
+          <Description>"039 - Hyperboar"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>130</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C21C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C21C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>131</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C21F"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C21F</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>132</ID>
+          <Description>"040 - Full Boar"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="FFFFFF96A493B000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>133</ID>
+              <Description>"Killed"</Description>
+              <LastState Value="99" RealAddress="1D1BD90C220"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1D1BD90C220</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>134</ID>
+              <Description>"Seen"</Description>
+              <LastState Value="1" RealAddress="1D1BD90C223"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Byte</VariableType>
+              <Address>1D1BD90C223</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
