@@ -2,197 +2,234 @@
 <CheatTable CheatEngineTableVersion="38">
   <CheatEntries>
     <CheatEntry>
-      <ID>5</ID>
-      <Description>"Gil"</Description>
-      <VariableType>4 Bytes</VariableType>
-      <Address>27646FC56C4</Address>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>4</ID>
-      <Description>"Item Quantities"</Description>
-      <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
-      <LastState Value="" Activated="1" RealAddress="C8FBE90000"/>
+      <ID>35</ID>
+      <Description>"Main Game"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
-          <ID>1</ID>
-          <Description>"Potion"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5664</Address>
+          <ID>5</ID>
+          <Description>"Gil"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>22BAC2F567C</Address>
         </CheatEntry>
         <CheatEntry>
-          <ID>2</ID>
-          <Description>"Ether"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC567C</Address>
+          <ID>4</ID>
+          <Description>"Item Quantities"</Description>
+          <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>14</ID>
+              <Description>"Items"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>1</ID>
+                  <Description>"Potion"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F561C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>10</ID>
+                  <Description>"Hi-Potion"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5754</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>28</ID>
+                  <Description>"Mega-Potion"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5A9C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>2</ID>
+                  <Description>"Ether"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5634</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>25</ID>
+                  <Description>"Turbo Ether"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F59AC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>19</ID>
+                  <Description>"Elixir"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F58A4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>11</ID>
+                  <Description>"Phoenix Down"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F573C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>12</ID>
+                  <Description>"Antidote"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F582C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>20</ID>
+                  <Description>"Maiden's Kiss"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5874</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>21</ID>
+                  <Description>"Smelling Salts"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5964</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>27</ID>
+                  <Description>"Echo Mist"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5A0C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>16</ID>
+                  <Description>"Adrenaline"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5784</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>17</ID>
+                  <Description>"Sedative"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F57B4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>23</ID>
+                  <Description>"Remedy"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5994</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>31</ID>
+                  <Description>"Celeris"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5B14</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>9</ID>
+                  <Description>"Grenade"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5724</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>24</ID>
+                  <Description>"Hazardous Material"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F597C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>22</ID>
+                  <Description>"Spiderweb"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5934</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>18</ID>
+                  <Description>"Orb of Gravity"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F58BC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30</ID>
+                  <Description>"Big Bomber"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5A54</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>34</ID>
+                  <Description>"Molotov Cocktail"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5EBC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>32</ID>
+                  <Description>"Fuzzy Wuzzy"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5D54</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>33</ID>
+                  <Description>"Mr. Cuddlesworth"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5D6C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>29</ID>
+                  <Description>"AI Programming Core"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5A6C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>15</ID>
+              <Description>"Key Items"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>13</ID>
+                  <Description>"Moogle Medal"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F57CC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>26</ID>
+                  <Description>"Sector 5 Reactor Keycard"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>22BAC2F5A3C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
         </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>37</ID>
+      <Description>"Yuffie"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
         <CheatEntry>
-          <ID>7</ID>
-          <Description>"Phoenix Down"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC56DC</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>14</ID>
-          <Description>"Moogle Medal"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC56F4</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>0</ID>
-          <Description>"Hi-Potion"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC570C</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>8</ID>
-          <Description>"Grenade"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5724</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>9</ID>
-          <Description>"Adrenaline"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC576C</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>16</ID>
-          <Description>"Sedative"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5784</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>6</ID>
-          <Description>"Antidote"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC57CC</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>13</ID>
-          <Description>"Orb of Gravity"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5814</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>15</ID>
-          <Description>"Elixir"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC582C</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>18</ID>
-          <Description>"Maiden's Kiss"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5844</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>17</ID>
-          <Description>"Spiderweb"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC58D4</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>19</ID>
-          <Description>"Smelling Salts"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5904</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>21</ID>
-          <Description>"Echo Mist"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5964</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>22</ID>
-          <Description>"Sector 5 Reactor Keycard"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5994</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>24</ID>
-          <Description>"Mega Potion"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC59C4</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>26</ID>
-          <Description>"Big Bomber"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5A0C</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>27</ID>
-          <Description>"AI Progammng Core"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5A24</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>28</ID>
-          <Description>"Song ?: Cait Sith's Theme"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5A54</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>33</ID>
-          <Description>"Remedy"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5A84</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>31</ID>
-          <Description>"Hazardous Material"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5A9C</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>32</ID>
-          <Description>"Celeris"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5ACC</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>30</ID>
-          <Description>"Song 19: Costa del Sol"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5AE4</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>37</ID>
-          <Description>"Song 20: Gold Saucer"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5B2C</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>38</ID>
-          <Description>"The Art of Swordsplay Vol. 1"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5B8C</Address>
+          <ID>36</ID>
+          <Description>"Gil"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>16ED0AE567C</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>39</ID>
-          <Description>"Sharpshooter's Companion Vol. 1"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5BA4</Address>
+          <Description>"Condor Coins"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>2 Bytes</VariableType>
+          <Address>16ED0AE5814</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>38</ID>
+          <Description>"Condor ATP Normal 1114636288"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>16EDA7519DC</Address>
         </CheatEntry>
         <CheatEntry>
           <ID>40</ID>
-          <Description>"Way of the Fist Vol. 1"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5BBC</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>41</ID>
-          <Description>"Telluric Scriptures Vol. 1"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5BD4</Address>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>42</ID>
-          <Description>"Turbo Ether"</Description>
-          <VariableType>Byte</VariableType>
-          <Address>27646FC5BEC</Address>
+          <Description>"Condor ATP Hard 1114636288"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>16ED8B5D91C</Address>
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
