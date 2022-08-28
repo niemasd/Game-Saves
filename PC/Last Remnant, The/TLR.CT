@@ -1,0 +1,5715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>105</ID>
+      <Description>"Item Editor/spawner (script hook Herb Formula key item)"</Description>
+      <Options moHideChildren="1"/>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+label(ItemEditorA)
+registersymbol(ItemEditorA)
+aobscan(AOB,D2 00 88 00 01 03 00 00 00 00 00 00)
+
+AOB:
+ItemEditorA:
+
+
+[DISABLE]
+unregistersymbol(ItemEditorA)
+</AssemblerScript>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>160</ID>
+          <Description>"Consumables"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>153</ID>
+              <Description>"Herbs"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>00FF00</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>161</ID>
+                  <Description>"Cureleaf"</Description>
+                  <LastState Value="100" RealAddress="23215004"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4628</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>162</ID>
+                  <Description>"Cureroot"</Description>
+                  <LastState Value="100" RealAddress="23215010"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-461c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>163</ID>
+                  <Description>"Curebulb"</Description>
+                  <LastState Value="100" RealAddress="2321501C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4610</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>164</ID>
+                  <Description>"Restoleaf"</Description>
+                  <LastState Value="99" RealAddress="23215028"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4604</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>165</ID>
+                  <Description>"Restobulb"</Description>
+                  <LastState Value="100" RealAddress="23215034"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-45f8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>166</ID>
+                  <Description>"Frostleaf"</Description>
+                  <LastState Value="100" RealAddress="23215040"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-45ec</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>167</ID>
+                  <Description>"Relaxing Herb"</Description>
+                  <LastState Value="97" RealAddress="2321504C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-45e0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>168</ID>
+                  <Description>"Refreshing Herb"</Description>
+                  <LastState Value="100" RealAddress="23215058"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-45d4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>169</ID>
+                  <Description>"Faerie Herb"</Description>
+                  <LastState Value="100" RealAddress="23215064"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-45c8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>170</ID>
+                  <Description>"Steel Herb"</Description>
+                  <LastState Value="100" RealAddress="23215070"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-45bc</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>154</ID>
+              <Description>"Potions"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>00FF00</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>31</ID>
+                  <Description>"Fresh Oil"</Description>
+                  <LastState Value="97" RealAddress="2321507C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-45b0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>171</ID>
+                  <Description>"Ether Oil"</Description>
+                  <LastState Value="100" RealAddress="23215088"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-45a4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>33</ID>
+                  <Description>"Flame Oil"</Description>
+                  <LastState Value="100" RealAddress="23215094"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4598</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>172</ID>
+                  <Description>"Aerial Insecta Ale"</Description>
+                  <LastState Value="98" RealAddress="232150A0"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-458c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>173</ID>
+                  <Description>"BeastMan Ale"</Description>
+                  <LastState Value="100" RealAddress="232150B8"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4574</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>174</ID>
+                  <Description>"Land Dragon Ale"</Description>
+                  <LastState Value="100" RealAddress="232150C4"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4568</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>175</ID>
+                  <Description>"Sky Dragon Ale"</Description>
+                  <LastState Value="100" RealAddress="232150D0"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-455c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>176</ID>
+                  <Description>"War Dragon Ale"</Description>
+                  <LastState Value="100" RealAddress="232150DC"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4550</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>155</ID>
+              <Description>"Lotions"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>00FF00</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>39</ID>
+                  <Description>"Mineral Water"</Description>
+                  <LastState Value="100" RealAddress="232150E8"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4544</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>177</ID>
+                  <Description>"Water of Eos"</Description>
+                  <LastState Value="100" RealAddress="232150F4"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4538</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>178</ID>
+                  <Description>"Renewing Tonic"</Description>
+                  <LastState Value="100" RealAddress="23215100"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-452c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>179</ID>
+                  <Description>"Abyssal Tonic"</Description>
+                  <LastState Value="100" RealAddress="2321510C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4520</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>180</ID>
+                  <Description>"Vitaeroot"</Description>
+                  <LastState Value="100" RealAddress="23215118"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4514</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>181</ID>
+                  <Description>"Mite Mushroom"</Description>
+                  <LastState Value="100" RealAddress="23215124"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4508</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>182</ID>
+                  <Description>"Bell Seedling"</Description>
+                  <LastState Value="100" RealAddress="23215130"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-44fc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>183</ID>
+                  <Description>"Young Bud"</Description>
+                  <LastState Value="100" RealAddress="2321513C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-44f0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>184</ID>
+                  <Description>"Vigorbean"</Description>
+                  <LastState Value="100" RealAddress="23215148"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-44e4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>185</ID>
+                  <Description>"Shockberry"</Description>
+                  <LastState Value="100" RealAddress="23215154"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-44d8</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>156</ID>
+              <Description>"Explosives"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>00FF00</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>186</ID>
+                  <Description>"Methone Explosive"</Description>
+                  <LastState Value="100" RealAddress="23215160"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-44cc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>187</ID>
+                  <Description>"Slarnaq Explosive"</Description>
+                  <LastState Value="100" RealAddress="2321516C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-44c0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>188</ID>
+                  <Description>"Tethys Explosive"</Description>
+                  <LastState Value="100" RealAddress="23215178"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-44b4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>189</ID>
+                  <Description>"Leros Explosive"</Description>
+                  <LastState Value="100" RealAddress="23215184"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-44a8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>190</ID>
+                  <Description>"Titan Explosive"</Description>
+                  <LastState Value="100" RealAddress="23215190"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-449c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>191</ID>
+                  <Description>"Glowroot"</Description>
+                  <LastState Value="100" RealAddress="2321519C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4490</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>55</ID>
+                  <Description>"Venomweed"</Description>
+                  <LastState Value="100" RealAddress="232151A8"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4484</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>56</ID>
+                  <Description>"Smokeshrub"</Description>
+                  <LastState Value="100" RealAddress="232151B4"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4478</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>57</ID>
+                  <Description>"Dreamvine"</Description>
+                  <LastState Value="100" RealAddress="232151C0"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-446c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>192</ID>
+                  <Description>"Acidsprout"</Description>
+                  <LastState Value="100" RealAddress="232151CC"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4460</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>193</ID>
+                  <Description>"Oort's Cursed Charm"</Description>
+                  <LastState Value="100" RealAddress="232151D8"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4454</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>157</ID>
+              <Description>"Shards"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>00FF00</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>194</ID>
+                  <Description>"Shard of Ages"</Description>
+                  <LastState Value="100" RealAddress="232151E4"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4448</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>195</ID>
+                  <Description>"Shard of Antiquity"</Description>
+                  <LastState Value="100" RealAddress="232151F0"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-443c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>196</ID>
+                  <Description>"Shard of Arcanum"</Description>
+                  <LastState Value="100" RealAddress="232151FC"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4430</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>197</ID>
+                  <Description>"Shard of Chaos"</Description>
+                  <LastState Value="100" RealAddress="23215208"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4424</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>198</ID>
+                  <Description>"Sand of Lithos"</Description>
+                  <LastState Value="100" RealAddress="23215214"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4418</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>199</ID>
+                  <Description>"Dirt of Athenos"</Description>
+                  <LastState Value="100" RealAddress="23215220"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-440c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>200</ID>
+                  <Description>"Loam of Wadsley"</Description>
+                  <LastState Value="100" RealAddress="2321522C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4400</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>201</ID>
+                  <Description>"Mud of Ringwood"</Description>
+                  <LastState Value="100" RealAddress="23215238"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-43F4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>202</ID>
+                  <Description>"Bole of Pelops"</Description>
+                  <LastState Value="100" RealAddress="23215244"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-43E8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>203</ID>
+                  <Description>"Clay of Marton"</Description>
+                  <LastState Value="100" RealAddress="23215250"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-43DC</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>158</ID>
+              <Description>"Traps"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>00FF00</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>204</ID>
+                  <Description>"Ranger's Tools"</Description>
+                  <LastState Value="100" RealAddress="2321525C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-43D0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>205</ID>
+                  <Description>"Candle"</Description>
+                  <LastState Value="100" RealAddress="23215268"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-43C4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>206</ID>
+                  <Description>"ill-Fated Box"</Description>
+                  <LastState Value="100" RealAddress="23215274"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-43b8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>207</ID>
+                  <Description>"Necropest"</Description>
+                  <LastState Value="100" RealAddress="23215280"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-43AC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>208</ID>
+                  <Description>"Hellbloom"</Description>
+                  <LastState Value="100" RealAddress="2321528C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-43A0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>209</ID>
+                  <Description>"Paranoiabud"</Description>
+                  <LastState Value="100" RealAddress="23215298"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4394</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>210</ID>
+                  <Description>"Onyxian Gas"</Description>
+                  <LastState Value="100" RealAddress="232152A4"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4388</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>211</ID>
+                  <Description>"Spiritrose"</Description>
+                  <LastState Value="100" RealAddress="232152B0"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-437c</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>159</ID>
+              <Description>"Other"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>00FF00</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>212</ID>
+                  <Description>"Divine Elixir"</Description>
+                  <LastState Value="100" RealAddress="232152BC"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4370</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>213</ID>
+                  <Description>"Royotian Wine"</Description>
+                  <LastState Value="100" RealAddress="232152C8"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-4364</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>214</ID>
+          <Description>"Components"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>215</ID>
+              <Description>"Other"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <Color>00FF00</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>216</ID>
+                  <Description>"Blackrose Nectar"</Description>
+                  <LastState Value="100" RealAddress="2321654C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-30e0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>217</ID>
+                  <Description>"Parasitic Oil"</Description>
+                  <LastState Value="100" RealAddress="23216558"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-30d4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>218</ID>
+                  <Description>"Shadowood Seed"</Description>
+                  <LastState Value="100" RealAddress="23216564"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-30c8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>219</ID>
+                  <Description>"Cosmosand"</Description>
+                  <LastState Value="100" RealAddress="23216570"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-30bc</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>220</ID>
+                  <Description>"Nightblossom Seed"</Description>
+                  <LastState Value="100" RealAddress="2321657C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-30b0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>221</ID>
+                  <Description>"Empty Aerial Insecta Shell"</Description>
+                  <LastState Value="100" RealAddress="23216588"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-30a4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>222</ID>
+                  <Description>"Irised Stone"</Description>
+                  <LastState Value="100" RealAddress="23216594"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-3098</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>223</ID>
+                  <Description>"Royotian Ore"</Description>
+                  <LastState Value="100" RealAddress="232165A0"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-308c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>224</ID>
+                  <Description>"Parfumlily"</Description>
+                  <LastState Value="100" RealAddress="232165AC"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-3080</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>225</ID>
+                  <Description>"Weapon Recipe 1"</Description>
+                  <LastState Value="100" RealAddress="232165B8"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-3074</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>226</ID>
+                  <Description>"Weapon Recipe 2"</Description>
+                  <LastState Value="100" RealAddress="232165C4"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-3068</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>227</ID>
+                  <Description>"Weapon Recipe 3"</Description>
+                  <LastState Value="100" RealAddress="232165D0"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-305c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>228</ID>
+                  <Description>"Weapon Recipe 4"</Description>
+                  <LastState Value="100" RealAddress="232165DC"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-3050</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>229</ID>
+                  <Description>"Weapon Recipe 5"</Description>
+                  <LastState Value="100" RealAddress="232165E8"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-3044</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>230</ID>
+                  <Description>"Weapon Recipe 6"</Description>
+                  <LastState Value="100" RealAddress="232165F4"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-3038</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>231</ID>
+                  <Description>"Weapon Recipe 7"</Description>
+                  <LastState Value="100" RealAddress="23216600"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-302c</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>232</ID>
+                  <Description>"Weapon Recipe 8"</Description>
+                  <LastState Value="100" RealAddress="2321660C"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-3020</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>233</ID>
+                  <Description>"Weapon Recipe 9"</Description>
+                  <LastState Value="100" RealAddress="23216618"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-3014</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>234</ID>
+                  <Description>"Weapon Recipe 10"</Description>
+                  <LastState Value="100" RealAddress="23216624"/>
+                  <Color>FF0000</Color>
+                  <VariableType>Byte</VariableType>
+                  <Address>ItemEditorA-3008</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>235</ID>
+          <Description>"Captured Monsters"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>236</ID>
+              <Description>"Captured Jhana Fighter"</Description>
+              <LastState Value="100" RealAddress="232152D4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4358</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>237</ID>
+              <Description>"Captured Jhana Shaman"</Description>
+              <LastState Value="100" RealAddress="232152E0"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-434c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>238</ID>
+              <Description>"Captured Jhana Magus"</Description>
+              <LastState Value="100" RealAddress="232152EC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4340</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>239</ID>
+              <Description>"Captured Jhana Archfighter"</Description>
+              <LastState Value="100" RealAddress="232152F8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4334</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>240</ID>
+              <Description>"Captured Jhana Archshaman"</Description>
+              <LastState Value="100" RealAddress="23215304"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4328</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>241</ID>
+              <Description>"Captured Jhana Archmagus"</Description>
+              <LastState Value="100" RealAddress="23215310"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-431C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>242</ID>
+              <Description>"Captured Tsuchigumo"</Description>
+              <LastState Value="100" RealAddress="2321531C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4310</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>243</ID>
+              <Description>"Captured Yellowcap Vanguard"</Description>
+              <LastState Value="100" RealAddress="23215328"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4304</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>244</ID>
+              <Description>"Captured Bloodypaw"</Description>
+              <LastState Value="100" RealAddress="23215334"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-42f8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>245</ID>
+              <Description>"Captured Sarutahiko"</Description>
+              <LastState Value="100" RealAddress="23215340"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-42ec</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>246</ID>
+              <Description>"Captured Yellowcap Soldier"</Description>
+              <LastState Value="100" RealAddress="2321534C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-42e0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>247</ID>
+              <Description>"Captured Ravenhowl"</Description>
+              <LastState Value="100" RealAddress="23215358"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-42d4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>248</ID>
+              <Description>"Captured Malevolence"</Description>
+              <LastState Value="100" RealAddress="23215364"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-42c8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>249</ID>
+              <Description>"Captured Redcap Champion"</Description>
+              <LastState Value="100" RealAddress="23215370"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-42bc</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>250</ID>
+              <Description>"Captured Hypnos"</Description>
+              <LastState Value="100" RealAddress="2321537C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-42b0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>251</ID>
+              <Description>"Captured Raginos"</Description>
+              <LastState Value="100" RealAddress="23215388"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-42A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>252</ID>
+              <Description>"Captured Glagonos"</Description>
+              <LastState Value="100" RealAddress="23215394"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4298</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>253</ID>
+              <Description>"Captured Pygmalion"</Description>
+              <LastState Value="100" RealAddress="232153A0"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-428c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>254</ID>
+              <Description>"Captured Jade Golem"</Description>
+              <LastState Value="100" RealAddress="232153AC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4280</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>255</ID>
+              <Description>"Captured Suicide"</Description>
+              <LastState Value="100" RealAddress="232153B8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4274</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>256</ID>
+              <Description>"Captured Nucadora"</Description>
+              <LastState Value="100" RealAddress="232153C4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4268</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>257</ID>
+              <Description>"Captured Thanatos"</Description>
+              <LastState Value="100" RealAddress="232153D0"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-425c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>258</ID>
+              <Description>"Captured Prometheus"</Description>
+              <LastState Value="100" RealAddress="232153DC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4250</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>259</ID>
+              <Description>"Captured Daedalus"</Description>
+              <LastState Value="100" RealAddress="232153E8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4244</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>260</ID>
+              <Description>"Captured Madman"</Description>
+              <LastState Value="100" RealAddress="232153F4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4238</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>261</ID>
+              <Description>"Captured Raptor"</Description>
+              <LastState Value="100" RealAddress="23215400"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-422C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>106</ID>
+              <Description>"Captured Wild Raptor"</Description>
+              <LastState Value="100" RealAddress="2321540C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4220</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>107</ID>
+              <Description>"Captured Bullfighter"</Description>
+              <LastState Value="100" RealAddress="23215418"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4214</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>108</ID>
+              <Description>"Captured King Raptor"</Description>
+              <LastState Value="100" RealAddress="23215424"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4208</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>109</ID>
+              <Description>"Captured Wild Raptor"</Description>
+              <LastState Value="100" RealAddress="23215430"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-41fc</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>110</ID>
+              <Description>"Captured Wild Bullfighter"</Description>
+              <LastState Value="100" RealAddress="2321543C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-41f0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>111</ID>
+              <Description>"Captured Bloodthirsty Beast"</Description>
+              <LastState Value="100" RealAddress="23215448"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-41e4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>112</ID>
+              <Description>"Captured Carnotaurus"</Description>
+              <LastState Value="100" RealAddress="23215454"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-41d8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>113</ID>
+              <Description>"Captured Jota"</Description>
+              <LastState Value="100" RealAddress="23215460"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-41cc</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>114</ID>
+              <Description>"Captured Miura"</Description>
+              <LastState Value="100" RealAddress="2321546C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-41c0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>115</ID>
+              <Description>"Captured Islero"</Description>
+              <LastState Value="100" RealAddress="23215478"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-41b4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>116</ID>
+              <Description>"Captured Urraco"</Description>
+              <LastState Value="100" RealAddress="23215484"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-41a8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>117</ID>
+              <Description>"Captured Jarama"</Description>
+              <LastState Value="100" RealAddress="23215490"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-419c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>118</ID>
+              <Description>"Captured Espada"</Description>
+              <LastState Value="100" RealAddress="2321549C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4190</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>119</ID>
+              <Description>"Captured Divain"</Description>
+              <LastState Value="100" RealAddress="232154A8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4184</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>120</ID>
+              <Description>"Captured Flauros"</Description>
+              <LastState Value="100" RealAddress="232154B4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4178</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>121</ID>
+              <Description>"Captured Vanargand"</Description>
+              <LastState Value="100" RealAddress="232154C0"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-416c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>122</ID>
+              <Description>"Captured Divain"</Description>
+              <LastState Value="100" RealAddress="232154CC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4160</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>123</ID>
+              <Description>"Captured Greater Flauros"</Description>
+              <LastState Value="100" RealAddress="232154D8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4154</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>124</ID>
+              <Description>"Captured Vanargand"</Description>
+              <LastState Value="100" RealAddress="232154E4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4148</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>125</ID>
+              <Description>"Captured Fatal Fang"</Description>
+              <LastState Value="100" RealAddress="232154F0"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-413c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>126</ID>
+              <Description>"Captured Skoll"</Description>
+              <LastState Value="100" RealAddress="232154FC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4130</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>127</ID>
+              <Description>"Captured Swiftmane"</Description>
+              <LastState Value="100" RealAddress="23215508"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4124</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>128</ID>
+              <Description>"Captured Sharpclaw"</Description>
+              <LastState Value="100" RealAddress="23215514"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4118</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>129</ID>
+              <Description>"Captured Ophois"</Description>
+              <LastState Value="100" RealAddress="23215520"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-410C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>130</ID>
+              <Description>"Captured Bloodhorn"</Description>
+              <LastState Value="100" RealAddress="2321552C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4100</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>131</ID>
+              <Description>"Captured Spiritbeast Ki"</Description>
+              <LastState Value="100" RealAddress="23215538"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-40f4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>132</ID>
+              <Description>"Captured Spiritbeast Rin"</Description>
+              <LastState Value="100" RealAddress="23215544"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-40e8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>133</ID>
+              <Description>"Captured Chimera"</Description>
+              <LastState Value="100" RealAddress="23215550"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-40dc</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>134</ID>
+              <Description>"Captured Misericorde"</Description>
+              <LastState Value="100" RealAddress="2321555C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-40d0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>135</ID>
+              <Description>"Captured Rockgrater"</Description>
+              <LastState Value="100" RealAddress="23215568"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-40c4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>136</ID>
+              <Description>"Captured King Chimera"</Description>
+              <LastState Value="100" RealAddress="23215574"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-40b8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>137</ID>
+              <Description>"Captured Misericorde"</Description>
+              <LastState Value="100" RealAddress="23215580"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-40ac</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>138</ID>
+              <Description>"Captured Grand Rockgrater"</Description>
+              <LastState Value="100" RealAddress="2321558C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-40a0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>139</ID>
+              <Description>"Captured Ground Cobra"</Description>
+              <LastState Value="100" RealAddress="23215598"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4094</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>140</ID>
+              <Description>"Captured Notsuchi"</Description>
+              <LastState Value="100" RealAddress="232155A4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4088</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>141</ID>
+              <Description>"Captured Deathpuppet"</Description>
+              <LastState Value="100" RealAddress="232155B0"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-407c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>142</ID>
+              <Description>"Captured Hellbiter"</Description>
+              <LastState Value="100" RealAddress="232155BC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4070</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>143</ID>
+              <Description>"Captured Obstructor"</Description>
+              <LastState Value="100" RealAddress="232155C8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4064</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>144</ID>
+              <Description>"Captured Antares"</Description>
+              <LastState Value="100" RealAddress="232155D4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4058</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>145</ID>
+              <Description>"Captured Echidna"</Description>
+              <LastState Value="100" RealAddress="232155E0"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-404c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>146</ID>
+              <Description>"Captured Rapunzel"</Description>
+              <LastState Value="100" RealAddress="232155EC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4040</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>147</ID>
+              <Description>"Captured Hydra"</Description>
+              <LastState Value="100" RealAddress="232155F8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4034</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>148</ID>
+              <Description>"Captured Torpedo"</Description>
+              <LastState Value="100" RealAddress="23215604"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4028</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>149</ID>
+              <Description>"Captured Bune"</Description>
+              <LastState Value="100" RealAddress="23215610"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-401c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>150</ID>
+              <Description>"Captured Hydra"</Description>
+              <LastState Value="100" RealAddress="2321561C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4010</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>151</ID>
+              <Description>"Captured Torpedo"</Description>
+              <LastState Value="100" RealAddress="23215628"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-4004</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>262</ID>
+          <Description>"Special Items"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>152</ID>
+              <Description>"Argent Orb"</Description>
+              <LastState Value="100" RealAddress="23219624"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>263</ID>
+              <Description>"Alabaster Orb"</Description>
+              <LastState Value="100" RealAddress="23219618"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-14</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>264</ID>
+              <Description>"Amethyst Orb"</Description>
+              <LastState Value="100" RealAddress="2321960C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-20</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>265</ID>
+              <Description>"Jade Orb"</Description>
+              <LastState Value="100" RealAddress="23219600"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-2c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>266</ID>
+              <Description>"Amber Orb"</Description>
+              <LastState Value="100" RealAddress="232195F4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-38</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>267</ID>
+              <Description>"Azure Orb"</Description>
+              <LastState Value="100" RealAddress="232195E8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-44</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>268</ID>
+              <Description>"Alizarin Orb"</Description>
+              <LastState Value="100" RealAddress="232195DC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA-50</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>269</ID>
+              <Description>"Potion Formula"</Description>
+              <LastState Value="100" RealAddress="2321963C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>270</ID>
+              <Description>"Lotion Formula"</Description>
+              <LastState Value="100" RealAddress="23219648"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+1c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>271</ID>
+              <Description>"Eplosive Formula"</Description>
+              <LastState Value="100" RealAddress="23219654"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>272</ID>
+              <Description>"Shard Formula"</Description>
+              <LastState Value="100" RealAddress="23219660"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+34</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>273</ID>
+              <Description>"Trap Formula"</Description>
+              <LastState Value="100" RealAddress="2321966C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>274</ID>
+              <Description>"Talisman"</Description>
+              <LastState Value="100" RealAddress="23219678"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+4c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>275</ID>
+              <Description>"Talisman"</Description>
+              <LastState Value="100" RealAddress="23219684"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+58</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>276</ID>
+              <Description>"Kellendros"</Description>
+              <LastState Value="100" RealAddress="23219690"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+64</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>277</ID>
+              <Description>"Namul Niram"</Description>
+              <LastState Value="100" RealAddress="2321969C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+70</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>278</ID>
+              <Description>"Lob Omen"</Description>
+              <LastState Value="100" RealAddress="232196A8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+7c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>279</ID>
+              <Description>"Brionac"</Description>
+              <LastState Value="100" RealAddress="232196B4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>280</ID>
+              <Description>"Tao Tie"</Description>
+              <LastState Value="100" RealAddress="232196C0"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+94</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>281</ID>
+              <Description>"Brimusiabus"</Description>
+              <LastState Value="100" RealAddress="232196CC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>282</ID>
+              <Description>"Blue Elf"</Description>
+              <LastState Value="100" RealAddress="232196D8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+Ac</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>283</ID>
+              <Description>"Emeth Tag"</Description>
+              <LastState Value="100" RealAddress="232196E4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+b8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>284</ID>
+              <Description>"Jhana Weekly"</Description>
+              <LastState Value="100" RealAddress="232196F0"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+c4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>285</ID>
+              <Description>"Homunculus Weekly"</Description>
+              <LastState Value="100" RealAddress="232196FC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+d0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>286</ID>
+              <Description>"Raptor Weekly"</Description>
+              <LastState Value="100" RealAddress="23219708"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+dc</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>287</ID>
+              <Description>"Fenris Weekly"</Description>
+              <LastState Value="100" RealAddress="23219714"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+e8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>288</ID>
+              <Description>"Chimera Weekly"</Description>
+              <LastState Value="100" RealAddress="23219720"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+f4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>289</ID>
+              <Description>"Hydra Weekly"</Description>
+              <LastState Value="100" RealAddress="2321972C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+100</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>290</ID>
+              <Description>"Imp Weekly"</Description>
+              <LastState Value="100" RealAddress="23219738"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+10c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>291</ID>
+              <Description>"Vile Lizard Weekly"</Description>
+              <LastState Value="100" RealAddress="23219744"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+118</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>292</ID>
+              <Description>"Azhdaha Weekly"</Description>
+              <LastState Value="100" RealAddress="23219750"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+124</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>293</ID>
+              <Description>"Demon Weekly"</Description>
+              <LastState Value="100" RealAddress="2321975C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+130</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>294</ID>
+              <Description>"Manticore Weekly"</Description>
+              <LastState Value="100" RealAddress="23219768"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+13c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>295</ID>
+              <Description>"Crab Weekly"</Description>
+              <LastState Value="100" RealAddress="23219774"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+148</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>296</ID>
+              <Description>"Grand Spider Weekly"</Description>
+              <LastState Value="100" RealAddress="23219780"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+154</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>297</ID>
+              <Description>"Landworm Weekly"</Description>
+              <LastState Value="100" RealAddress="2321978C"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+160</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>298</ID>
+              <Description>"Grand Beetle Weekly"</Description>
+              <LastState Value="100" RealAddress="23219798"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+16c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>299</ID>
+              <Description>"Leap Frog Weekly"</Description>
+              <LastState Value="100" RealAddress="232197A4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+178</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>300</ID>
+              <Description>"Oarfish Weekly"</Description>
+              <LastState Value="100" RealAddress="232197B0"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+184</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>301</ID>
+              <Description>"Butterfly Weekly"</Description>
+              <LastState Value="100" RealAddress="232197BC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+190</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>302</ID>
+              <Description>"Amoeba Weekly"</Description>
+              <LastState Value="100" RealAddress="232197C8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+19c</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>303</ID>
+              <Description>"Fly Weekly"</Description>
+              <LastState Value="100" RealAddress="232197D4"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+1a8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>304</ID>
+              <Description>"Vulture Weekly"</Description>
+              <LastState Value="100" RealAddress="232197E0"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+1b4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>305</ID>
+              <Description>"Wyvern Weekly"</Description>
+              <LastState Value="100" RealAddress="232197EC"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+1c0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>306</ID>
+              <Description>"Spiritlord Weekly"</Description>
+              <LastState Value="100" RealAddress="232197F8"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+1cc</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>307</ID>
+              <Description>"Anthrovore Weekly"</Description>
+              <LastState Value="100" RealAddress="23219804"/>
+              <Color>FF0000</Color>
+              <VariableType>Byte</VariableType>
+              <Address>ItemEditorA+1d8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>308</ID>
+      <Description>"Weapon Mod First slot/Shield Mod first slot Equipment List"</Description>
+      <Options moHideChildren="1"/>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+label(EquipmentEditorA)
+registersymbol(EquipmentEditorA)
+aobscan(AOB,A0 01 88 00 00 00 FF FF 00 00 00 00 A1 01 88 00 00 00 FF FF)
+
+AOB:
+EquipmentEditorA:
+
+
+[DISABLE]
+unregistersymbol(EquipmentEditorA)
+</AssemblerScript>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>309</ID>
+          <Description>"Weapon 1 ID (gotta set values bellow too for stats)"</Description>
+          <DropDownList DisplayValueAsItem="1">FFFFFFFF:Nothing
+007F0062:Broadsword
+</DropDownList>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>EquipmentEditorA+2c</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>310</ID>
+          <Description>"Plus thing (max 9)"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Byte</VariableType>
+          <Address>EquipmentEditorA+34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>311</ID>
+          <Description>"Weapon ATK"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <VariableType>Byte</VariableType>
+          <Address>EquipmentEditorA+36</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>312</ID>
+              <Description>"Weapon ATK"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>EquipmentEditorA+38</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>313</ID>
+          <Description>"Weapon DEF (influences ATK if edit)"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <VariableType>Byte</VariableType>
+          <Address>EquipmentEditorA+42</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>314</ID>
+              <Description>"Weapon DEF"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <VariableType>Byte</VariableType>
+              <Address>EquipmentEditorA+44</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>315</ID>
+                  <Description>"Weapon ATK"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>EquipmentEditorA+38</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>316</ID>
+          <Description>"Weapon MYS"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <VariableType>Byte</VariableType>
+          <Address>EquipmentEditorA+3c</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>317</ID>
+              <Description>"Weapon MYS"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>EquipmentEditorA+3e</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>318</ID>
+          <Description>"Weapon M.DEF(influences MYS if you edit)"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <VariableType>Byte</VariableType>
+          <Address>EquipmentEditorA+48</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>319</ID>
+              <Description>"Weapon M.DEF"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <VariableType>Byte</VariableType>
+              <Address>EquipmentEditorA+4a</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>320</ID>
+                  <Description>"Weapon MYS"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>EquipmentEditorA+3e</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>321</ID>
+          <Description>"Weapon Max MYS"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <VariableType>Byte</VariableType>
+          <Address>EquipmentEditorA+4e</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>322</ID>
+              <Description>"Weapon Unknown Value"</Description>
+              <Options moHideChildren="1" moRecursiveSetValue="1"/>
+              <VariableType>Byte</VariableType>
+              <Address>EquipmentEditorA+50</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>323</ID>
+                  <Description>"Weapon MYS"</Description>
+                  <VariableType>Byte</VariableType>
+                  <Address>EquipmentEditorA+3e</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>324</ID>
+          <Description>"Shield 1 ID (gotta set values bellow too for stats)"</Description>
+          <DropDownList DisplayValueAsItem="1">FFFFFFFF:Nothing
+007F03FC:Buckler
+</DropDownList>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>4 Bytes</VariableType>
+          <Address>EquipmentEditorA+2c+c4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>325</ID>
+          <Description>"Shield Evade"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <VariableType>Byte</VariableType>
+          <Address>EquipmentEditorA+2c+e6</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>326</ID>
+              <Description>"Shield Evade"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Byte</VariableType>
+              <Address>EquipmentEditorA+2c+e8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>327</ID>
+          <Description>"Shield M.Evade"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <VariableType>Byte</VariableType>
+          <Address>EquipmentEditorA+2c+ec</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>328</ID>
+              <Description>"Shield Evade"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Byte</VariableType>
+              <Address>EquipmentEditorA+2c+ee</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>329</ID>
+          <Description>"Shield Unknown value"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <VariableType>Byte</VariableType>
+          <Address>EquipmentEditorA+2c+f8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>330</ID>
+          <Description>"Shield Unknown value"</Description>
+          <Options moHideChildren="1" moRecursiveSetValue="1"/>
+          <VariableType>Byte</VariableType>
+          <Address>EquipmentEditorA+2c+fb</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>331</ID>
+      <Description>"Accessory Editor/spawner (script hook uses 2 last empty accessory slots never fill them 30 -31)"</Description>
+      <Options moHideChildren="1"/>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+label(AccEditorA)
+registersymbol(AccEditorA)
+aobscan(AOB,FF FF FF FF 30 00 00 00 FF FF FF FF 31 00 00 00)
+
+AOB:
+AccEditorA:
+
+
+[DISABLE]
+unregistersymbol(AccEditorA)
+</AssemblerScript>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>332</ID>
+          <Description>"Accesorry 1 Editor"</Description>
+          <DropDownList DisplayValueAsItem="1">51 05 7F 00 00 00:Ragna-rock
+4E 05 7F 00 00 00:Rubber Shawl
+4D 05 7F 00 00 00:Linen Knit
+49 05 7F 00 00 00:Stole of Grating
+46 05 7F 00 00 00:Ludope's Visor
+44 05 7F 00 00 00:Milton Kerchief
+42 05 7F 00 00 00:Dwarf's Gratitude
+40 05 7F 00 00 00:Elf's Escape
+3F 05 7F 00 00 00:Venom Brooch
+3E 05 7F 00 00 00:Lytic Brooch
+3D 05 7F 00 00 00:Frost Cameo
+3C 05 7F 00 00 00:Storm Cameo
+3B 05 7F 00 00 00:Flame Cameo
+37 05 7F 00 00 00:Wyrm Charm
+36 05 7F 00 00 00:Marked mirrorglass
+31 05 7F 00 00 00:Metallic Token
+2C 05 7F 00 00 00:Idol Amulet
+28 05 7F 00 00 00:Prismic Amulet
+22 05 7F 00 00 00:Agony Greaves
+20 05 7F 00 00 00:Drakescale Anklets
+17 05 7F 00 00 00:Idol Greaves
+13 05 7F 00 00 00:Siren's Silence
+11 05 7F 00 00 00:Blancherub Greaves
+FB 04 7F 00 00 00:Snievan's Belt
+F0 04 7F 00 00 00:Ring of the Patient Ear
+E2 04 7F 00 00 00:Hinnah's Earring
+D7 04 7F 00 00 00:Damascene Earring
+D4 04 7F 00 00 00:Premier Earring
+B9 04 7F 00 00 00:Damascene Bracelet
+B2 04 7F 00 00 00:Scholarly Band
+80 04 7F 00 00 00:Damascene Necklace
+B0 04 7F 00 00 00:Longeval Cord
+96 04 7F 00 00 00:Ring
+97 04 7F 00 00 00:Superior Ring
+0B 05 7F 00 00 00:Greaves
+0C 05 7F 00 00 00:Deluxe Greaves
+</DropDownList>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>6</ByteLength>
+          <Address>AccEditorA-180</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>333</ID>
+      <Description>"Rush  Art Editor/Mod (exit menus for changes)"</Description>
+      <Options moHideChildren="1"/>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+label(RushArtsEditorA)
+registersymbol(RushArtsEditorA)
+aobscan(AOB,01 01 01 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 01 01)
+
+AOB:
+RushArtsEditorA:
+
+
+[DISABLE]
+unregistersymbol(RushArtsEditorA)
+</AssemblerScript>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>334</ID>
+          <Description>"Art 1"</Description>
+          <DropDownList DisplayValueAsItem="1">FFFF:Nothing
+0859:Omnistrike
+</DropDownList>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorA-190</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>335</ID>
+              <Description>"Enable (set to 1) (do not change!)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorA+c8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>336</ID>
+          <Description>"Art 2"</Description>
+          <DropDownList DisplayValueAsItem="1">FFFF:Nothing
+0859:Omnistrike
+
+</DropDownList>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorA-18e</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Increase Value</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>49</Key>
+              </Keys>
+              <Value>1</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>337</ID>
+              <Description>"Enable (set to 1) (do not Change)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorA+c9</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>338</ID>
+          <Description>"Art 3"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorA-18c</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>339</ID>
+              <Description>"Enable (set to 1) (do not change)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorA+ca</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>340</ID>
+          <Description>"Art 4"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorA-18a</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>341</ID>
+              <Description>"Enable (set to 1)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorA+cb</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>342</ID>
+          <Description>"Art 5"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorA-188</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>343</ID>
+              <Description>"Enable (set to 1)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorA+cc</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>344</ID>
+          <Description>"Art 6"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorA-186</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>345</ID>
+              <Description>"Enable (set to 1)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorA+cd</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>346</ID>
+          <Description>"Art 7"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorA-184</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>347</ID>
+              <Description>"Enable (set to 1)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorA+ce</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>348</ID>
+      <Description>"Emma Art Editor/Mod (exit menus for changes)"</Description>
+      <Options moHideChildren="1"/>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+label(RushArtsEditorB)
+registersymbol(RushArtsEditorB)
+aobscan(AOB,01 01 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01 01 01)
+
+AOB:
+RushArtsEditorB:
+
+
+[DISABLE]
+unregistersymbol(RushArtsEditorB)
+</AssemblerScript>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>349</ID>
+          <Description>"Art 1"</Description>
+          <DropDownList DisplayValueAsItem="1">FFFF:Nothing
+0859:Omnistrike
+</DropDownList>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorB-190</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>350</ID>
+              <Description>"Enable (set to 1) (do not change!)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorB+c8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>351</ID>
+          <Description>"Art 2"</Description>
+          <DropDownList DisplayValueAsItem="1">FFFF:Nothing
+0859:Omnistrike
+
+</DropDownList>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorB-18e</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Increase Value</Action>
+              <Keys>
+                <Key>17</Key>
+                <Key>49</Key>
+              </Keys>
+              <Value>1</Value>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>352</ID>
+              <Description>"Enable (set to 1) (do not Change)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorB+c9</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>353</ID>
+          <Description>"Art 3"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorB-18c</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>354</ID>
+              <Description>"Enable (set to 1) (do not change)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorB+ca</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>355</ID>
+          <Description>"Art 4"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorB-18a</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>356</ID>
+              <Description>"Enable (set to 1)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorB+cb</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>357</ID>
+          <Description>"Art 5"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorB-188</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>358</ID>
+              <Description>"Enable (set to 1)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorB+cc</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>359</ID>
+          <Description>"Art 6"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorB-186</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>360</ID>
+              <Description>"Enable (set to 1)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorB+cd</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>361</ID>
+          <Description>"Art 7"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>2 Bytes</VariableType>
+          <Address>RushArtsEditorB-184</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>362</ID>
+              <Description>"Enable (set to 1)"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushArtsEditorB+ce</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>363</ID>
+      <Description>"Battle Union  Editor/Moding (exit menus for changes)"</Description>
+      <Options moHideChildren="1"/>
+      <LastState/>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>[ENABLE]
+label(RushUnionA)
+registersymbol(RushUnionA)
+aobscan(AOB,00 00 01 00 5A 17 ?? 00 24 00)
+
+AOB:
+RushUnionA:
+
+
+[DISABLE]
+unregistersymbol(RushUnionA)
+</AssemblerScript>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>364</ID>
+          <Description>"Union1"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>365</ID>
+              <Description>"Union 1 Enable Byte"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushUnionA+2</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>366</ID>
+              <Description>"Slot 1 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+10</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>367</ID>
+              <Description>"Slot 2 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+12</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>368</ID>
+              <Description>"Slot 3 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+14</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>369</ID>
+              <Description>"Slot 4 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+16</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>370</ID>
+              <Description>"Slot 5 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+18</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>371</ID>
+          <Description>"Union2"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>372</ID>
+              <Description>"Union 2 Enable Byte"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushUnionA+5a</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>373</ID>
+              <Description>"Slot 1 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+68</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>374</ID>
+              <Description>"Slot 2 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+6a</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>375</ID>
+              <Description>"Slot 3 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+6c</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>376</ID>
+              <Description>"Slot 4 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+6e</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>377</ID>
+              <Description>"Slot 5 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+70</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>378</ID>
+          <Description>"Union3"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>379</ID>
+              <Description>"Union 3 Enable Byte"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushUnionA+B2</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>380</ID>
+              <Description>"Slot 1 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c0</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>381</ID>
+              <Description>"Slot 2 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c2</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>382</ID>
+              <Description>"Slot 3 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c4</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>383</ID>
+              <Description>"Slot 4 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c6</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>384</ID>
+              <Description>"Slot 5 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c8</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>385</ID>
+          <Description>"Union4"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>386</ID>
+              <Description>"Union 4 Enable Byte"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushUnionA+B2+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>387</ID>
+              <Description>"Slot 1 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c0+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>388</ID>
+              <Description>"Slot 2 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c2+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>389</ID>
+              <Description>"Slot 3 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c4+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>390</ID>
+              <Description>"Slot 4 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c6+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>391</ID>
+              <Description>"Slot 5 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c8+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>392</ID>
+          <Description>"Union5"</Description>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>393</ID>
+              <Description>"Union 5 Enable Byte"</Description>
+              <VariableType>Byte</VariableType>
+              <Address>RushUnionA+B2+58+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>394</ID>
+              <Description>"Slot 1 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c0+58+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>395</ID>
+              <Description>"Slot 2 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c2+58+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>396</ID>
+              <Description>"Slot 3 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c4+58+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>397</ID>
+              <Description>"Slot 4 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c6+58+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>398</ID>
+              <Description>"Slot 5 Character"</Description>
+              <DropDownList DisplayValueAsItem="1">FFFF:Empty
+0000:Rush
+0001:David
+0002:Emma
+0003:Blocter
+0004:Pagus
+0005:Torgal
+0006:David
+0007:Baulson
+0008:McGrady
+0009:Keith
+000A:Thelma
+000B:Rebecca
+000C:Sandy
+000D:Oakes
+000E:Yama
+000F:Otto
+0010:Lambert
+0011:Caplan
+0012:Forthan
+0013:Roland
+0014:Straker
+0015:Indie
+0016:Vincent
+0017:Marlow
+0018:Beiroth
+0019:Hewath
+001A:Euthetia
+001B:Ratner
+001C:Herius
+001D:Ternis
+001E:Aperoth
+001F:Canna
+0020:Eupert
+0021:Raymone
+0022:Eraph
+0023:Loki
+0024:Marty
+0025:Partis
+0026:Permia
+0027:Shepard
+0028:Ripley
+0029:Cuqenos
+002A:Prorius
+002B:Lunberdy
+002C:Gene
+002D:Dreyfus
+002E:Zemekis
+002F:Carmein
+0030:Nicole
+0031:Idlan
+0032:Giland
+0033:Redford
+0034:Damecus
+0035:Nomius
+0036:Mithdia
+0037:Deidre
+0038:Penatess
+0039:Lythete
+003A:Atella
+003B:Annalise
+003C:Peath
+003D:Lucipher
+003E:Mylune
+003F:Jorgen
+0040:Jorgen
+0041:Jorgen
+0042:Jorgen
+0043:Jorgen
+0044:Jorgen
+0045:Jorgen
+0046:Violet
+0047:Gabriel
+0048:Jodo
+0049:Valentine
+004A:Lamda
+004B:Sandra
+004C:Veronica
+004D:Westa
+004E:Amos
+004F:Barrock
+0050:Collins
+0051:Dias
+0052:Cevellini
+0053:Amergen
+0054:Willy
+0055:Tenberg
+0056:Doma
+0057:Beck
+0058:Crawford
+0059:Haralla
+005A:Percan
+005B:Aepus
+005C:Dymus
+005D:Mars
+005E:Memphis
+005F:Agyptus
+0060:Arthnova
+0061:Kayeth
+0062:Piela
+0126:Irina
+0163:Snievan
+0164:Zuido
+0165:Ludope
+0166:Hannah
+0167:Milton
+0168:Hinnah
+0169:Young
+0191:Cyclops
+0192:Lop Omen
+0193:Namul Niram
+</DropDownList>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>2 Bytes</VariableType>
+              <Address>RushUnionA+c8+58+58</Address>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Increase Value</Action>
+                  <Keys>
+                    <Key>17</Key>
+                    <Key>49</Key>
+                  </Keys>
+                  <Value>1</Value>
+                  <ID>0</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>403</ID>
+      <Description>"Monster HP"</Description>
+      <Options moRecursiveSetValue="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>399</ID>
+          <Description>"A"</Description>
+          <LastState Value="0" Activated="1" RealAddress="231E7700"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>231E7700</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>401</ID>
+          <Description>"B"</Description>
+          <LastState Value="0" Activated="1" RealAddress="231E79BC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>231E79BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>400</ID>
+          <Description>"C"</Description>
+          <LastState Value="0" Activated="1" RealAddress="231E7C78"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>231E7C78</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>402</ID>
+          <Description>"D"</Description>
+          <LastState Value="0" Activated="1" RealAddress="231E7F34"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>231E7F34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>404</ID>
+          <Description>"E"</Description>
+          <LastState Value="0" Activated="1" RealAddress="231E81F0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>231E81F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>405</ID>
+          <Description>"F"</Description>
+          <LastState Value="0" Activated="1" RealAddress="231E84AC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>231E84AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>406</ID>
+          <Description>"G"</Description>
+          <LastState Value="0" Activated="1" RealAddress="231E8768"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>231E8768</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
