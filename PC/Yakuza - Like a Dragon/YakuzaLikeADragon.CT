@@ -1,0 +1,2010 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Money"</Description>
+      <LastState Value="99999999999" Activated="1" RealAddress="7FF4C992F7A8"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>8 Bytes</VariableType>
+      <Address>7FF4C992F7A8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"Party"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Ichiban Kasuga"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>4</ID>
+              <Description>"HP (1510)"</Description>
+              <LastState Value="1700" RealAddress="7FF4C99299F0"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C99299F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>8</ID>
+              <Description>"MP (853)"</Description>
+              <LastState Value="853" RealAddress="7FF4C9929A08"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C9929A08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>117</ID>
+              <Description>"Base Stat Boost"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>125</ID>
+                  <Description>"Attack"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C9929E5C"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C9929E5C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>121</ID>
+                  <Description>"Defense"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C9929E5E"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C9929E5E</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>124</ID>
+                  <Description>"Magic"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C9929E60"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C9929E60</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>122</ID>
+                  <Description>"Healing"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C9929E62"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C9929E62</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>123</ID>
+                  <Description>"Agility"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C9929E66"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C9929E66</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>133</ID>
+                  <Description>"Dexterity"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C9929E64"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C9929E64</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1</ID>
+              <Description>"Skill"</Description>
+              <LastState Value="999999999" RealAddress="7FF4C9929A18"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C9929A18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>3</ID>
+              <Description>"Job Skill"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>2</ID>
+                  <Description>"Yakuza/Freelancer"</Description>
+                  <LastState Value="53282817" RealAddress="7FF4C992D244"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C992D244</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>31</ID>
+                  <Description>"Hero"</Description>
+                  <LastState Value="53282817" RealAddress="7FF4C992D25C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C992D25C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>152</ID>
+                  <Description>"Bodyguard"</Description>
+                  <LastState Value="53284677" RealAddress="7FF4C992D274"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C992D274</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>34</ID>
+              <Description>"Personality"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>32</ID>
+                  <Description>"Passion"</Description>
+                  <LastState Value="900" RealAddress="7FF4C99301F8"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C99301F8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>35</ID>
+                  <Description>"Confidence"</Description>
+                  <LastState Value="900" RealAddress="7FF4C9930200"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C9930200</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>37</ID>
+                  <Description>"Kindness"</Description>
+                  <LastState Value="900" RealAddress="7FF4C9930208"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C9930208</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>33</ID>
+                  <Description>"Charisma"</Description>
+                  <LastState Value="900" RealAddress="7FF4C9930210"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C9930210</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>36</ID>
+                  <Description>"Intelligence"</Description>
+                  <LastState Value="900" RealAddress="7FF4C9930220"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C9930220</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>38</ID>
+                  <Description>"Style"</Description>
+                  <LastState Value="900" RealAddress="7FF4C9930230"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C9930230</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"Koichi Adachi"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>21</ID>
+              <Description>"HP (1790)"</Description>
+              <LastState Value="1840" RealAddress="7FF4C992A350"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C992A350</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>24</ID>
+              <Description>"MP (872)"</Description>
+              <LastState Value="842" RealAddress="7FF4C992A368"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C992A368</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>135</ID>
+              <Description>"Base Stat Boost"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>137</ID>
+                  <Description>"Attack"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A7BC"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A7BC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>134</ID>
+                  <Description>"Defense"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A7BE"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A7BE</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>136</ID>
+                  <Description>"Magic"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A7C0"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A7C0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>138</ID>
+                  <Description>"Healing"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A7C2"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A7C2</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>140</ID>
+                  <Description>"Agility"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A7C6"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A7C6</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>139</ID>
+                  <Description>"Dexterity"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A7C4"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A7C4</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>14</ID>
+              <Description>"Skill"</Description>
+              <LastState Value="999999999" RealAddress="7FF4C992A378"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C992A378</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>16</ID>
+              <Description>"Job Skill"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>15</ID>
+                  <Description>"Detective"</Description>
+                  <LastState Value="53282817" RealAddress="7FF4C992D43C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C992D43C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>154</ID>
+                  <Description>"Bodyguard"</Description>
+                  <LastState Value="53284677" RealAddress="7FF4C992D454"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C992D454</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description>"Nanba"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>27</ID>
+              <Description>"HP (1260)"</Description>
+              <LastState Value="1410" RealAddress="7FF4C9929EA0"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C9929EA0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>26</ID>
+              <Description>"MP (1105)"</Description>
+              <LastState Value="1105" RealAddress="7FF4C9929EB8"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C9929EB8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>127</ID>
+              <Description>"Base Stat Boost"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>129</ID>
+                  <Description>"Attack"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A30C"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A30C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>126</ID>
+                  <Description>"Defense"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A30E"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A30E</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>128</ID>
+                  <Description>"Magic"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A310"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A310</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>130</ID>
+                  <Description>"Healing"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A312"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A312</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>132</ID>
+                  <Description>"Agility"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A316"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A316</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>131</ID>
+                  <Description>"Dexterity"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992A314"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992A314</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>25</ID>
+              <Description>"Skill"</Description>
+              <LastState Value="999999999" RealAddress="7FF4C9929EC8"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C9929EC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>30</ID>
+              <Description>"Job Skill"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>29</ID>
+                  <Description>"Homeless Guy"</Description>
+                  <LastState Value="53282817" RealAddress="7FF4C992D34C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C992D34C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>153</ID>
+                  <Description>"Breaker"</Description>
+                  <LastState Value="53284677" RealAddress="7FF4C992D394"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C992D394</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>42</ID>
+          <Description>"Saeko Mukoda"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>44</ID>
+              <Description>"HP (1440)"</Description>
+              <LastState Value="1340" RealAddress="7FF4C992A800"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C992A800</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>43</ID>
+              <Description>"MP (1139)"</Description>
+              <LastState Value="1369" RealAddress="7FF4C992A818"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C992A818</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>157</ID>
+              <Description>"Base Stat Boost"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>158</ID>
+                  <Description>"Attack"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992AC6C"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992AC6C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>156</ID>
+                  <Description>"Defense"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992AC6E"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992AC6E</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>159</ID>
+                  <Description>"Magic"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992AC70"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992AC70</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>160</ID>
+                  <Description>"Healing"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992AC72"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992AC72</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>162</ID>
+                  <Description>"Agility"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992AC76"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992AC76</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>161</ID>
+                  <Description>"Dexterity"</Description>
+                  <LastState Value="9999" RealAddress="7FF4C992AC74"/>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>7FF4C992AC74</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>47</ID>
+              <Description>"Bond"</Description>
+              <LastState Value="800" RealAddress="7FF4C9930280"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C9930280</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>41</ID>
+              <Description>"Skill"</Description>
+              <LastState Value="999999999" RealAddress="7FF4C992A828"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>7FF4C992A828</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>46</ID>
+              <Description>"Job Skill"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>45</ID>
+                  <Description>"Barmaid"</Description>
+                  <LastState Value="53282817" RealAddress="7FF4C992D52C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C992D52C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>155</ID>
+                  <Description>"Hostess"</Description>
+                  <LastState Value="53284677" RealAddress="7FF4C992D55C"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>7FF4C992D55C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>102</ID>
+      <Description>"Mini-Games"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>165</ID>
+          <Description>"Shogi Points"</Description>
+          <LastState Value="99999999" Activated="1" RealAddress="7FF4C992FC88"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C992FC88</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>163</ID>
+          <Description>"Management Funds"</Description>
+          <LastState Value="99999999999999" Activated="1" RealAddress="7FF4C99301F0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>8 Bytes</VariableType>
+          <Address>7FF4C99301F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>164</ID>
+          <Description>"Recycling Points"</Description>
+          <LastState Value="99999999" Activated="1" RealAddress="7FF4C9930240"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C9930240</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>101</ID>
+          <Description>"Dragon Kart Rings (WRONG LOC)"</Description>
+          <LastState Value="0" RealAddress="7FF4C9930C38"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C9930C38</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>51</ID>
+      <Description>"Items"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>166</ID>
+          <Description>"BOSS Rainbow Mountain"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86C54"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86C54</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>55</ID>
+          <Description>"Reinforced Alloy"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86C64"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86C64</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>167</ID>
+          <Description>"Peach Step"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86C74"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86C74</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>168</ID>
+          <Description>"Seaweed Onigiri"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86C84"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86C84</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>169</ID>
+          <Description>"Tuna Onigiri"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86C94"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86C94</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>171</ID>
+          <Description>"Salmon Onigiri"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86CB4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86CB4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>56</ID>
+          <Description>"Ragged Cloth"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86CC4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86CC4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>172</ID>
+          <Description>"Soup Kitchen Pork Soup"</Description>
+          <LastState Value="30" RealAddress="7FF4C5B86CD4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86CD4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>57</ID>
+          <Description>"Rough Hide"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86CE4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86CE4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>50</ID>
+          <Description>"Thick Hide"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86CF4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86CF4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>58</ID>
+          <Description>"Impure Lead"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86D04"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86D04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>59</ID>
+          <Description>"Quality Lumber"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86D14"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86D14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"Sturdy Lumber"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86D24"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86D24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>60</ID>
+          <Description>"Metal Wire"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86D34"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86D34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>61</ID>
+          <Description>"Thick Cloth"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86D44"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86D44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>62</ID>
+          <Description>"Cloudy Pane"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86D54"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86D54</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>63</ID>
+          <Description>"Immaculate Pane"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86D64"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86D64</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>64</ID>
+          <Description>"Clear Pane"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86D74"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86D74</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>66</ID>
+          <Description>"Mysterious Stone"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86D84"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86D84</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>67</ID>
+          <Description>"Beautiful Cloth"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86D94"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86D94</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description>"Wood Block"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86DA4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86DA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>69</ID>
+          <Description>"Odd Stone"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86DB4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86DB4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>173</ID>
+          <Description>"Toughness Light"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86DC4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86DC4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>174</ID>
+          <Description>"Tauriner"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86DD4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86DD4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>70</ID>
+          <Description>"Nail"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86DE4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86DE4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>71</ID>
+          <Description>"Cheap Plastic"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86DF4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86DF4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>72</ID>
+          <Description>"Sturdy Plastic"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86E04"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86E04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>175</ID>
+          <Description>"Toughness Z"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86E14"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86E14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>176</ID>
+          <Description>"Tauriner +"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86E24"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86E24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>73</ID>
+          <Description>"Dull Aluminum"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86E34"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86E34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>48</ID>
+          <Description>"Smooth Hide"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86E44"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86E44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>74</ID>
+          <Description>"Sturdy Iron"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86E54"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86E54</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>75</ID>
+          <Description>"High-Purity Lead"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86E64"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86E64</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>177</ID>
+          <Description>"Toughness ZZ"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86E74"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86E74</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>178</ID>
+          <Description>"Tauriner ++"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86E84"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86E84</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>76</ID>
+          <Description>"High-Quality Lumber"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86E94"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86E94</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>77</ID>
+          <Description>"Refined Iron"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86EA4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86EA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>78</ID>
+          <Description>"Tempered Steel"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86EB4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86EB4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>79</ID>
+          <Description>"Tempered Glass"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86EC4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86EC4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>80</ID>
+          <Description>"Gleaming Aluminum"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86ED4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86ED4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>81</ID>
+          <Description>"High-End Leather"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86EE4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86EE4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>179</ID>
+          <Description>"Staminan Spark"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86EF4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86EF4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>180</ID>
+          <Description>"Toughness Infinity"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86F04"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86F04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>181</ID>
+          <Description>"Tauriner Maximum"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B86F14"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86F14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>182</ID>
+          <Description>"Lily Seeds"</Description>
+          <LastState Value="100" RealAddress="7FF4C5B86F24"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86F24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>183</ID>
+          <Description>"Pine Seedlings"</Description>
+          <LastState Value="100" RealAddress="7FF4C5B86F34"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86F34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>184</ID>
+          <Description>"Pansy Seeds"</Description>
+          <LastState Value="100" RealAddress="7FF4C5B86F44"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86F44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>185</ID>
+          <Description>"Garlic Seedlings"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86F54"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86F54</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>186</ID>
+          <Description>"Onion Seedlings"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86F64"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86F64</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>187</ID>
+          <Description>"Potato Seedlings"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86F74"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86F74</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>188</ID>
+          <Description>"Hot Pepper Seeds"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86F84"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86F84</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>189</ID>
+          <Description>"Tomato Seeds"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86F94"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86F94</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>190</ID>
+          <Description>"Daikon Seeds"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86FA4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86FA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>191</ID>
+          <Description>"Rose Seeds"</Description>
+          <LastState Value="100" RealAddress="7FF4C5B86FB4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86FB4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>192</ID>
+          <Description>"Hot Water"</Description>
+          <LastState Value="1" RealAddress="7FF4C5B86FC4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86FC4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>82</ID>
+          <Description>"Dirty Iron"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86FD4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86FD4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>193</ID>
+          <Description>"Child's Handkerchief"</Description>
+          <LastState Value="0" RealAddress="7FF4C5B86FE4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86FE4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>83</ID>
+          <Description>"Moth"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B86FF4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B86FF4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>194</ID>
+          <Description>"Hardball"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87004"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87004</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>195</ID>
+          <Description>"Throwing Knife"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87014"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87014</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>196</ID>
+          <Description>"Hand Grenade"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87024"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87024</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>197</ID>
+          <Description>"Sleeping Gas Ball"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87034"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87034</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>198</ID>
+          <Description>"Rage Gas Ball"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87044"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87044</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>84</ID>
+          <Description>"Superalloy Steel"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87074"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87074</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>151</ID>
+          <Description>"Mysterious Mushroom"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87084"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87084</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>86</ID>
+          <Description>"Highest-Quality Lumber"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87094"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87094</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>201</ID>
+          <Description>"First Aid Kit"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B870A4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B870A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>202</ID>
+          <Description>"Half-empty Drink"</Description>
+          <LastState Value="30" RealAddress="7FF4C5B870B4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B870B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>204</ID>
+          <Description>"Staminan Light"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B870D4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B870D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>205</ID>
+          <Description>"Astringent Gauze"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B870E4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B870E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>87</ID>
+          <Description>"Tempered Safety Glass"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B870F4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B870F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>88</ID>
+          <Description>"Full-Grain Leather"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87104"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87104</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>89</ID>
+          <Description>"Tungsten"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87114"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87114</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>206</ID>
+          <Description>"Pine Candy"</Description>
+          <LastState Value="30" RealAddress="7FF4C5B87124"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87124</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>207</ID>
+          <Description>"Suntory Black Oolong Tea"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87134"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87134</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>90</ID>
+          <Description>"Pansy"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87144"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87144</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>91</ID>
+          <Description>"Lily"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87154"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87154</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>92</ID>
+          <Description>"Pine Tree"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87164"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87164</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>93</ID>
+          <Description>"Rose"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87174"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87174</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>94</ID>
+          <Description>"Boquet of Pansies"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87184"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87184</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>95</ID>
+          <Description>"Boquet of Lilies"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87194"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87194</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>96</ID>
+          <Description>"Boquet of Roses"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B871A4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B871A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>97</ID>
+          <Description>"Bonsai"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B871B4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B871B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>99</ID>
+          <Description>"Mysterious Seeds"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B871C4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B871C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>100</ID>
+          <Description>"Mysterious Bulb"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B871D4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B871D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>113</ID>
+          <Description>"Dancing Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B871F4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B871F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>103</ID>
+          <Description>"Speed Booster"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87204"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87204</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>104</ID>
+          <Description>"Healing Booster"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87214"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87214</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>105</ID>
+          <Description>"Guard Booster"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87224"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87224</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>106</ID>
+          <Description>"Rise Up!"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87234"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87234</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>107</ID>
+          <Description>"Demo Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87244"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87244</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>108</ID>
+          <Description>"Guitar Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87254"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87254</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>109</ID>
+          <Description>"Tactical Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87264"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87264</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>110</ID>
+          <Description>"Dominance Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87274"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87274</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>111</ID>
+          <Description>"Intimidation Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87284"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87284</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>112</ID>
+          <Description>"Gambler Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87294"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87294</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>114</ID>
+          <Description>"High Payout Token"</Description>
+          <LastState Value="999" RealAddress="7FF4C5B872A4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B872A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>118</ID>
+          <Description>"High-Quality Cloth"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B872D4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B872D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>141</ID>
+          <Description>"Daikon"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B872E4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B872E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>142</ID>
+          <Description>"Tomato"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B872F4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B872F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>143</ID>
+          <Description>"Hot Pepper"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87304"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87304</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>144</ID>
+          <Description>"Potato"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87314"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87314</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>145</ID>
+          <Description>"Onion"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87324"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87324</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>146</ID>
+          <Description>"Garlic"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87334"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87334</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>147</ID>
+          <Description>"Mysterious Carrot"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87344"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87344</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>211</ID>
+          <Description>"Carrot Seedlings"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87354"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87354</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>212</ID>
+          <Description>"Mysterious Compost"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87364"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87364</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>213</ID>
+          <Description>"Silver Scorpion"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87374"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87374</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>214</ID>
+          <Description>"Scorpion"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87384"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87384</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>215</ID>
+          <Description>"Lettuce Sandwich"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87394"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87394</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>216</ID>
+          <Description>"Tuna &amp; Egg Sandwich"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B873A4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B873A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>217</ID>
+          <Description>"Club Sandwich"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B873B4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B873B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>218</ID>
+          <Description>"Frankfurter"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B873C4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B873C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>219</ID>
+          <Description>"Iyemon Tokucha Green Tea"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B873D4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B873D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>220</ID>
+          <Description>"Suntory Mineral Water"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B873E4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B873E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>221</ID>
+          <Description>"C.C. Lemon"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B873F4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B873F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>222</ID>
+          <Description>"GREEN DAKARA"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87404"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87404</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>223</ID>
+          <Description>"Silver Plate"</Description>
+          <LastState Value="1" RealAddress="7FF4C5B87414"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87414</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>224</ID>
+          <Description>"Apple Defense"</Description>
+          <LastState Value="5" RealAddress="7FF4C5B87424"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87424</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>225</ID>
+          <Description>"Muscle Soda"</Description>
+          <LastState Value="5" RealAddress="7FF4C5B87434"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87434</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>226</ID>
+          <Description>"Kiwami Drink"</Description>
+          <LastState Value="5" RealAddress="7FF4C5B87444"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87444</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>227</ID>
+          <Description>"Imuraya Steamed Bun"</Description>
+          <LastState Value="30" RealAddress="7FF4C5B87454"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87454</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>228</ID>
+          <Description>"Nozaki's Corned Beef"</Description>
+          <LastState Value="30" RealAddress="7FF4C5B87464"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87464</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>229</ID>
+          <Description>"Chicken Karaage Bento"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87474"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87474</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>230</ID>
+          <Description>"Premium Sushi Set"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87484"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87484</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>231</ID>
+          <Description>"The Premium Malt's Bottle"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87494"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87494</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>232</ID>
+          <Description>"Kakubin"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B874A4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B874A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>233</ID>
+          <Description>"Staminan X"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B874B4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B874B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>234</ID>
+          <Description>"Chinese Detoxers"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B874C4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B874C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>235</ID>
+          <Description>"Turmeric Tablets"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B874D4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B874D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>236</ID>
+          <Description>"Plant Growth Stimulnt"</Description>
+          <LastState Value="5" RealAddress="7FF4C5B874E4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B874E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>237</ID>
+          <Description>"Plant Nutrient"</Description>
+          <LastState Value="5" RealAddress="7FF4C5B874F4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B874F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>238</ID>
+          <Description>"Cup Sake"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87504"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87504</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>239</ID>
+          <Description>"Bottle of Sake"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87514"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87514</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>240</ID>
+          <Description>"Burn Ointment"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87524"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87524</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>241</ID>
+          <Description>"Cold Medicine"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87534"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87534</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>242</ID>
+          <Description>"Paralytics Poultice"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87544"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87544</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>243</ID>
+          <Description>"Mental Supplements"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87554"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87554</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>244</ID>
+          <Description>"All-Purpose Remedy"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87564"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87564</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>245</ID>
+          <Description>"Plant Staminan"</Description>
+          <LastState Value="5" RealAddress="7FF4C5B87574"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87574</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>246</ID>
+          <Description>"Plant Staminan Spark"</Description>
+          <LastState Value="5" RealAddress="7FF4C5B87584"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87584</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>247</ID>
+          <Description>"Scalp D"</Description>
+          <LastState Value="5" RealAddress="7FF4C5B87594"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87594</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>248</ID>
+          <Description>"Liquid Nitrogen Spray"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B875A4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B875A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>250</ID>
+          <Description>"Mishmash Lunch Box"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B875C4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B875C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>251</ID>
+          <Description>"Packed Lunch Box"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B875D4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B875D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>252</ID>
+          <Description>"Chilled Noodles Lunch Box"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B875E4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B875E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>253</ID>
+          <Description>"Homestyle Lunch Box"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B875F4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B875F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>254</ID>
+          <Description>"Special Lunch Box"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87604"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87604</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>255</ID>
+          <Description>"Revival Bolus"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87614"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87614</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>256</ID>
+          <Description>"Bento Lunch Set"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87624"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87624</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>257</ID>
+          <Description>"Luxury Yakiniku Bento"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87634"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87634</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>258</ID>
+          <Description>"Oragamachi Natto"</Description>
+          <LastState Value="30" RealAddress="7FF4C5B87644"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87644</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>259</ID>
+          <Description>"Spider"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87654"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87654</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>263</ID>
+          <Description>"Handmade Meat Bun"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87694"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87694</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>264</ID>
+          <Description>"Bean Paste Bun"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B876A4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B876A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>265</ID>
+          <Description>"Chinese Sticky Rice"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B876B4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B876B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>266</ID>
+          <Description>"Ultimate Pork Bun"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B876C4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B876C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>267</ID>
+          <Description>"Special Chinese Buns"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B876D4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B876D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>268</ID>
+          <Description>"Shark Fin Bun"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B876E4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B876E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>269</ID>
+          <Description>"Roasted Chestnuts"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B876F4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B876F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>270</ID>
+          <Description>"Soft Serve Ice Cream"</Description>
+          <LastState Value="30" RealAddress="7FF4C5B87704"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87704</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>271</ID>
+          <Description>"Almond Jelly"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87714"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87714</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>272</ID>
+          <Description>"Mango Pudding"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87724"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87724</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>273</ID>
+          <Description>"Restorative Medicine"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87734"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87734</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>274</ID>
+          <Description>"Comforting Medicine"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87744"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87744</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>275</ID>
+          <Description>"Full Recovery Medicine"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87754"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87754</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>276</ID>
+          <Description>"Restorative Bolus"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87764"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87764</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>277</ID>
+          <Description>"Resurrection Bolus"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87774"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87774</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>279</ID>
+          <Description>"Technique Booster"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87794"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87794</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>284</ID>
+          <Description>"Justice Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B877E4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B877E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>285</ID>
+          <Description>"Food Service Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B877F4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B877F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>286</ID>
+          <Description>"Versatility Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87804"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87804</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>287</ID>
+          <Description>"Smooth Talker Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87814"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87814</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>288</ID>
+          <Description>"Wanderer Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87824"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87824</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>289</ID>
+          <Description>"You, Unleashed"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87834"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87834</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>290</ID>
+          <Description>"The Poor Zoo"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87844"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87844</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>291</ID>
+          <Description>"Between Thrill and Passion"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87854"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87854</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>293</ID>
+          <Description>"Cockroach"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87864"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87864</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>294</ID>
+          <Description>"Beehive"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87874"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87874</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>295</ID>
+          <Description>"Stag Beetle"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87884"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87884</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>296</ID>
+          <Description>"Dragonfly"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87894"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87894</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>297</ID>
+          <Description>"Empty Cicada Shell"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B878A4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B878A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>298</ID>
+          <Description>"Mantis"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B878B4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B878B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>299</ID>
+          <Description>"Rhinoceros Beetle"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B878C4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B878C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>300</ID>
+          <Description>"Butterfly"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B878D4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B878D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>301</ID>
+          <Description>"Worn-out Microwave"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B878E4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B878E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>302</ID>
+          <Description>"Worn-out TV"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B878F4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B878F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>303</ID>
+          <Description>"Pocket Tissues"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87904"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87904</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>304</ID>
+          <Description>"Trash"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87914"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87914</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>305</ID>
+          <Description>"Disposed Bento"</Description>
+          <LastState Value="30" RealAddress="7FF4C5B87924"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87924</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>306</ID>
+          <Description>"Half-eaten Bento"</Description>
+          <LastState Value="30" RealAddress="7FF4C5B87934"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87934</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>308</ID>
+          <Description>"Silver Rhinoceros Beetle"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87954"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87954</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>309</ID>
+          <Description>"Silver Stag Beetle"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87964"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87964</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>310</ID>
+          <Description>"Silver Mantis"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87974"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87974</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>311</ID>
+          <Description>"Silver Dragonfly"</Description>
+          <LastState Value="500" RealAddress="7FF4C5B87984"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87984</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>312</ID>
+          <Description>"Mental Booster"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B87994"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87994</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>313</ID>
+          <Description>"Attack Booster"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B879A4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B879A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>314</ID>
+          <Description>"Special Theory of Relative Brutality"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B879B4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B879B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>315</ID>
+          <Description>"Street Dandy"</Description>
+          <LastState Value="10" RealAddress="7FF4C5B879C4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B879C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>316</ID>
+          <Description>"Sweet Talker Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B879D4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B879D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>317</ID>
+          <Description>"Cooking Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B879E4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B879E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>318</ID>
+          <Description>"Divination Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B879F4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B879F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>319</ID>
+          <Description>"Underworld Manual"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87A04"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87A04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>323</ID>
+          <Description>"Ichiban Senbei (Shoyu)"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87A44"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87A44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>324</ID>
+          <Description>"Ichiban Senbei (Salt)"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87A54"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87A54</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>325</ID>
+          <Description>"Ichiban Fried Senbei"</Description>
+          <LastState Value="50" RealAddress="7FF4C5B87A64"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87A64</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>326</ID>
+          <Description>"Imuraya Yokan"</Description>
+          <LastState Value="30" RealAddress="7FF4C5B87A74"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87A74</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>327</ID>
+          <Description>"Imuraya Castella"</Description>
+          <LastState Value="30" RealAddress="7FF4C5B87A84"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>7FF4C5B87A84</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
