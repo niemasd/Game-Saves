@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>32</ID>
+      <Description>"Items"</Description>
+      <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="FFFFFFC86B9E0000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description>"Useable"</Description>
+          <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="FFFFFFC86B9E0000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>30</ID>
+              <Description>"Energy Apple"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F7F48"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F7F48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>175</ID>
+              <Description>"Potent Energy Apple"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F7F68"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F7F68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>230</ID>
+              <Description>"Mighty Energy Apple"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F7F88"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F7F88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>33</ID>
+              <Description>"Excite Apple"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F7FA8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F7FA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>231</ID>
+              <Description>"Potent Excite Apple"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F7FC8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F7FC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>179</ID>
+              <Description>"Mighty Excite Apple"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F7FE8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F7FE8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>181</ID>
+              <Description>"Burst Brew"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8008"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>114</ID>
+              <Description>"Super Burst Brew"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8028"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8028</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>115</ID>
+              <Description>"Remedy Brew"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8048"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8048</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>34</ID>
+              <Description>"Bandage Brew"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8068"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8068</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>35</ID>
+              <Description>"Burn Brew"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8088"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8088</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>232</ID>
+              <Description>"Rousing Brew"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F80A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F80A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>233</ID>
+              <Description>"Insulator Brew"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F80C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F80C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>36</ID>
+              <Description>"Antidote Brew"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F80E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F80E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>37</ID>
+              <Description>"Anti-Mirage Brew"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8108"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8108</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>41</ID>
+              <Description>"Desert Nuts"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8128"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8128</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>122</ID>
+              <Description>"Small Drumstick"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8168"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8168</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>130</ID>
+              <Description>"Scorpion and Clam Soup"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8188"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8188</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>123</ID>
+              <Description>"Bedrock Salt Pasta"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F81A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F81A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>169</ID>
+              <Description>"Sandora Dragon Steak Tips"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F81C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F81C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>121</ID>
+              <Description>"Bronze Bat Soup"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F81E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F81E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>124</ID>
+              <Description>"Sazae Kancho Pescatore"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8208"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8208</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>97</ID>
+              <Description>"Banana Gator Pie"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8228"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8228</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>170</ID>
+              <Description>"Herb-Grilled Bo Bo Bird"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8248"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8248</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>183</ID>
+              <Description>"Flame Salisbury Steak"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8268"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8268</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>185</ID>
+              <Description>"Thunder Soup"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8288"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8288</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>249</ID>
+              <Description>"Ogre Sazae Kancho Carbonara"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F82A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F82A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>250</ID>
+              <Description>"Ganzo's Oden"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F82C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F82C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>160</ID>
+              <Description>"Durian Gator Salad"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F82E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F82E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>44</ID>
+              <Description>"Golden Jelly"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8308"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8308</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>187</ID>
+              <Description>"Aqua Cabbage Roll"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8328"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8328</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>189</ID>
+              <Description>"Elephant Tuna Saute"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8348"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8348</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>224</ID>
+              <Description>"Fruit Gator Punch "</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F83C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F83C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>251</ID>
+              <Description>"Offal Soup with Sea Pig"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F83E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F83E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>252</ID>
+              <Description>"Dogol Dragon's Chilled Pasta"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8408"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8408</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>258</ID>
+              <Description>"Jura Bird Pudding"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8428"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8428</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>254</ID>
+              <Description>"Merchant Gelato"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8468"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8468</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>256</ID>
+              <Description>"Fairy Pumpkin Gazpacho"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F84A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F84A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>131</ID>
+              <Description>"Shabby Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F84C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F84C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>150</ID>
+              <Description>"Perfected Shabby Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F84E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F84E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>134</ID>
+              <Description>"Ragged Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8528"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8528</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>259</ID>
+              <Description>"Perfected Ragged Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8548"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8548</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>137</ID>
+              <Description>"Exhaust Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8588"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8588</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>148</ID>
+              <Description>"Perfected Exhaust Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F85A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F85A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>151</ID>
+              <Description>"Perfected Exhaust Ball Plus"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F85C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F85C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>260</ID>
+              <Description>"Rundown Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F85E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F85E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>153</ID>
+              <Description>"Feeble Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8608"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8608</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>261</ID>
+              <Description>"Negative Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8628"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8628</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>144</ID>
+              <Description>"Roast Chestnut Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8668"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8668</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>262</ID>
+              <Description>"Sleep Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8688"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8688</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>147</ID>
+              <Description>"Shocking Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F86C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F86C8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description>"Material"</Description>
+          <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="FFFFFFC86B9E0000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>171</ID>
+              <Description>"Kung-Fu Dugong Milk"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8708"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8708</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>43</ID>
+              <Description>"Simple Pasta"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8728"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8728</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>45</ID>
+              <Description>"Corn Stalk"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8748"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8748</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>46</ID>
+              <Description>"Devil's Tongue"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8768"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8768</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>47</ID>
+              <Description>"Pop Cream"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8788"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8788</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>162</ID>
+              <Description>"Gator Banana"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F87C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F87C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>191</ID>
+              <Description>"Gator Durian"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F87E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F87E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>101</ID>
+              <Description>"Gator Watermelon"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8808"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8808</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>263</ID>
+              <Description>"Gator Melon"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8828"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8828</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>236</ID>
+              <Description>"Static Skipjack"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8868"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8868</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>128</ID>
+              <Description>"Sandy Shell"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8888"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8888</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>107</ID>
+              <Description>"Sazae Kancho Liver"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F88C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F88C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>193</ID>
+              <Description>"Sazae Kancho Ogre Liver"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F88E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F88E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>237</ID>
+              <Description>"Elephant Tuna"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8908"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8908</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>238</ID>
+              <Description>"Rose Squid Meat"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8928"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8928</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>239</ID>
+              <Description>"Rose Squid Ink"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8948"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8948</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>240</ID>
+              <Description>"Dress-Shrimp"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8968"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8968</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>48</ID>
+              <Description>"Powder Wheat"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8988"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8988</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>108</ID>
+              <Description>"Bo Bo Bird Egg"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F89A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F89A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>257</ID>
+              <Description>"Large Jura Bird Egg"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F89C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F89C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>49</ID>
+              <Description>"Bedrock Salt"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F89E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F89E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>50</ID>
+              <Description>"Trace Sugar"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8A08"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8A08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>51</ID>
+              <Description>"Fragrant Herb"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8A28"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8A28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>52</ID>
+              <Description>"Blue Peppercorn"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8A48"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8A48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>53</ID>
+              <Description>"Chunk of Meat"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8A68"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8A68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>129</ID>
+              <Description>"Scorpion Leg"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8A88"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8A88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>154</ID>
+              <Description>"Sandora Dragon Meat"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8AA8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8AA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>54</ID>
+              <Description>"Bronze Bat Wing"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8AC8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8AC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>172</ID>
+              <Description>"Bo Bo Bird Breast"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8AE8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8AE8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>195</ID>
+              <Description>"Volcano Dragon Tail"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8B08"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8B08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>57</ID>
+              <Description>"Kaen Kabuto Shell"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8B28"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8B28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>58</ID>
+              <Description>"Shock Kabuto Meat"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8B48"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8B48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>163</ID>
+              <Description>"Electric Dragon Meat"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8B68"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8B68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>60</ID>
+              <Description>"Golden Bat Wing"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8B88"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8B88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>266</ID>
+              <Description>"Rock Bear Arm"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8BE8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8BE8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>244</ID>
+              <Description>"Sea Pig Meat"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8C08"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8C08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>229</ID>
+              <Description>"Dogol Dragon Frozen Meat"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8C28"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8C28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>209</ID>
+              <Description>"Walrus Ice Shell"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8C68"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8C68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>42</ID>
+              <Description>"Desert Tomato"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8C88"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8C88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>61</ID>
+              <Description>"Orb Onion"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8CA8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8CA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>211</ID>
+              <Description>"Sea Radish"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8CC8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8CC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>213</ID>
+              <Description>"Aqua Cabbage"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8CE8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8CE8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>64</ID>
+              <Description>"Tree Melon"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8D08"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8D08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>65</ID>
+              <Description>"Ogre Onion"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8D28"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8D28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>245</ID>
+              <Description>"Fairy Pumpkin"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8D48"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8D48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>67</ID>
+              <Description>"Vinegar Flower"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8D68"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8D68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>68</ID>
+              <Description>"Unlucky Herb"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8D88"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8D88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>69</ID>
+              <Description>"Poison Burr Chestnut"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8DA8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8DA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>70</ID>
+              <Description>"Negative Seed"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8DC8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8DC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>71</ID>
+              <Description>"Viper Herb"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8DE8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8DE8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>72</ID>
+              <Description>"Husk Herb"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8E08"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8E08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>164</ID>
+              <Description>"Lost Petal"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8E28"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8E28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>74</ID>
+              <Description>"Angel Seed"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8E48"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8E48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>75</ID>
+              <Description>"Cracked Herb"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8E68"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8E68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>166</ID>
+              <Description>"Old Leaf"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8EA8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8EA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>76</ID>
+              <Description>"Soft Horn"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8EE8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8EE8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>77</ID>
+              <Description>"Light Fang"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8F08"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8F08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>78</ID>
+              <Description>"Burning Tail Feather"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8F28"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8F28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>79</ID>
+              <Description>"Inverse Horn"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8F48"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8F48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>167</ID>
+              <Description>"Dancing Tail"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8F68"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8F68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>215</ID>
+              <Description>"Smoke Scale"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8FA8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8FA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>80</ID>
+              <Description>"Thorny Shroom"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8FC8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8FC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>81</ID>
+              <Description>"Hollow Shroom"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F8FE8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F8FE8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>216</ID>
+              <Description>"Smooth Shroom"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F9008"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F9008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>83</ID>
+              <Description>"Dark Shroom"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F9028"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F9028</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>173</ID>
+              <Description>"Gondola Shroom"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F9048"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F9048</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>217</ID>
+              <Description>"Cozy Beetle"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F9068"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F9068</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>246</ID>
+              <Description>"Sleeping Bug"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F9088"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F9088</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>84</ID>
+              <Description>"Red Scorpion"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F90A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F90A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>218</ID>
+              <Description>"Aquapillar"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F90C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F90C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>86</ID>
+              <Description>"Electric Scallop"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F90E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F90E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>87</ID>
+              <Description>"Nimbus Spider"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F9108"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F9108</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>88</ID>
+              <Description>"Jelly Rock"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F9128"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F9128</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>89</ID>
+              <Description>"Panic Stone"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F9148"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F9148</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>38</ID>
+              <Description>"Generic Perfume"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F9168"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F9168</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>219</ID>
+              <Description>"Sewer Mud"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F9188"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F9188</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>40</ID>
+              <Description>"Expensive Perfume"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F91A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F91A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>168</ID>
+              <Description>"Blue Brick"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F91C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F91C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>110</ID>
+              <Description>"Junk"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F91E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F91E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>220</ID>
+              <Description>"Steel Bolt"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F9208"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F9208</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>248</ID>
+          <Description>"Important"</Description>
+          <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>247</ID>
+              <Description>"Yaya Cube"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1EC8B3F95E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>1EC8B3F95E8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
