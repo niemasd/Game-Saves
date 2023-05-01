@@ -1,0 +1,2 @@
+* **Location:** `%USERPROFILE%\Documents\My Games\STRANGER OF PARADISE FINAL FANTASY ORIGIN\Steam\76561198003068170\`
+* **Last Played:** 2023-04-30

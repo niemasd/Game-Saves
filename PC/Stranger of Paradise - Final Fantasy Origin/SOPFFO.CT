@@ -1,0 +1,1860 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>79</ID>
+      <Description>"Party"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>67</ID>
+          <Description>"Jack"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>3</ID>
+              <Description>"Job EXP"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>35</ID>
+                  <Description>"Swordfighter"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8238"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748238</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>0</ID>
+                  <Description>"Swordsman"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8240"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748240</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>47</ID>
+                  <Description>"Ronin"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8248"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748248</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>6</ID>
+                  <Description>"Pugilist"</Description>
+                  <LastState Value="2250970" RealAddress="7FF6FF5A8250"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748250</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>49</ID>
+                  <Description>"Marauder"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8258"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748258</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>21</ID>
+                  <Description>"Mage"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8268"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748268</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>2</ID>
+                  <Description>"Duelist"</Description>
+                  <LastState Value="2250970" RealAddress="7FF6FF5A8270"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748270</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>29</ID>
+                  <Description>"Lancer"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8278"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748278</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>11</ID>
+                  <Description>"Marksman"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8280"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748280</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>50</ID>
+                  <Description>"Warrior"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8288"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748288</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>37</ID>
+                  <Description>"Knight"</Description>
+                  <LastState Value="3491746" RealAddress="7FF6FF5A8290"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748290</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>56</ID>
+                  <Description>"Berserker"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8298"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748298</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>9</ID>
+                  <Description>"Thief"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A82A0"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47482A0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>55</ID>
+                  <Description>"Ninja"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A82A8"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47482A8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>31</ID>
+                  <Description>"Monk"</Description>
+                  <LastState Value="2351746" RealAddress="7FF6FF5A82B0"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47482B0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>23</ID>
+                  <Description>"White Mage"</Description>
+                  <LastState Value="3491746" RealAddress="7FF6FF5A82B8"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47482B8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>24</ID>
+                  <Description>"Black Mage"</Description>
+                  <LastState Value="2351746" RealAddress="7FF6FF5A82C0"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47482C0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>38</ID>
+                  <Description>"Red Mage"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A82C8"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47482C8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>59</ID>
+                  <Description>"Dragoon"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A82D0"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47482D0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>13</ID>
+                  <Description>"Hunter"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A82D8"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47482D8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>51</ID>
+                  <Description>"Samurai"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A82E0"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47482E0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>60</ID>
+                  <Description>"Dark Knight"</Description>
+                  <LastState Value="2414727" RealAddress="7FF6FF5A82E8"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47482E8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>42</ID>
+                  <Description>"Paladin"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A82F0"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47482F0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>33</ID>
+                  <Description>"Assassin"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8300"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748300</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>63</ID>
+                  <Description>"Liberator"</Description>
+                  <LastState Value="2414727" RealAddress="7FF6FF5A8308"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748308</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>64</ID>
+                  <Description>"Breaker"</Description>
+                  <LastState Value="3554727" RealAddress="7FF6FF5A8310"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748310</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>41</ID>
+                  <Description>"Void Knight"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8318"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748318</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>45</ID>
+                  <Description>"Tyrant"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8320"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748320</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>15</ID>
+                  <Description>"Gambler"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8328"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748328</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>27</ID>
+                  <Description>"Sage"</Description>
+                  <LastState Value="3554727" RealAddress="7FF6FF5A8330"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748330</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>148</ID>
+                  <Description>"Cyclic Warrior"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8338"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748338</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>16</ID>
+                  <Description>"Pilgrim"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8340"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748340</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>19</ID>
+                  <Description>"Evoker"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8348"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748348</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>180</ID>
+                  <Description>"Summoner"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8350"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748350</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>198</ID>
+                  <Description>"Blue Mage"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8358"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748358</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>5</ID>
+              <Description>"Job Points"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" Activated="1" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>36</ID>
+                  <Description>"Swordfighter"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301E74"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1E74</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>8</ID>
+                  <Description>"Swordsman"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301E78"/>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1E78</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>48</ID>
+                  <Description>"Ronin"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301E7C"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1E7C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>7</ID>
+                  <Description>"Pugilist"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301E80"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1E80</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>52</ID>
+                  <Description>"Marauder"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301E84"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1E84</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>22</ID>
+                  <Description>"Mage"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301E8C"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1E8C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>4</ID>
+                  <Description>"Duelist"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301E90"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1E90</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30</ID>
+                  <Description>"Lancer"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301E94"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1E94</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>12</ID>
+                  <Description>"Marksman"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301E98"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1E98</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>53</ID>
+                  <Description>"Warrior"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301E9C"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1E9C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>39</ID>
+                  <Description>"Knight"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EA0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EA0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>58</ID>
+                  <Description>"Berserker"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EA4"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EA4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>10</ID>
+                  <Description>"Thief"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EA8"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EA8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>57</ID>
+                  <Description>"Ninja"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EAC"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EAC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>32</ID>
+                  <Description>"Monk"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EB0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EB0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>25</ID>
+                  <Description>"White Mage"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EB4"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EB4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>26</ID>
+                  <Description>"Black Mage"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EB8"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EB8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>40</ID>
+                  <Description>"Red Mage"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EBC"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EBC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>61</ID>
+                  <Description>"Dragoon"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EC0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EC0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>14</ID>
+                  <Description>"Hunter"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EC4"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EC4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>54</ID>
+                  <Description>"Samurai"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EC8"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EC8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>62</ID>
+                  <Description>"Dark Knight"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301ECC"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1ECC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>44</ID>
+                  <Description>"Paladin"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301ED0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1ED0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>34</ID>
+                  <Description>"Assassin"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301ED8"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1ED8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>65</ID>
+                  <Description>"Liberator"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EDC"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EDC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>66</ID>
+                  <Description>"Breaker"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EE0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EE0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>43</ID>
+                  <Description>"Void Knight"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EE4"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EE4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>46</ID>
+                  <Description>"Tyrant"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EE8"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EE8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>17</ID>
+                  <Description>"Gambler"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EEC"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EEC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>28</ID>
+                  <Description>"Sage"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EF0"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EF0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>149</ID>
+                  <Description>"Cyclic Warrior"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EF4"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EF4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>18</ID>
+                  <Description>"Pilgrim"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EF8"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EF8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>20</ID>
+                  <Description>"Evoker"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301EFC"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1EFC</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>181</ID>
+                  <Description>"Summoner"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301F00"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1F00</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>199</ID>
+                  <Description>"Blue Mage"</Description>
+                  <LastState Value="99" Activated="1" RealAddress="7FF6FF301F04"/>
+                  <VariableType>Byte</VariableType>
+                  <Address>SOPFFO.exe+44A1F04</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>70</ID>
+          <Description>"Ash"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>69</ID>
+              <Description>"Job EXP"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>68</ID>
+                  <Description>"Pugilist"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A83A0"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47483A0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>121</ID>
+                  <Description>"Berserker"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A83E8"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47483E8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>71</ID>
+                  <Description>"Monk"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8400"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748400</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>144</ID>
+                  <Description>"Liberator"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8458"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748458</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>139</ID>
+                  <Description>"Tyrant"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8470"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748470</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>74</ID>
+          <Description>"Jed"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>73</ID>
+              <Description>"Job EXP"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>72</ID>
+                  <Description>"Duelist"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8510"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748510</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>75</ID>
+                  <Description>"Thief"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8540"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748540</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>140</ID>
+                  <Description>"Ninja"</Description>
+                  <LastState Value="2414727" RealAddress="7FF6FF5A8548"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748548</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>120</ID>
+                  <Description>"Samurai"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8580"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748580</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>141</ID>
+                  <Description>"Assassin"</Description>
+                  <LastState Value="2414727" RealAddress="7FF6FF5A85A0"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47485A0</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>78</ID>
+          <Description>"Neon"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>77</ID>
+              <Description>"Job EXP"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>76</ID>
+                  <Description>"Swordfighter"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8628"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748628</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>119</ID>
+                  <Description>"Knight"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8680"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748680</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>80</ID>
+                  <Description>"Red Mage"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A86B8"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47486B8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>143</ID>
+                  <Description>"Paladin"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A86E0"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47486E0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>138</ID>
+                  <Description>"Void Knight"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8708"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748708</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>124</ID>
+          <Description>"Sophia"</Description>
+          <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>123</ID>
+              <Description>"Job EXP"</Description>
+              <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState Value="" RealAddress="00000000"/>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>122</ID>
+                  <Description>"Mage"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A87A8"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+47487A8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>125</ID>
+                  <Description>"Black Mage"</Description>
+                  <LastState Value="2351746" RealAddress="7FF6FF5A8800"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748800</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>126</ID>
+                  <Description>"Dragoon"</Description>
+                  <LastState Value="5956446" RealAddress="7FF6FF5A8810"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748810</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>142</ID>
+                  <Description>"Breaker"</Description>
+                  <LastState Value="99999999" RealAddress="7FF6FF5A8850"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748850</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>137</ID>
+                  <Description>"Sage"</Description>
+                  <LastState Value="3554727" RealAddress="7FF6FF5A8870"/>
+                  <VariableType>4 Bytes</VariableType>
+                  <Address>SOPFFO.exe+4748870</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>83</ID>
+      <Description>"Inventory"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>82</ID>
+          <Description>"Items"</Description>
+          <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>178</ID>
+              <Description>"Ronin's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF178BC8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4318BC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>99</ID>
+              <Description>"Anima Shard"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF178D10"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4318D10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>90</ID>
+              <Description>"Clear Magicite"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF178E58"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4318E58</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>86</ID>
+              <Description>"Dim Sphere"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF178FA0"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4318FA0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>85</ID>
+              <Description>"Dim Magicite"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1790E8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43190E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>84</ID>
+              <Description>"Dim Materia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF179230"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4319230</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>105</ID>
+              <Description>"Powder of Devotion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF179378"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4319378</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>93</ID>
+              <Description>"Powder of Courage"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1794C0"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43194C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>103</ID>
+              <Description>"Powder of Passion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF179608"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4319608</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>87</ID>
+              <Description>"Clear Sphere"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF179750"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4319750</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>94</ID>
+              <Description>"Shard of Devotion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF179898"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4319898</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>95</ID>
+              <Description>"Shard of Courage"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1799E0"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43199E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>104</ID>
+              <Description>"Shard of Passion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF179B28"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4319B28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98</ID>
+              <Description>"Powder of Hope"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF179C70"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4319C70</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>88</ID>
+              <Description>"Shining Sphere"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF179DB8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4319DB8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>81</ID>
+              <Description>"Ore of Devotion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF179F00"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4319F00</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>97</ID>
+              <Description>"Ore of Courage"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17A048"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431A048</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>91</ID>
+              <Description>"Ore of Passion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17A190"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431A190</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>89</ID>
+              <Description>"Clear Materia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17A2D8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431A2D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>101</ID>
+              <Description>"Shard of Hope"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17A420"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431A420</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>92</ID>
+              <Description>"Shining Magicite"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17A568"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431A568</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>102</ID>
+              <Description>"Ore of Hope"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17A6B0"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431A6B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>107</ID>
+              <Description>"Silver Plate"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17A7F8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431A7F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>108</ID>
+              <Description>"Silver Insignia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17A940"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431A940</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>106</ID>
+              <Description>"Shining Materia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17AA88"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431AA88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>113</ID>
+              <Description>"Bronze Insignia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17ABD0"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431ABD0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>115</ID>
+              <Description>"Bronze Plate"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17AD18"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431AD18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>111</ID>
+              <Description>"Mythril Plate"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17AE60"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431AE60</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>114</ID>
+              <Description>"Mythril Insignia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17AFA8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431AFA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>112</ID>
+              <Description>"Diamond Plate"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17B0F0"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431B0F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>116</ID>
+              <Description>"Orb of Hope"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17B238"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431B238</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>117</ID>
+              <Description>"Orb of Passion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17B380"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431B380</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>118</ID>
+              <Description>"Orb of Courage"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17B4C8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431B4C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>130</ID>
+              <Description>"Flawless Sphere"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17B610"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431B610</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>128</ID>
+              <Description>"Orb of Devotion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17B758"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431B758</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>129</ID>
+              <Description>"Flawless Magicite"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17B8A0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431B8A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>131</ID>
+              <Description>"Diamond Insignia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17B9E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431B9E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>132</ID>
+              <Description>"Flawless Materia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17BB30"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431BB30</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>135</ID>
+              <Description>"Mystic Materia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17BC78"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431BC78</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>134</ID>
+              <Description>"Jewel of Hope"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17BDC0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431BDC0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>133</ID>
+              <Description>"Jewel of Devotion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17BF08"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431BF08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>136</ID>
+              <Description>"Mystic Sphere"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17C050"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431C050</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>145</ID>
+              <Description>"Mystic Magicite"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17C198"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431C198</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>146</ID>
+              <Description>"Jewel of Courage"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17C2E0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431C2E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>147</ID>
+              <Description>"Jewel of Passion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17C428"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431C428</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>150</ID>
+              <Description>"Adamantite Insignia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17C570"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431C570</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>152</ID>
+              <Description>"Adamantite Plate"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17C6B8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431C6B8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>151</ID>
+              <Description>"Cyclic Warrior's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17C800"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431C800</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>153</ID>
+              <Description>"Sage's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17C948"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431C948</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>154</ID>
+              <Description>"Anima Crystal"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17CA90"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431CA90</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>155</ID>
+              <Description>"Breaker's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17CBD8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431CBD8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>162</ID>
+              <Description>"Void Knight's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17CD20"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431CD20</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>156</ID>
+              <Description>"Swordfighter's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17CE68"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431CE68</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>171</ID>
+              <Description>"Tyrant's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17CFB0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431CFB0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>169</ID>
+              <Description>"Red Mage's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17D0F8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431D0F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>172</ID>
+              <Description>"Duelist's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17D240"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431D240</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>165</ID>
+              <Description>"Berserker's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17D388"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431D388</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>159</ID>
+              <Description>"Summoner's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17D4D0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431D4D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>164</ID>
+              <Description>"Marauder's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17D618"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431D618</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>163</ID>
+              <Description>"Paladin's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17D760"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431D760</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>168</ID>
+              <Description>"Dark Knight's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17D8A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431D8A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>176</ID>
+              <Description>"Knight's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17D9F0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431D9F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>177</ID>
+              <Description>"Marksman's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17DB38"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431DB38</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>158</ID>
+              <Description>"Rat Tail"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17DC80"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431DC80</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>160</ID>
+              <Description>"Lancer's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17DDC8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431DDC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>175</ID>
+              <Description>"Mage's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17DF10"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431DF10</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>170</ID>
+              <Description>"Warrior's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17E058"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431E058</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>174</ID>
+              <Description>"Thief's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17E1A0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431E1A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>173</ID>
+              <Description>"Swordsman's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17E2E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431E2E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>167</ID>
+              <Description>"Monk's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17E430"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431E430</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>166</ID>
+              <Description>"Samurai's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17E6C0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431E6C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>161</ID>
+              <Description>"Pugilist's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17E808"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431E808</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>179</ID>
+              <Description>"Pilgrim's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17E950"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431E950</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>182</ID>
+              <Description>"Evoker's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17EA98"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431EA98</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>188</ID>
+              <Description>"Bronze Grimoire"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17EBE0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431EBE0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>197</ID>
+              <Description>"Silver Pentacle"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17ED28"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431ED28</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>192</ID>
+              <Description>"Mythril Grimoire"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17EE70"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431EE70</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>189</ID>
+              <Description>"Prismatic Grimoire"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17EFB8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431EFB8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>196</ID>
+              <Description>"Prismatic Pentacle"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17F100"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431F100</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>193</ID>
+              <Description>"Mythril Pentacle"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17F248"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431F248</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>190</ID>
+              <Description>"Silver Grimoire"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17F390"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431F390</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>194</ID>
+              <Description>"Black Mage's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17F4D8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431F4D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>191</ID>
+              <Description>"Diamond Grimoire"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17F768"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431F768</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>195</ID>
+              <Description>"Diamond Pentacle"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17F8B0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431F8B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>209</ID>
+              <Description>"Bronze Pentacle"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17F9F8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431F9F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>210</ID>
+              <Description>"Dragoon's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17FB40"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431FB40</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>211</ID>
+              <Description>"Hunter's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17FC88"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431FC88</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>213</ID>
+              <Description>"Gambler's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17FDD0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431FDD0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>212</ID>
+              <Description>"Assassin's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF17FF18"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+431FF18</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>208</ID>
+              <Description>"Order Grimoire Scrap"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF180060"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4320060</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>214</ID>
+              <Description>"Cosmic Sphere"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1801A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43201A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>216</ID>
+              <Description>"Cosmic Insignia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1802F0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43202F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>219</ID>
+              <Description>"Greater Order Eidolith of Compassion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF180438"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4320438</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>217</ID>
+              <Description>"Order Eidolith of Hope"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF180580"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4320580</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>222</ID>
+              <Description>"Order Grimoire"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1806C8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43206C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>225</ID>
+              <Description>"Blue Mage's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF180810"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4320810</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>224</ID>
+              <Description>"Ninja's Crest"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF180958"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4320958</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>241</ID>
+              <Description>"Greater Order Eidolith of Courage"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF180AA0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4320AA0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>223</ID>
+              <Description>"Flawless Order Eidolith of Seeking"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF180BE8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4320BE8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>238</ID>
+              <Description>"Greater Order Magicite"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF180D30"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4320D30</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>244</ID>
+              <Description>"Greater Pentacle of Order"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF180E78"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4320E78</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>233</ID>
+              <Description>"Order Eidolith of Seeking"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF180FC0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4320FC0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>228</ID>
+              <Description>"Lesser Pentacle of Order"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF181108"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4321108</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>245</ID>
+              <Description>"Order Compendium"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF181250"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4321250</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>246</ID>
+              <Description>"Mega-Cosmic Sphere"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF181398"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4321398</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>231</ID>
+              <Description>"Cosmic Plate"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1814E0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43214E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>239</ID>
+              <Description>"Hi-Cosmic Plate"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF181628"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4321628</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>234</ID>
+              <Description>"Order Eidolith of Compassion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF181770"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4321770</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>237</ID>
+              <Description>"Hi-Cosmic Materia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1818B8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43218B8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>229</ID>
+              <Description>"Cosmic Materia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF181A00"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4321A00</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>230</ID>
+              <Description>"Order Magicite"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF181B48"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4321B48</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>232</ID>
+              <Description>"Order Eidolith of Courage"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF181C90"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4321C90</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>235</ID>
+              <Description>"Pentacle of Order"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF181DD8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4321DD8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>236</ID>
+              <Description>"Hi-Cosmic Sphere"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF181F20"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4321F20</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>240</ID>
+              <Description>"Hi-Cosmic Insignia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF182068"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4322068</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>242</ID>
+              <Description>"Greater Order Eidolith of Hope"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1821B0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43221B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>243</ID>
+              <Description>"Greater Order Eidolith of Seeking"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1822F8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43222F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>247</ID>
+              <Description>"Mega-Cosmic Materia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF182440"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4322440</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>248</ID>
+              <Description>"Flawless Order Magicite"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF182588"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4322588</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>249</ID>
+              <Description>"Mega-Cosmic Plate"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1826D0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43226D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>250</ID>
+              <Description>"Mega-Cosmic Insignia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF182818"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4322818</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>251</ID>
+              <Description>"Flawless Order Eidolith of Courage"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF182960"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4322960</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>252</ID>
+              <Description>"Flawless Order Eidolith of Hope"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF182AA8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4322AA8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>253</ID>
+              <Description>"Flawless Order Eidolith of Compassion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF182BF0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4322BF0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>254</ID>
+              <Description>"Ultimate Pentacle"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF182D38"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4322D38</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>255</ID>
+              <Description>"Ultimate Grimoire"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF182E80"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4322E80</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>256</ID>
+              <Description>"Ultima Sphere"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF182FC8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4322FC8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>257</ID>
+              <Description>"Ultimate Materia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF183110"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4323110</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>258</ID>
+              <Description>"Ultimate Magicite"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF183258"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4323258</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>259</ID>
+              <Description>"Ultimate Plate"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1833A0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43233A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>260</ID>
+              <Description>"Ultimate Insignia"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1834E8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43234E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>261</ID>
+              <Description>"Eidolith of Ultimate Courage"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF183630"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4323630</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>262</ID>
+              <Description>"Eidolith of Ultimate Hope"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF183778"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4323778</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>263</ID>
+              <Description>"Eidolith of Ultimate Discovery"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF1838C0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+43238C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>264</ID>
+              <Description>"Eidolith of Ultimate Devotion"</Description>
+              <LastState Value="9999" Activated="1" RealAddress="7FF6FF183A08"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>SOPFFO.exe+4323A08</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>227</ID>
+      <Description>"Currency"</Description>
+      <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>157</ID>
+          <Description>"Dragon Treasure"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF5FB77C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+479B77C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>226</ID>
+          <Description>"Void Treasure"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF5FC190"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+479C190</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>267</ID>
+          <Description>"Manikin Material"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF5FC4FC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+479C4FC</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>184</ID>
+      <Description>"Rift Labyrinth"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>183</ID>
+          <Description>"Gil"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF016028"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+41B6028</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>186</ID>
+          <Description>"Summonstone"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF016F4C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+41B6F4C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>200</ID>
+          <Description>"Greater Summonstone"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF016FC4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+41B6FC4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>185</ID>
+          <Description>"Hard Nut"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF016F5C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+41B6F5C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>187</ID>
+          <Description>"Arcanium Powder"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF016FA4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+41B6FA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>202</ID>
+          <Description>"Magic Feed"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF016FAC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+41B6FAC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>203</ID>
+          <Description>"Limbering Liver"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF016FB4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+41B6FB4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>205</ID>
+          <Description>"Arcanium Elixir"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF016FBC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+41B6FBC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>207</ID>
+          <Description>"Muscle Meat"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF016FCC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+41B6FCC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>215</ID>
+          <Description>"Arcanium Crystal"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF016FDC"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+41B6FDC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>221</ID>
+          <Description>"Flawless Summonstone"</Description>
+          <LastState Value="999999" Activated="1" RealAddress="7FF6FF016FE4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>SOPFFO.exe+41B6FE4</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
