@@ -1,0 +1,2476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>16</ID>
+      <Description>"Experience"</Description>
+      <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"Training Experience"</Description>
+          <LastState Value="3110660" RealAddress="1466F7A24"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7A24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"Swordsman Experience"</Description>
+          <LastState Value="40" RealAddress="1466F7A28"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7A28</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"Gunman Experience"</Description>
+          <LastState Value="230" RealAddress="1466F7A2C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7A2C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"Wild Dancer Experience"</Description>
+          <LastState Value="10" RealAddress="1466F7A30"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7A30</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"Brawler Experience"</Description>
+          <LastState Value="180" RealAddress="1466F7A34"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7A34</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Orbs"</Description>
+      <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"Swordsman Orbs"</Description>
+          <LastState Value="99" Activated="1" RealAddress="1466F7AF8"/>
+          <VariableType>Byte</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7AF8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"Gunman Orbs"</Description>
+          <LastState Value="99" Activated="1" RealAddress="1466F7AF9"/>
+          <VariableType>Byte</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7AF9</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>23</ID>
+          <Description>"Wild Dancer Orbs"</Description>
+          <LastState Value="99" Activated="1" RealAddress="1466F7AFA"/>
+          <VariableType>Byte</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7AFA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"Brawler Orbs"</Description>
+          <LastState Value="99" Activated="1" RealAddress="1466F7AFB"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7AFB</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"Training Orbs"</Description>
+          <LastState Value="99" Activated="1" RealAddress="1466F7AFC"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7AFC</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Inventory"</Description>
+      <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"Produce"</Description>
+          <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>31</ID>
+              <Description>"Cucumber"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702D2A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6702D2A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>38</ID>
+              <Description>"Potato"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702D42"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6702D42</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>72</ID>
+              <Description>"Daikon"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702D5A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702D5A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>208</ID>
+              <Description>"Carrot"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702D72"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702D72</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>209</ID>
+              <Description>"Spinach"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702D8A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702D8A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>210</ID>
+              <Description>"Sweet Potato"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702DA2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702DA2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>211</ID>
+              <Description>"Broad Bean"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702DBA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702DBA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>32</ID>
+              <Description>"Onion"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702DD2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6702DD2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>33</ID>
+              <Description>"Eggplant"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702DEA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6702DEA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>34</ID>
+              <Description>"Green Onion"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702E02"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6702E02</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>219</ID>
+              <Description>"Turnip"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702E1A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702E1A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>229</ID>
+              <Description>"Pumpkin"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702E32"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702E32</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>221</ID>
+              <Description>"Burdock Root"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702E4A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702E4A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>35</ID>
+              <Description>"Ginger"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702E62"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6702E62</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>230</ID>
+              <Description>"Garlic"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702E7A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702E7A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>231</ID>
+              <Description>"Bok Choy"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702E92"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702E92</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>36</ID>
+              <Description>"Hot Pepper"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702EAA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6702EAA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>37</ID>
+              <Description>"Strawberry"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702EC2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6702EC2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>232</ID>
+              <Description>"Cabbage"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702EDA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702EDA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>233</ID>
+              <Description>"Taro"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702EF2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702EF2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>77</ID>
+              <Description>"Tomato"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702F0A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702F0A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>200</ID>
+              <Description>"Ginseng"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702F22"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702F22</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>29</ID>
+              <Description>"Egg"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702F3A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6702F3A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>28</ID>
+              <Description>"Udon Flour"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702F52"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6702F52</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>194</ID>
+              <Description>"Honey"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702F6A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702F6A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>195</ID>
+              <Description>"Ginkgo"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702F82"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702F82</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>196</ID>
+              <Description>"Out-of-season Plum"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146702F9A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6702F9A</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"Seafood"</Description>
+          <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>177</ID>
+              <Description>"Crawfish"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670302A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670302A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>316</ID>
+              <Description>"Whitebait"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703042"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703042</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>259</ID>
+              <Description>"Goby"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670305A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670305A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>317</ID>
+              <Description>"Porcupinefish"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703072"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703072</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>173</ID>
+              <Description>"Crucian Carp"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670308A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670308A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>4</ID>
+              <Description>"Sweetfish"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467030A2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+67030A2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>8</ID>
+              <Description>"Squid"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467030BA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+67030BA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>39</ID>
+              <Description>"Freshwater Eel"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467030D2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+67030D2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>40</ID>
+              <Description>"Electric Catfish"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467030EA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+67030EA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>41</ID>
+              <Description>"Thread-Sail Filefish"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703102"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6703102</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>42</ID>
+              <Description>"Tiger Prawn"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670311A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+670311A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>178</ID>
+              <Description>"Carp"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703132"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703132</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>9</ID>
+              <Description>"Common Octopus"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670314A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+670314A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>43</ID>
+              <Description>"Conger Eel"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703162"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6703162</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>44</ID>
+              <Description>"Scorpionfish"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670317A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+670317A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>45</ID>
+              <Description>"Righteye Flounder"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703192"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6703192</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>46</ID>
+              <Description>"Softshell Turtle"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467031AA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+67031AA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>318</ID>
+              <Description>"Spider Crab"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467031C2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67031C2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>319</ID>
+              <Description>"Nishikigoi"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467031DA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67031DA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>47</ID>
+              <Description>"Rainbow Trout"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467031F2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+67031F2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>48</ID>
+              <Description>"Salmon"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670320A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+670320A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>320</ID>
+              <Description>"Japanese Puffer"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703222"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703222</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>321</ID>
+              <Description>"Great White Shark"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670323A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670323A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>7</ID>
+              <Description>"Sea Breem"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703252"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6703252</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>49</ID>
+              <Description>"Stringfish"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670326A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+670326A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>322</ID>
+              <Description>"Marlin"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703282"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703282</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>323</ID>
+              <Description>"Ghost Koi"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670329A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670329A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>324</ID>
+              <Description>"Bluefin Tuna"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467032B2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67032B2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>325</ID>
+              <Description>"Oarfish"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467032CA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67032CA</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>14</ID>
+          <Description>"Materials"</Description>
+          <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>26</ID>
+              <Description>"Iron Scrap"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467034AA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+67034AA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>79</ID>
+              <Description>"Metal Sheet"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467034C2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67034C2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>13</ID>
+              <Description>"Precious Steel"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467034DA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+67034DA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>274</ID>
+              <Description>"Silver Scrap"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467034F2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67034F2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>303</ID>
+              <Description>"Gold Nugget"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670350A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670350A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>297</ID>
+              <Description>"Gold Chunk"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703522"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703522</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>326</ID>
+              <Description>"Platinum Filings"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670353A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670353A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>256</ID>
+              <Description>"Platinum Chunk"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703552"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703552</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>327</ID>
+              <Description>"Rainbow Shard"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670356A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670356A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>27</ID>
+              <Description>"Misshapen Screw"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703582"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6703582</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>120</ID>
+              <Description>"New Screw"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670359A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670359A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>151</ID>
+              <Description>"Worn Out Cogwheel"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467035B2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67035B2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>25</ID>
+              <Description>"Exquisite Cogwheel"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467035CA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+67035CA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>298</ID>
+              <Description>"Rusty Spring"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467035E2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67035E2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>81</ID>
+              <Description>"Small Wind-Up Device"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467035FA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67035FA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>328</ID>
+              <Description>"Mechanical Parts"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703612"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703612</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>118</ID>
+              <Description>"Broken Compass"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670362A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670362A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>329</ID>
+              <Description>"Precise Machinery"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703642"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703642</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>109</ID>
+              <Description>"Dead Branch"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670365A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670365A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>103</ID>
+              <Description>"Solid Wood"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703672"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703672</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>87</ID>
+              <Description>"Soft Lumber"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670368A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670368A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>248</ID>
+              <Description>"Sturdy Lumber"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467036A2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67036A2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>330</ID>
+              <Description>"Driftwood"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467036BA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67036BA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>331</ID>
+              <Description>"Thousand-Year Tree Branch"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467036D2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67036D2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>332</ID>
+              <Description>"Sacred Wood"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467036EA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67036EA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>115</ID>
+              <Description>"Quality Hide"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703702"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703702</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>152</ID>
+              <Description>"Beautiful Pelt"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670371A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670371A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>144</ID>
+              <Description>"Wild Silk"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703732"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703732</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>249</ID>
+              <Description>"Beast's Tail"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670374A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670374A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>333</ID>
+              <Description>"Fine Horse's Mane"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703762"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703762</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>334</ID>
+              <Description>"Vermilion Fabric"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670377A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670377A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>182</ID>
+              <Description>"Fine Silk Fabric"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703792"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703792</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>250</ID>
+              <Description>"European Fabric"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467037AA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67037AA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>275</ID>
+              <Description>"Rainbow Fabric"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467037C2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67037C2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>141</ID>
+              <Description>"Iron Hammer"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467037DA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67037DA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>153</ID>
+              <Description>"Bronze Hammer"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467037F2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67037F2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>163</ID>
+              <Description>"Silver Hammer"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670380A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670380A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>191</ID>
+              <Description>"Gold Hammer"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703822"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703822</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>335</ID>
+              <Description>"Kiwami Hammer"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670383A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670383A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>336</ID>
+              <Description>"Brown Metal Dust"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703852"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703852</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>337</ID>
+              <Description>"Green Metal Dust"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670386A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670386A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>338</ID>
+              <Description>"Grey Metal Dust"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703882"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703882</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>339</ID>
+              <Description>"Black Metal Dust"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670389A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670389A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>340</ID>
+              <Description>"White Metal Dust"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467038B2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67038B2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>341</ID>
+              <Description>"Bronze Metal Dust"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467038CA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67038CA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>342</ID>
+              <Description>"Silver Metal Dust"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467038E2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67038E2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>343</ID>
+              <Description>"Gold Metal Dust"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467038FA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67038FA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>257</ID>
+              <Description>"Grinding Stone"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703912"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703912</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>88</ID>
+              <Description>"Charcoal"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670392A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670392A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>126</ID>
+              <Description>"Volcanic Rock Fragment"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703942"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703942</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>105</ID>
+              <Description>"Ceramic Sake Bottle"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670395A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670395A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>116</ID>
+              <Description>"Crooked Magnet"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703972"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703972</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>263</ID>
+              <Description>"Cloudy Hand Mirror"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670398A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670398A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>226</ID>
+              <Description>"Cracked Cutting Board"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467039A2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67039A2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>156</ID>
+              <Description>"Lime Powder"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467039BA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67039BA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>308</ID>
+              <Description>"Beautiful Leaf"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467039D2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67039D2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>96</ID>
+              <Description>"Amber"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467039EA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67039EA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>193</ID>
+              <Description>"Picture of a Ghost"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703A02"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703A02</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>158</ID>
+              <Description>"Gold Dust"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703A1A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703A1A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>159</ID>
+              <Description>"Lead Chunk"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703A32"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703A32</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>344</ID>
+              <Description>"Emerald"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703A4A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703A4A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>125</ID>
+              <Description>"Pearl"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703A62"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703A62</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>299</ID>
+              <Description>"Elegant Hair Ornament"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703A7A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703A7A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>161</ID>
+              <Description>"Obsidian Chunk"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703A92"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703A92</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>345</ID>
+              <Description>"Carved Wooden Bear"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703AAA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703AAA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>305</ID>
+              <Description>"Ominous Prayer Beads"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703AC2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703AC2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>302</ID>
+              <Description>"Fluorite"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703ADA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703ADA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>309</ID>
+              <Description>"Broken Awl"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703AF2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703AF2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>97</ID>
+              <Description>"Ronin's Hair Tie"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703B0A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703B0A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>346</ID>
+              <Description>"Straw Effigy"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703B22"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703B22</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>347</ID>
+              <Description>"Water God Stone"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703B3A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703B3A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>224</ID>
+              <Description>"Flint Stone"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703B52"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703B52</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>348</ID>
+              <Description>"Jet Black Belt"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703B6A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703B6A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>311</ID>
+              <Description>"Killer's Handcuffs"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703B82"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703B82</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>313</ID>
+              <Description>"Marksman's Fan"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703B9A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703B9A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>349</ID>
+              <Description>"Bloodstained Cloth"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703BB2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703BB2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>315</ID>
+              <Description>"Aquamarine"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703BCA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703BCA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>286</ID>
+              <Description>"Gold Seal"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703BE2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703BE2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>350</ID>
+              <Description>"Charming Doll"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703BFA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703BFA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>351</ID>
+              <Description>"Tear of the Dragon"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703C12"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703C12</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98</ID>
+              <Description>"Crystal"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703C2A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703C2A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>251</ID>
+              <Description>"Phoenix Feather"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703C42"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703C42</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>352</ID>
+              <Description>"Ancient Amulet"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703C5A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703C5A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>353</ID>
+              <Description>"Crimson Bead"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703C72"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703C72</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>354</ID>
+              <Description>"Eye of the Dragon"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703C8A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703C8A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>355</ID>
+              <Description>"Golden Medicine Case"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703CA2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703CA2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>356</ID>
+              <Description>"Great Serpent Skin"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703CBA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703CBA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>357</ID>
+              <Description>"Godslayer's Talisman"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703CD2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703CD2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>358</ID>
+              <Description>"Dragon Whisker"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703CEA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703CEA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>186</ID>
+              <Description>"Dragon Fang"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703D02"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703D02</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>359</ID>
+              <Description>"Provincial Dojo Certificate"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703D1A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703D1A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>360</ID>
+              <Description>"Snake Eyepatch"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703D32"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703D32</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>361</ID>
+              <Description>"Torn Haori"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703D4A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703D4A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>279</ID>
+              <Description>"Firework Ball"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703D62"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703D62</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>362</ID>
+              <Description>"Sphere Seal: Educated"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703D7A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703D7A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>363</ID>
+              <Description>"Sphere Seal: Loyalty"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703D92"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703D92</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>364</ID>
+              <Description>"Sphere Seal: Corporal"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703DAA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703DAA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>142</ID>
+              <Description>"Sphere Seal: Attack"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703DC2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703DC2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>365</ID>
+              <Description>"Sphere Seal: Fierce Attack"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703DDA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703DDA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>366</ID>
+              <Description>"Sphere Seal: Pierce"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703DF2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703DF2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>367</ID>
+              <Description>"Sphere Seal: Crush"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703E0A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703E0A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>368</ID>
+              <Description>"Sphere Seal: Madness"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703E22"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703E22</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>369</ID>
+              <Description>"Square Seal: Raging Flame"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703E3A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703E3A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>370</ID>
+              <Description>"Square Seal: Champion"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703E52"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703E52</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>371</ID>
+              <Description>"Sword Seal: Mighty"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703E6A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703E6A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>372</ID>
+              <Description>"Sword Seal: Composure"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703E82"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703E82</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>373</ID>
+              <Description>"Sword Seal: Fierce Deity"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703E9A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703E9A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>374</ID>
+              <Description>"Gun Seal: Double Shot"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703EB2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703EB2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>375</ID>
+              <Description>"Exclusive Seal: Rapid Fire"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703ECA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703ECA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>376</ID>
+              <Description>"Exclusive Seal: Flash Fire"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703EE2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703EE2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>377</ID>
+              <Description>"Square Seal: Brawl"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703EFA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703EFA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>378</ID>
+              <Description>"Square Seal: Fierce Battle"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703F12"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703F12</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>379</ID>
+              <Description>"Exclusive Seal: Grip"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703F2A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703F2A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>380</ID>
+              <Description>"Sphere Seal: Drunken Craze"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703F42"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703F42</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>381</ID>
+              <Description>"Sphere Seal: Fighting Spirit"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703F5A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703F5A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>382</ID>
+              <Description>"Sphere Seal: On the Brink"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703F72"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703F72</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>383</ID>
+              <Description>"Sphere Seal: Special Moves"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703F8A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703F8A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>384</ID>
+              <Description>"Square Seal: Drunken Craze"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703FA2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703FA2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>385</ID>
+              <Description>"Square Seal: Fighting Spirit"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703FBA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703FBA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>386</ID>
+              <Description>"Square Seal: On the Brink"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703FD2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703FD2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>387</ID>
+              <Description>"Square Seal: Special Moves"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146703FEA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6703FEA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>388</ID>
+              <Description>"Exclusive Seal: Calm"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704002"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704002</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>389</ID>
+              <Description>"Gun Seal: Sure Shot"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670401A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670401A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>390</ID>
+              <Description>"Exclusive Seal: Tiger"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704032"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704032</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>391</ID>
+              <Description>"Exclusive Seal: Kiku"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670404A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670404A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>392</ID>
+              <Description>"Exclusive Seal: Ujishige"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704062"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704062</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>393</ID>
+              <Description>"Sphere Seal: Elements"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670407A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670407A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>394</ID>
+              <Description>"Sphere Seal: Bewitched"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704092"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704092</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>395</ID>
+              <Description>"Exclusive Seal: Flame"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467040AA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67040AA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>396</ID>
+              <Description>"Exclusive Seal: Wind"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467040C2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67040C2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>397</ID>
+              <Description>"Exclusive Seal: Thunder"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467040DA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67040DA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>398</ID>
+              <Description>"Exclusive Seal: Light"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467040F2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67040F2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>399</ID>
+              <Description>"Exclusive Seal: Poison"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670410A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670410A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>400</ID>
+              <Description>"Square Seal: Reversal"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704122"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704122</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>119</ID>
+              <Description>"Square Seal: Bleached Cloth"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670413A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670413A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>401</ID>
+              <Description>"Square Seal: Chain Mail"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704152"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704152</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>402</ID>
+              <Description>"Sphere Seal: Endurance"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670416A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670416A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>403</ID>
+              <Description>"Sphere Seal: Adamantine"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704182"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704182</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>404</ID>
+              <Description>"Exclusive Seal: Bullets"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670419A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670419A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>405</ID>
+              <Description>"Exclusive Seal: Blades"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467041B2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67041B2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>406</ID>
+              <Description>"Square Seal: Durable"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467041CA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67041CA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>407</ID>
+              <Description>"Square Seal: Fireproof"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467041E2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67041E2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>408</ID>
+              <Description>"Square Seal: Antidote"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467041FA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67041FA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>409</ID>
+              <Description>"Square Seal: Hemostasis"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704212"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704212</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>410</ID>
+              <Description>"Square Seal: Awakened"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670422A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670422A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>411</ID>
+              <Description>"Sphere Seal: Experience"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704242"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704242</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>412</ID>
+              <Description>"Square Seal: Experience"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670425A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670425A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>99</ID>
+              <Description>"Sphere Seal: Greed"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704272"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704272</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>413</ID>
+              <Description>"Exclusive Seal: Damned"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670428A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670428A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>414</ID>
+              <Description>"Square Seal: Heavy Drinker"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467042A2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67042A2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>415</ID>
+              <Description>"Square Seal: Reverance"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467042BA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67042BA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>416</ID>
+              <Description>"Square Seal: Virtuous"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467042D2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67042D2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>417</ID>
+              <Description>"Exclusive Seal: Sense"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467042EA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67042EA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>418</ID>
+              <Description>"Exclusive Seal: Perception"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704302"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704302</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>419</ID>
+              <Description>"Exclusive Seal: Scout"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670431A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670431A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>420</ID>
+              <Description>"Exclusive Seal: Conflict"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704332"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704332</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>421</ID>
+              <Description>"Exclusive Seal: Coin"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670434A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670434A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>422</ID>
+              <Description>"Sphere Seal: Repentance"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704362"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704362</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>423</ID>
+              <Description>"Square Seal: Blessing"</Description>
+              <LastState Value="999" Activated="1" RealAddress="14670437A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+670437A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>100</ID>
+              <Description>"Sphere Seal: Kiwami"</Description>
+              <LastState Value="999" Activated="1" RealAddress="146704392"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+6704392</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>424</ID>
+              <Description>"Square Seal: Kiwami"</Description>
+              <LastState Value="999" Activated="1" RealAddress="1467043AA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+67043AA</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>67</ID>
+          <Description>"Valuables"</Description>
+          <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" Activated="1" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>0</ID>
+              <Description>"Mon"</Description>
+              <LastState Value="999999999" Activated="1" RealAddress="146707DD8"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6707DD8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>162</ID>
+              <Description>"Wooden Tags"</Description>
+              <LastState Value="999999999" Activated="1" RealAddress="146707DE8"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6707DE8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>433</ID>
+              <Description>"Mahjong Sticks"</Description>
+              <LastState Value="999999999" Activated="1" RealAddress="146707DF0"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6707DF0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>147</ID>
+              <Description>"Shogi Points"</Description>
+              <LastState Value="999999999" Activated="1" RealAddress="146707DF4"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6707DF4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>24</ID>
+              <Description>"Virtue"</Description>
+              <LastState Value="999999999" Activated="1" RealAddress="146707E08"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6707E08</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>66</ID>
+              <Description>"Prize Tickets"</Description>
+              <LastState Value="999999999" Activated="1" RealAddress="146707E14"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6707E14</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>235</ID>
+      <Description>"Storage"</Description>
+      <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>238</ID>
+          <Description>"Slot 1"</Description>
+          <LastState Value="99" RealAddress="1466F819A"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F819A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>236</ID>
+          <Description>"Slot 2"</Description>
+          <LastState Value="99" RealAddress="1466F81B2"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F81B2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>237</ID>
+          <Description>"Slot 3"</Description>
+          <LastState Value="99" RealAddress="1466F81CA"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F81CA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>239</ID>
+          <Description>"Slot 4"</Description>
+          <LastState Value="99" RealAddress="1466F81E2"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F81E2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>240</ID>
+          <Description>"Slot 5"</Description>
+          <LastState Value="99" RealAddress="1466F81FA"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F81FA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>241</ID>
+          <Description>"Slot 6"</Description>
+          <LastState Value="99" RealAddress="1466F8212"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F8212</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>242</ID>
+          <Description>"Slot 7"</Description>
+          <LastState Value="99" RealAddress="1466F822A"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F822A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>243</ID>
+          <Description>"Slot 8"</Description>
+          <LastState Value="99" RealAddress="1466F8242"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F8242</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>244</ID>
+          <Description>"Slot 9"</Description>
+          <LastState Value="99" RealAddress="1466F825A"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F825A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>245</ID>
+          <Description>"Slot 10"</Description>
+          <LastState Value="99" RealAddress="1466F8272"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F8272</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>246</ID>
+          <Description>"Slot 11"</Description>
+          <LastState Value="99" RealAddress="1466F828A"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F828A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>247</ID>
+          <Description>"Slot 12"</Description>
+          <LastState Value="99" RealAddress="1466F82A2"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66F82A2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>234</ID>
+          <Description>"Scrap Paper"</Description>
+          <LastState Value="99" RealAddress="1466F85A2"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F85A2</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"Ammo"</Description>
+      <Options moRecursiveSetValue="1" moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"Flame Rounds"</Description>
+          <LastState Value="99" Activated="1" RealAddress="1466FE22A"/>
+          <VariableType>Byte</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66FE22A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Enhanced Rounds"</Description>
+          <LastState Value="99" Activated="1" RealAddress="1466FE242"/>
+          <VariableType>Byte</VariableType>
+          <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66FE242</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>187</ID>
+          <Description>"Flash Rounds"</Description>
+          <LastState Value="99" Activated="1" RealAddress="1466FE25A"/>
+          <VariableType>Byte</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66FE25A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>188</ID>
+          <Description>"Thunder Rounds"</Description>
+          <LastState Value="99" Activated="1" RealAddress="1466FE272"/>
+          <VariableType>Byte</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66FE272</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>189</ID>
+          <Description>"Acid Rounds"</Description>
+          <LastState Value="99" Activated="1" RealAddress="1466FE28A"/>
+          <VariableType>Byte</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66FE28A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>190</ID>
+          <Description>"Poison Rounds"</Description>
+          <LastState Value="99" Activated="1" RealAddress="1466FE2A2"/>
+          <VariableType>Byte</VariableType>
+          <Address>LikeaDragonIshin-Win64-Shipping.exe+66FE2A2</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>54</ID>
+      <Description>"Diligence Records"</Description>
+      <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description>"Adventure"</Description>
+          <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>52</ID>
+              <Description>"Talk to People/Animals"</Description>
+              <LastState Value="500" RealAddress="1466F749A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F749A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>51</ID>
+              <Description>"Eat at Restaurant"</Description>
+              <LastState Value="200" RealAddress="1466F749C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F749C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>55</ID>
+              <Description>"Obtain Item from Pot"</Description>
+              <LastState Value="100" RealAddress="1466F749E"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F749E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>56</ID>
+              <Description>"Pray at Shrine/Statue"</Description>
+              <LastState Value="100" RealAddress="1466F74A0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F74A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>68</ID>
+              <Description>"Play Minigames"</Description>
+              <LastState Value="100" RealAddress="1466F74A2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F74A2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>69</ID>
+              <Description>"Eat Food from Inventory"</Description>
+              <LastState Value="400" RealAddress="1466F74A4"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F74A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>70</ID>
+              <Description>"Use Medicine from Inventory"</Description>
+              <LastState Value="200" RealAddress="1466F74A6"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F74A6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>150</ID>
+              <Description>"Travel by Palanquin"</Description>
+              <LastState Value="30" RealAddress="1466F74A8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F74A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>287</ID>
+              <Description>"Ryo Spent"</Description>
+              <LastState Value="500" RealAddress="1466F74AA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F74AA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>306</ID>
+              <Description>"Draw Water from Well"</Description>
+              <LastState Value="50" RealAddress="1466F74D6"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F74D6</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>439</ID>
+              <Description>"Deliver Packages"</Description>
+              <LastState Value="4" RealAddress="1466F74D8"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F74D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>437</ID>
+              <Description>"Chop Logs"</Description>
+              <LastState Value="500" RealAddress="1466F74DA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F74DA</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>172</ID>
+          <Description>"Another Life"</Description>
+          <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>207</ID>
+              <Description>"Produce Harvested"</Description>
+              <LastState Value="1500" RealAddress="1466F7480"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7480</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>213</ID>
+              <Description>"Ginseng Harvested"</Description>
+              <LastState Value="50" RealAddress="1466F7482"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7482</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>214</ID>
+              <Description>"Cabbage Harvested"</Description>
+              <LastState Value="100" RealAddress="1466F7484"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7484</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>215</ID>
+              <Description>"Taro Harvested"</Description>
+              <LastState Value="100" RealAddress="1466F7486"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7486</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>216</ID>
+              <Description>"Tomato Harvested"</Description>
+              <LastState Value="100" RealAddress="1466F7488"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7488</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>217</ID>
+              <Description>"Strawberry Harvested"</Description>
+              <LastState Value="100" RealAddress="1466F748A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F748A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>218</ID>
+              <Description>"Times Cooked"</Description>
+              <LastState Value="100" RealAddress="1466F748C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F748C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>444</ID>
+              <Description>"Times Played with Dog"</Description>
+              <LastState Value="4" RealAddress="1466F748E"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F748E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>445</ID>
+              <Description>"Times Played with Cat"</Description>
+              <LastState Value="4" RealAddress="1466F7490"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7490</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>212</ID>
+              <Description>"Eggs Collected"</Description>
+              <LastState Value="30" RealAddress="1466F7492"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7492</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>228</ID>
+              <Description>"Trade Orders Fulfilled"</Description>
+              <LastState Value="200" RealAddress="1466F7494"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7494</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>171</ID>
+              <Description>"Fish Caught"</Description>
+              <LastState Value="100" RealAddress="1466F7496"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7496</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>440</ID>
+              <Description>"Tuna Caught"</Description>
+              <LastState Value="9" RealAddress="1466F7498"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7498</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>128</ID>
+          <Description>"Friendships (Shops)"</Description>
+          <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>183</ID>
+              <Description>"Bond with Utamaruyu Owner"</Description>
+              <LastState Value="100" RealAddress="1466F7424"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7424</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>130</ID>
+              <Description>"Bond with Umai Udon Owner"</Description>
+              <LastState Value="100" RealAddress="1466F7426"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7426</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>202</ID>
+              <Description>"Bond with Maijo-Sensei"</Description>
+              <LastState Value="100" RealAddress="1466F7428"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7428</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>431</ID>
+              <Description>"Bond with Shinto Priest"</Description>
+              <LastState Value="100" RealAddress="1466F742A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F742A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>430</ID>
+              <Description>"Bond with Akari"</Description>
+              <LastState Value="100" RealAddress="1466F742C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F742C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>198</ID>
+              <Description>"Bond with Hanamaru Udon Employee"</Description>
+              <LastState Value="100" RealAddress="1466F742E"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F742E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>206</ID>
+              <Description>"Bond with Anna"</Description>
+              <LastState Value="100" RealAddress="1466F7430"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7430</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>434</ID>
+              <Description>"Bond with Mahjong House Residents"</Description>
+              <LastState Value="100" RealAddress="1466F7432"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7432</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>145</ID>
+              <Description>"Bond with Shogi Parlor Owner"</Description>
+              <LastState Value="100" RealAddress="1466F7434"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7434</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>184</ID>
+              <Description>"Bond with Chicken Race Receptionist"</Description>
+              <LastState Value="100" RealAddress="1466F7438"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7438</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>129</ID>
+              <Description>"Bond with Ichikura Owner"</Description>
+              <LastState Value="100" RealAddress="1466F743A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F743A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>203</ID>
+              <Description>"Bond with Sushi Zanmai Chef"</Description>
+              <LastState Value="100" RealAddress="1466F743C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F743C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>170</ID>
+              <Description>"Bond with Fukufuku Pub Owner"</Description>
+              <LastState Value="100" RealAddress="1466F743E"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F743E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>127</ID>
+              <Description>"Bond with Uji Tea Parlor Girl"</Description>
+              <LastState Value="100" RealAddress="1466F7442"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7442</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>197</ID>
+              <Description>"Bond with Don Quijote Employee"</Description>
+              <LastState Value="100" RealAddress="1466F7444"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7444</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>199</ID>
+              <Description>"Bond with Ebisu Pawnbroker"</Description>
+              <LastState Value="100" RealAddress="1466F7446"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7446</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>205</ID>
+              <Description>"Bond with Kasuga Okami"</Description>
+              <LastState Value="100" RealAddress="1466F7448"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7448</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>204</ID>
+              <Description>"Bond with Kitchen Aoba Chef"</Description>
+              <LastState Value="100" RealAddress="1466F744A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F744A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>131</ID>
+              <Description>"Bond with Greengrocer"</Description>
+              <LastState Value="100" RealAddress="1466F744C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F744C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>132</ID>
+              <Description>"Bond with Rakugai Arms Dealer"</Description>
+              <LastState Value="100" RealAddress="1466F744E"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F744E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>149</ID>
+              <Description>"Bond with Palanquin Bearer"</Description>
+              <LastState Value="100" RealAddress="1466F7452"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7452</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>201</ID>
+              <Description>"Bond with Momokawa Brothers"</Description>
+              <LastState Value="100" RealAddress="1466F7454"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7454</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>261</ID>
+          <Description>"Friendships"</Description>
+          <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>435</ID>
+              <Description>"Bond with Servile Beggar"</Description>
+              <LastState Value="99" RealAddress="1466F7456"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7456</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>429</ID>
+              <Description>"Bond with Revolutionary Chef"</Description>
+              <LastState Value="100" RealAddress="1466F745A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F745A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>446</ID>
+              <Description>"Bond with Love-Starved Husband"</Description>
+              <LastState Value="99" RealAddress="1466F745C"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F745C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>264</ID>
+              <Description>"Bond with Sword Nut"</Description>
+              <LastState Value="99" RealAddress="1466F745E"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F745E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>426</ID>
+              <Description>"Bond with Battered Defender"</Description>
+              <LastState Value="100" RealAddress="1466F7460"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7460</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>265</ID>
+              <Description>"Bond with Amnesiac"</Description>
+              <LastState Value="100" RealAddress="1466F7462"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7462</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>273</ID>
+              <Description>"Bond with Oblivious Woman"</Description>
+              <LastState Value="99" RealAddress="1466F7464"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7464</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>280</ID>
+              <Description>"Bond with Veggie-Loving Boy"</Description>
+              <LastState Value="99" RealAddress="1466F7466"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7466</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>262</ID>
+              <Description>"Bond with Desperate Fisherman"</Description>
+              <LastState Value="100" RealAddress="1466F7468"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7468</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>427</ID>
+              <Description>"Bond with Injured Grandma"</Description>
+              <LastState Value="100" RealAddress="1466F746A"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F746A</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>428</ID>
+              <Description>"Bond with Sexy Madam"</Description>
+              <LastState Value="100" RealAddress="1466F746E"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F746E</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>260</ID>
+              <Description>"Bond with Junk Boy"</Description>
+              <LastState Value="99" RealAddress="1466F7470"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7470</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>432</ID>
+              <Description>"Bond with Trash Dealer"</Description>
+              <LastState Value="99" RealAddress="1466F7472"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7472</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>438</ID>
+              <Description>"Bond with Wood Cutter"</Description>
+              <LastState Value="100" RealAddress="1466F74D4"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F74D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>441</ID>
+              <Description>"Bond with Frequently Lost Courier"</Description>
+              <LastState Value="30" RealAddress="1466F7450"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7450</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>436</ID>
+              <Description>"Bond with Injured Dog"</Description>
+              <LastState Value="99" RealAddress="1466F7476"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7476</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>447</ID>
+              <Description>"Bond with Barking Dog"</Description>
+              <LastState Value="99" RealAddress="1466F7478"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F7478</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>272</ID>
+              <Description>"Bond with Lucky Cat"</Description>
+              <LastState Value="99" RealAddress="1466F747E"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F747E</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>102</ID>
+          <Description>"Battle"</Description>
+          <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>101</ID>
+              <Description>"Enemies Defeated"</Description>
+              <LastState Value="500" RealAddress="1466F74AA"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F74AA</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>307</ID>
+              <Description>"Battle Dungeons Cleared"</Description>
+              <LastState Value="100" RealAddress="1466F74AC"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F74AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>425</ID>
+              <Description>"Golden Sneaks Defeated"</Description>
+              <LastState Value="20" RealAddress="1466F74AE"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F74AE</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>108</ID>
+              <Description>"Final Enemies Dispatched with Heat Action/Special Move"</Description>
+              <LastState Value="50" RealAddress="1466F74B0"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F74B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>110</ID>
+              <Description>"Objects Destroyed During Fight"</Description>
+              <LastState Value="50" RealAddress="1466F74B2"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>LikeaDragonIshin-Win64-Shipping.exe+66F74B2</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>312</ID>
+              <Description>"Trooper Abilities Activated"</Description>
+              <LastState Value="1500" RealAddress="1466F7580"/>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F7580</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>166</ID>
+      <Description>"Completion List"</Description>
+      <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>165</ID>
+          <Description>"Minigames"</Description>
+          <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="" RealAddress="00000000"/>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>168</ID>
+              <Description>"Total Cee-lo Points"</Description>
+              <LastState Value="10166" RealAddress="14671CAD8"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+671CAD8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>164</ID>
+              <Description>"Total Koi-Koi Points"</Description>
+              <LastState Value="8339" RealAddress="14671CCDC"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+671CCDC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>169</ID>
+              <Description>"Total Poker Points"</Description>
+              <LastState Value="10924" RealAddress="14671CDD4"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+671CDD4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>167</ID>
+              <Description>"Total Oicho-kabu Points"</Description>
+              <LastState Value="7599" RealAddress="14671D3D4"/>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+671D3D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>185</ID>
+              <Description>"Total Chicken Race Points"</Description>
+              <LastState Value="10026" RealAddress="14671F5D8"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"LikeaDragonIshin-Win64-Shipping.exe"+671F5D8</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>227</ID>
+      <Description>"Haruka Friendliness"</Description>
+      <LastState Value="3000" RealAddress="1466F73D0"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"LikeaDragonIshin-Win64-Shipping.exe"+66F73D0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>192</ID>
+      <Description>"Smithing Experience"</Description>
+      <LastState Value="1048119" RealAddress="146707E38"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"LikeaDragonIshin-Win64-Shipping.exe"+6707E38</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
