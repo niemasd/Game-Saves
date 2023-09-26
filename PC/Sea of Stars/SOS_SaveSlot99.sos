@@ -1,0 +1,501 @@
+£s{
+    "saveId": "SOS_SaveSlot99",
+    "slotIndex": 99,
+    "saveVersion": 0,
+    "saveIterations": 2,
+    "deathCount": 0,
+    "timestamp": 638293299025047650,
+    "empty": false,
+    "lastUsedEntranceId": "fe4c9b35a641bb64185244a17dbfbbb4",
+    "partyProgressData": {
+        "totalXP": 0,
+        "currentLevel": 1,
+        "unspentXP": 0
+    },
+    "characterData": {
+        "keys": [
+            {
+                "characterId": "ZALE"
+            },
+            {
+                "characterId": "SERAI"
+            },
+            {
+                "characterId": "RESHAN"
+            },
+            {
+                "characterId": "MASTER_MORAINE"
+            },
+            {
+                "characterId": "VALERE"
+            },
+            {
+                "characterId": "GARL"
+            },
+            {
+                "characterId": "BST"
+            }
+        ],
+        "values": [
+            {
+                "currentHP": 45,
+                "currentSP": 8,
+                "gaveCharacterStartInventory": false,
+                "equippedWeapon": {
+                    "itemGuid": ""
+                },
+                "equippedArmor": {
+                    "itemGuid": ""
+                },
+                "equippedTrinkets": [
+                    {
+                        "itemGuid": ""
+                    },
+                    {
+                        "itemGuid": ""
+                    }
+                ],
+                "equippedGroupTrinket": {
+                    "itemGuid": ""
+                },
+                "leavePartyInventory": {
+                    "equippedWeapon": {
+                        "itemGuid": ""
+                    },
+                    "equippedArmor": {
+                        "itemGuid": ""
+                    },
+                    "equippedGroupTrinket": {
+                        "itemGuid": ""
+                    },
+                    "equippedTrinkets": []
+                },
+                "permanentModifiersUnlocked": [],
+                "currentVariant": 0,
+                "levelUpStatUpgrades": [],
+                "previousLevelUpAvailableUpgrades": []
+            },
+            {
+                "currentHP": 30,
+                "currentSP": 6,
+                "gaveCharacterStartInventory": false,
+                "equippedWeapon": {
+                    "itemGuid": ""
+                },
+                "equippedArmor": {
+                    "itemGuid": ""
+                },
+                "equippedTrinkets": [
+                    {
+                        "itemGuid": ""
+                    },
+                    {
+                        "itemGuid": ""
+                    }
+                ],
+                "equippedGroupTrinket": {
+                    "itemGuid": ""
+                },
+                "leavePartyInventory": {
+                    "equippedWeapon": {
+                        "itemGuid": ""
+                    },
+                    "equippedArmor": {
+                        "itemGuid": ""
+                    },
+                    "equippedGroupTrinket": {
+                        "itemGuid": ""
+                    },
+                    "equippedTrinkets": []
+                },
+                "permanentModifiersUnlocked": [],
+                "currentVariant": 0,
+                "levelUpStatUpgrades": [],
+                "previousLevelUpAvailableUpgrades": []
+            },
+            {
+                "currentHP": 49,
+                "currentSP": 10,
+                "gaveCharacterStartInventory": false,
+                "equippedWeapon": {
+                    "itemGuid": ""
+                },
+                "equippedArmor": {
+                    "itemGuid": ""
+                },
+                "equippedTrinkets": [
+                    {
+                        "itemGuid": ""
+                    },
+                    {
+                        "itemGuid": ""
+                    }
+                ],
+                "equippedGroupTrinket": {
+                    "itemGuid": ""
+                },
+                "leavePartyInventory": {
+                    "equippedWeapon": {
+                        "itemGuid": ""
+                    },
+                    "equippedArmor": {
+                        "itemGuid": ""
+                    },
+                    "equippedGroupTrinket": {
+                        "itemGuid": ""
+                    },
+                    "equippedTrinkets": []
+                },
+                "permanentModifiersUnlocked": [],
+                "currentVariant": 0,
+                "levelUpStatUpgrades": [],
+                "previousLevelUpAvailableUpgrades": []
+            },
+            {
+                "currentHP": 280,
+                "currentSP": 8,
+                "gaveCharacterStartInventory": false,
+                "equippedWeapon": {
+                    "itemGuid": ""
+                },
+                "equippedArmor": {
+                    "itemGuid": ""
+                },
+                "equippedTrinkets": [
+                    {
+                        "itemGuid": ""
+                    },
+                    {
+                        "itemGuid": ""
+                    }
+                ],
+                "equippedGroupTrinket": {
+                    "itemGuid": ""
+                },
+                "leavePartyInventory": {
+                    "equippedWeapon": {
+                        "itemGuid": ""
+                    },
+                    "equippedArmor": {
+                        "itemGuid": ""
+                    },
+                    "equippedGroupTrinket": {
+                        "itemGuid": ""
+                    },
+                    "equippedTrinkets": []
+                },
+                "permanentModifiersUnlocked": [],
+                "currentVariant": 0,
+                "levelUpStatUpgrades": [],
+                "previousLevelUpAvailableUpgrades": []
+            },
+            {
+                "currentHP": 46,
+                "currentSP": 10,
+                "gaveCharacterStartInventory": false,
+                "equippedWeapon": {
+                    "itemGuid": ""
+                },
+                "equippedArmor": {
+                    "itemGuid": ""
+                },
+                "equippedTrinkets": [
+                    {
+                        "itemGuid": ""
+                    },
+                    {
+                        "itemGuid": ""
+                    }
+                ],
+                "equippedGroupTrinket": {
+                    "itemGuid": ""
+                },
+                "leavePartyInventory": {
+                    "equippedWeapon": {
+                        "itemGuid": ""
+                    },
+                    "equippedArmor": {
+                        "itemGuid": ""
+                    },
+                    "equippedGroupTrinket": {
+                        "itemGuid": ""
+                    },
+                    "equippedTrinkets": []
+                },
+                "permanentModifiersUnlocked": [],
+                "currentVariant": 0,
+                "levelUpStatUpgrades": [],
+                "previousLevelUpAvailableUpgrades": []
+            },
+            {
+                "currentHP": 52,
+                "currentSP": 7,
+                "gaveCharacterStartInventory": false,
+                "equippedWeapon": {
+                    "itemGuid": ""
+                },
+                "equippedArmor": {
+                    "itemGuid": ""
+                },
+                "equippedTrinkets": [
+                    {
+                        "itemGuid": ""
+                    },
+                    {
+                        "itemGuid": ""
+                    }
+                ],
+                "equippedGroupTrinket": {
+                    "itemGuid": ""
+                },
+                "leavePartyInventory": {
+                    "equippedWeapon": {
+                        "itemGuid": ""
+                    },
+                    "equippedArmor": {
+                        "itemGuid": ""
+                    },
+                    "equippedGroupTrinket": {
+                        "itemGuid": ""
+                    },
+                    "equippedTrinkets": []
+                },
+                "permanentModifiersUnlocked": [],
+                "currentVariant": 0,
+                "levelUpStatUpgrades": [],
+                "previousLevelUpAvailableUpgrades": []
+            },
+            {
+                "currentHP": 83,
+                "currentSP": 4,
+                "gaveCharacterStartInventory": false,
+                "equippedWeapon": {
+                    "itemGuid": ""
+                },
+                "equippedArmor": {
+                    "itemGuid": ""
+                },
+                "equippedTrinkets": [
+                    {
+                        "itemGuid": ""
+                    },
+                    {
+                        "itemGuid": ""
+                    }
+                ],
+                "equippedGroupTrinket": {
+                    "itemGuid": ""
+                },
+                "leavePartyInventory": {
+                    "equippedWeapon": {
+                        "itemGuid": ""
+                    },
+                    "equippedArmor": {
+                        "itemGuid": ""
+                    },
+                    "equippedGroupTrinket": {
+                        "itemGuid": ""
+                    },
+                    "equippedTrinkets": []
+                },
+                "permanentModifiersUnlocked": [],
+                "currentVariant": 0,
+                "levelUpStatUpgrades": [],
+                "previousLevelUpAvailableUpgrades": []
+            }
+        ]
+    },
+    "checkpointData": {
+        "savepointId": 0,
+        "position": {
+            "x": 13.979999542236329,
+            "y": 0.002000122796744108,
+            "z": 3.609999895095825
+        },
+        "level": {
+            "levelDefinitionGuid": "bfe9060167f8f0b42ac1c56a554f16a5"
+        },
+        "playerOrientation": 1,
+        "isBoat": false
+    },
+    "disableGameMenuSaveData": false,
+    "progressionSaveData": {
+        "playTime": 6.249847412109375,
+        "currentGameType": 0,
+        "defeatedPermaDeathEnemies": [],
+        "openedChests": [],
+        "unlockedCombatMoves": []
+    },
+    "blackboardDictionary": {
+        "keys": [],
+        "values": []
+    },
+    "gpiStateSaveDatas": "Ai8AAAAAAXAAAABTAHkAcwB0AGUAbQAuAEMAbwBsAGwAZQBjAHQAaQBvAG4AcwAuAEcAZQBuAGUAcgBpAGMALgBEAGkAYwB0AGkAbwBuAGEAcgB5AGAAMgBbAFsAUwB5AHMAdABlAG0ALgBTAHQAcgBpAG4AZwAsACAAbQBzAGMAbwByAGwAaQBiAF0ALABbAEcAUABJAFMAdABhAHQAZQBTAGEAdgBlAEQAYQB0AGEALAAgAEEAcwBzAGUAbQBiAGwAeQAtAEMAUwBoAGEAcgBwAF0AXQAsACAAbQBzAGMAbwByAGwAaQBiAAAAAAABAQgAAABjAG8AbQBwAGEAcgBlAHIALwEAAAABOwAAAFMAeQBzAHQAZQBtAC4AQwBvAGwAbABlAGMAdABpAG8AbgBzAC4ARwBlAG4AZQByAGkAYwAuAEkAbgB0AGUAcgBuAGEAbABTAHQAcgBpAG4AZwBDAG8AbQBwAGEAcgBlAHIALAAgAG0AcwBjAG8AcgBsAGkAYgABAAAABQYAAAAAAAAAAAcF",
+    "gatheringManagerSaveData": {
+        "gatheringNodeStatuses": []
+    },
+    "lootManagerSaveData": {
+        "sequenceLootTableLootGivenCountById": {
+            "keys": [],
+            "values": []
+        },
+        "conchRedeemedCount": 0,
+        "unlockedConchs": [],
+        "unlockedTreasures": [],
+        "fishRedeemedCount": 0
+    },
+    "boatManagerSaveData": {
+        "lastUsedBoatDockId": ""
+    },
+    "achievementSaveData": {
+        "achievementProgression": {
+            "keys": [],
+            "values": []
+        }
+    },
+    "activitySaveData": {
+        "mainActivityReference": {
+            "activityGuid": ""
+        },
+        "subActivityIndex": 0
+    },
+    "codexStatsManagerSaveData": {
+        "codexStatsProgression": {
+            "keys": [],
+            "values": []
+        }
+    },
+    "codexManagerSaveData": {
+        "unlockedCodexSheets": []
+    },
+    "inventorySaveData": {
+        "ownedInventoryItems": {
+            "keys": [],
+            "values": []
+        }
+    },
+    "currencySaveData": {
+        "currencyQuantities": {
+            "keys": [],
+            "values": []
+        }
+    },
+    "relicSaveData": {
+        "enabledRelics": []
+    },
+    "quizSaveData": {
+        "unlockedPackIds": [],
+        "questionsPacksData": {
+            "keys": [],
+            "values": []
+        }
+    },
+    "pirateMusicSaveData": {
+        "unlockedSongs": [
+            {
+                "guid": "0a87fda86471d004ea7664d747ebbf2e"
+            },
+            {
+                "guid": "6f9c49155b12f1442bc0bbec2e888e70"
+            },
+            {
+                "guid": "adccd3c5726cdd54c9623a8c4a8900a8"
+            },
+            {
+                "guid": "3db56f85d4a1d43498a6c95332fb457a"
+            },
+            {
+                "guid": "b34da424af540214ca68a8180724aff5"
+            },
+            {
+                "guid": "df1a43f65bcdf0c488c5a9196cc01570"
+            },
+            {
+                "guid": "d231be2a0b9f2bc4197f8a6f286160a7"
+            },
+            {
+                "guid": "075931239f328ab4b99e4233c3e553d8"
+            },
+            {
+                "guid": "859c3d5e3a4c2894b87723aaf36f5863"
+            }
+        ]
+    },
+    "characterStatsSaveData": {
+        "garlMaxHPOnDeath": 0
+    },
+    "todSaveData": {
+        "paused": true,
+        "time": 12.0,
+        "basePreset": "",
+        "overridePreset": "",
+        "overrideWeight": 0.0,
+        "timeLerper": {
+            "active": false,
+            "speedBased": false,
+            "target": 0.0,
+            "duration": 0.0,
+            "origin": 0.0,
+            "current": 0.0,
+            "direction": 0,
+            "onComplete": 0
+        },
+        "presetLerper": {
+            "active": false,
+            "speedBased": false,
+            "target": 0.0,
+            "duration": 0.0,
+            "origin": 0.0,
+            "current": 0.0,
+            "direction": 0,
+            "onComplete": 0
+        }
+    },
+    "mainCharacter": {
+        "characterId": "ZALE"
+    },
+    "leader": {
+        "characterId": "ZALE"
+    },
+    "currentParty": [
+        {
+            "characterId": "ZALE"
+        },
+        {
+            "characterId": "VALERE"
+        }
+    ],
+    "shelvedParty": [],
+    "storedParty": {
+        "leader": 0,
+        "followers": [],
+        "others": []
+    },
+    "combatParty": [
+        {
+            "characterId": "ZALE"
+        },
+        {
+            "characterId": "VALERE"
+        }
+    ],
+    "cargoParty": [],
+    "guestPartyMembers": [],
+    "cryptSaveManagerSaveData": {
+        "favoriteMemorials": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "highlightedTeleporter": 0
+    },
+    "videoPlayerManagerSaveData": {
+        "viewedVideos": []
+    }
+}

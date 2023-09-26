@@ -1,0 +1,24 @@
+Ý{
+    "saveVersion": 0,
+    "general": {
+        "vibration": true,
+        "language": 0,
+        "crashReports": true
+    },
+    "audio": {
+        "masterVolume": 10,
+        "ambienceVolume": 10,
+        "environmentalVolume": 10,
+        "musicVolume": 10,
+        "sfxVolume": 10,
+        "uiVolume": 10,
+        "dialogVolume": 7
+    },
+    "video": {
+        "brightness": 5
+    },
+    "controls": {
+        "controllerMappings": [],
+        "swapSticks": false
+    }
+}
