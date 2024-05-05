@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Gold"</Description>
+      <LastState Value="99999" Activated="1" RealAddress="0053180C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>ys1plus.exe+13180C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Exp"</Description>
+      <LastState Value="99999" Activated="1" RealAddress="00531810"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>ys1plus.exe+131810</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"HP"</Description>
+      <LastState Value="255" Activated="1" RealAddress="005317FC"/>
+      <VariableType>Byte</VariableType>
+      <Address>ys1plus.exe+1317FC</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

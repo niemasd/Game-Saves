@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Gold"</Description>
+      <LastState Value="99999" Activated="1" RealAddress="0065D378"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>ys2plus.exe+25D378</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"Adol"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"HP"</Description>
+          <LastState Value="256" Activated="1" RealAddress="0065D35C"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>ys2plus.exe+25D35C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"MP"</Description>
+          <LastState Value="256" Activated="1" RealAddress="0065D364"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>ys2plus.exe+25D364</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"EXP"</Description>
+          <LastState Value="99999" RealAddress="0065D37C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>ys2plus.exe+25D37C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>10</ID>
+      <Description>"Tarf"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"HP"</Description>
+          <LastState Value="25" Activated="1" RealAddress="0065D380"/>
+          <VariableType>2 Bytes</VariableType>
+          <Address>ys2plus.exe+25D380</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"EXP"</Description>
+          <LastState Value="99999" RealAddress="0065D3A0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>ys2plus.exe+25D3A0</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Items"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"Herb"</Description>
+          <LastState Value="3" Activated="1" RealAddress="0065C8BA"/>
+          <VariableType>Byte</VariableType>
+          <Address>ys2plus.exe+25C8BA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"Apple"</Description>
+          <LastState Value="3" Activated="1" RealAddress="0065C8BC"/>
+          <VariableType>Byte</VariableType>
+          <Address>ys2plus.exe+25C8BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"Marle Flower"</Description>
+          <LastState Value="3" Activated="1" RealAddress="0065C8C0"/>
+          <VariableType>Byte</VariableType>
+          <Address>ys2plus.exe+25C8C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Cruberry"</Description>
+          <LastState Value="3" Activated="1" RealAddress="0065C8C4"/>
+          <VariableType>Byte</VariableType>
+          <Address>ys2plus.exe+25C8C4</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
