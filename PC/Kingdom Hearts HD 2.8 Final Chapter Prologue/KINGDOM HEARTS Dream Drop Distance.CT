@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Munny"</Description>
+      <LastState Value="999999" RealAddress="7FF77A39D97C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"KINGDOM HEARTS Dream Drop Distance.exe"+A4D97C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Droplets"</Description>
+      <LastState Value="999" RealAddress="7FF77A39D894"/>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"KINGDOM HEARTS Dream Drop Distance.exe"+A4D894</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
