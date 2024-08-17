@@ -4,16 +4,70 @@
     <CheatEntry>
       <ID>0</ID>
       <Description>"Munny"</Description>
-      <LastState Value="999999" RealAddress="7FF77A39D97C"/>
+      <LastState Value="999999" Activated="1" RealAddress="7FF7752DD97C"/>
       <VariableType>4 Bytes</VariableType>
       <Address>"KINGDOM HEARTS Dream Drop Distance.exe"+A4D97C</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>1</ID>
       <Description>"Droplets"</Description>
-      <LastState Value="999" RealAddress="7FF77A39D894"/>
+      <LastState Value="999" Activated="1" RealAddress="7FF7752DD894"/>
       <VariableType>2 Bytes</VariableType>
       <Address>"KINGDOM HEARTS Dream Drop Distance.exe"+A4D894</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Minigame Points"</Description>
+      <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"Balloon"</Description>
+          <LastState Value="3196770874" RealAddress="7FF775678A14"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS Dream Drop Distance.exe"+DE8A14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"Water Barrel"</Description>
+          <LastState Value="1065353216" RealAddress="7FF77568BE90"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS Dream Drop Distance.exe"+DFBE90</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"Candy Goggles"</Description>
+          <LastState Value="1060877168" RealAddress="7FF7756EAF80"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS Dream Drop Distance.exe"+E5AF80</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Dive Points"</Description>
+      <Options moAlwaysHideChildren="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"Balloons"</Description>
+          <LastState Value="0" RealAddress="7FF77565077C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"KINGDOM HEARTS Dream Drop Distance.exe"+DC077C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>9</ID>
+      <Description>"End Credits Points"</Description>
+      <LastState Value="1004" RealAddress="7FF775645E82"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>2 Bytes</VariableType>
+      <Address>"KINGDOM HEARTS Dream Drop Distance.exe"+DB5E82</Address>
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
