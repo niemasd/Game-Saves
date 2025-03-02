@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Gil"</Description>
+      <LastState Value="99999999" Activated="1" RealAddress="10A4072FAC"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>10A4072FAC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"Ability Points"</Description>
+      <LastState Value="999999" Activated="1" RealAddress="10A4072FBC"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>10A4072FBC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Materials"</Description>
+      <Options moAlwaysHideChildren="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>16</ID>
+          <Description>"Frozen Tear"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078D94"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078D94</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"Steelsilk"</Description>
+          <LastState Value="9999" Activated="1" RealAddress="10A4078DA4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078DA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"Wyrrite"</Description>
+          <LastState Value="9999" Activated="1" RealAddress="10A4078DB4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078DB4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"Meteorite"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078DC4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078DC4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"Gil Bug"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078DE4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078DE4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"Bloody Hide"</Description>
+          <LastState Value="9999" Activated="1" RealAddress="10A4078DF4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078DF4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"Magicked Ash"</Description>
+          <LastState Value="9999" Activated="1" RealAddress="10A4078E04"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078E04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"Sharp Fang"</Description>
+          <LastState Value="9999" Activated="1" RealAddress="10A4078E14"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078E14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"Dragon Talon"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078E24"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078E24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Gnarled Scales"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078E34"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078E34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"Black Blood"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078E44"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078E44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"Valley Madder"</Description>
+          <LastState Value="999" Activated="1" RealAddress="10A4078E54"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078E54</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"Clouded Eye"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078E64"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078E64</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"Minotaur Mane"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078E84"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078E84</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"Imperial Link"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078E94"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078E94</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"Goblin Coin"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078EA4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078EA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description>"Briar Clam Shell"</Description>
+          <LastState Value="999" Activated="1" RealAddress="10A4078EB4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078EB4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description>"Fallen Iron"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078EC4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078EC4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description>"Fire Shard"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078ED4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078ED4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"Bone Necklace"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078EE4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078EE4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>29</ID>
+          <Description>"Desert Rose"</Description>
+          <LastState Value="999" Activated="1" RealAddress="10A4078F04"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078F04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"Scarletite"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078F14"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078F14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description>"Empty Shard"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078F24"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078F24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"Liquid Flame"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078F34"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078F34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"Electrum"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078F44"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078F44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>34</ID>
+          <Description>"Coeurl Whiskers"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078F54"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078F54</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>35</ID>
+          <Description>"Earth Shard"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078F64"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078F64</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"Gelatinous Mass"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078F74"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078F74</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>38</ID>
+          <Description>"Earthen Fury"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078F84"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078F84</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description>"Grimalkin Hide"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078F94"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078F94</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>40</ID>
+          <Description>"Orichalcum"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078FA4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078FA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>41</ID>
+          <Description>"Bomb Ember"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078FB4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078FB4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>44</ID>
+          <Description>"Fallen Enigma"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078FE4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078FE4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>45</ID>
+          <Description>"Amber"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4078FF4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4078FF4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>47</ID>
+          <Description>"Morbol Flower"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079014"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079014</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>48</ID>
+          <Description>"Comet Feather"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079024"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079024</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>49</ID>
+          <Description>"Clutchmine"</Description>
+          <LastState Value="999" Activated="1" RealAddress="10A4079034"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079034</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>50</ID>
+          <Description>"Ice Shard"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079044"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079044</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>51</ID>
+          <Description>"Stained Loincloth"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079054"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079054</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>52</ID>
+          <Description>"Dark Shard"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079064"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079064</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description>"Behemoth Shackle"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079074"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079074</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>54</ID>
+          <Description>"Primitive Battlehorn"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079084"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079084</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>55</ID>
+          <Description>"Stone Tongue"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079094"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079094</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>56</ID>
+          <Description>"Darksteel"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A40790A4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A40790A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>57</ID>
+          <Description>"Living Tissue"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A40790B4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A40790B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>58</ID>
+          <Description>"Aqueous Humours"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A40790C4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A40790C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>59</ID>
+          <Description>"Omega Nodule"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A40790D4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A40790D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>60</ID>
+          <Description>"Ageless Tallow"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A40790E4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A40790E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>61</ID>
+          <Description>"Aqueous Orb"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A40790F4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A40790F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>62</ID>
+          <Description>"Ageless Millet"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079104"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079104</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>63</ID>
+          <Description>"Silver Penning"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079114"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079114</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>64</ID>
+          <Description>"Fool's Gold"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079124"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079124</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>65</ID>
+          <Description>"Bilious Scales"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079134"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079134</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>66</ID>
+          <Description>"Timeless Gardbrace"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079144"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079144</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>67</ID>
+          <Description>"Water Shard"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079154"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079154</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>68</ID>
+          <Description>"Aquamarine"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079164"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079164</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>69</ID>
+          <Description>"Notched Tang"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079174"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079174</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>70</ID>
+          <Description>"Aqueous Membrane"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A4079184"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079184</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>71</ID>
+          <Description>"Rhema"</Description>
+          <LastState Value="9999" Activated="1" RealAddress="10A4079194"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A4079194</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>72</ID>
+          <Description>"Eludium"</Description>
+          <LastState Value="99" Activated="1" RealAddress="10A40791A4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>10A40791A4</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
